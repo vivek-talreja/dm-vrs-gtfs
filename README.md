@@ -13,7 +13,7 @@ Can the VRS static timetable feed be trusted, reused and fed into an AI model, a
 - SHA-256: d0e2f61a1cf644c61a3aa6d3177315a4eae41c4e1ed78b8e6bd2f64f0c44f3b8
 - Feed version: VERSION__20250114_2327 · Valid: 2024-08-21 to 2025-03-30
 - Known limitation: this feed expired on 2025-03-30. Findings describe the timetable valid 2024-08-21 to 2025-03-30; the method applies unchanged to a current feed.
-- Archived copy of the exact file: <release asset link>
+- Archived copy of the exact file: https://github.com/vivek-talreja/dm-vrs-gtfs/archive/refs/tags/data-2026-11-07.zip
 
 ## What is in this repo
 | Folder | Content |
