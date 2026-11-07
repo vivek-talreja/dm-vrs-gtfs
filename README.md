@@ -9,9 +9,11 @@ Can the VRS static timetable feed be trusted, reused and fed into an AI model, a
 - Publisher: Verkehrsverbund Rhein-Sieg (VRS), VRS Open Data Service
 - Source URL: https://www.vrs.de/en/future-mobility/for-companies/open-data-service
 - Licence: Datenlizenz Deutschland – Zero – 2.0 (https://www.govdata.de/dl-de/zero-2-0)
-- Downloaded: 07.11.2026 · File: GTFS_VRS_mit_SPNV_1.zip (16.4 MB)
+- Downloaded: 2026-11-07 · File: GTFS_VRS_mit_SPNV_1.zip (16.4 MB)
 - SHA-256: d0e2f61a1cf644c61a3aa6d3177315a4eae41c4e1ed78b8e6bd2f64f0c44f3b8
 - Feed version: VERSION__20250114_2327 · Valid: 2024-08-21 to 2025-03-30
+- Known limitation: this feed expired on 2025-03-30. Findings describe the timetable valid 2024-08-21 to 2025-03-30; the method applies unchanged to a current feed.
+- Archived copy of the exact file: <release asset link>
 
 ## What is in this repo
 | Folder | Content |
