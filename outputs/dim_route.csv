@@ -1,0 +1,619 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color,line_key
+100001,1,1,,H:Köln-Weiden West - Weiden Zentrum - Junkersdorf - Rheinenergie-Stadion - Braunsfeld - Rudolfplatz - Neumarkt - Bf Deutz/Messe - Kalk - Höhenberg - Merheim - Köln-Brück - Bergisch Gladbach-Lustheide - Refrath - Kippekausen - Frankenforst - Bergisch Gladbach-Bensberg | R:Bergisch Gladbach-Bensberg - Frankenforst - Kippekausen - Refrath - Bergisch Gladbach-Lustheide - Köln-Brück - Merheim - Höhenberg - Kalk - Bf Deutz/Messe - Neumarkt - Rudolfplatz - Braunsfeld - Rheinenergie-Stadion - Junkersdorf - Weiden Zentrum - Köln-Weiden West,0,E0071C,FFFFFF,1_1
+100003,1,3,,H:Köln Görlinger Zentrum - Bocklemünd - Bickendorf - Bf Ehrenfeld - Friesenplatz - Neumarkt - Severinstr. - Bf Deutz/LANXESS arena S - Koelnmesse - Stegerwaldsiedlung - Buchforst - Buchheim - Holweide - Dellbrück - Köln Thielenbruch | R:Köln Thielenbruch - Dellbrück - Holweide - Buchheim - Buchforst - Stegerwaldsiedlung - Koelnmesse - Bf Deutz/LANXESS arena S - Severinstr. - Neumarkt - Friesenplatz - Bf Ehrenfeld - Bickendorf - Bocklemünd - Köln Görlinger Zentrum,0,F29DC2,FFFFFF,1_3
+100004,1,4,,H:Köln-Bocklemünd - Bickendorf - Bf Ehrenfeld - Friesenplatz - Neumarkt - Severinstr. - Bf Deutz/LANXESS arena S - Koelnmesse - Stegerwaldsiedlung - Mülheim Wiener Platz - Höhenhaus - Köln-Dünnwald - Schlebusch | R:Schlebusch - Köln-Dünnwald - Höhenhaus - Mülheim Wiener Platz - Stegerwaldsiedlung - Koelnmesse - Bf Deutz/LANXESS arena S - Severinstr. - Neumarkt - Friesenplatz - Bf Ehrenfeld - Bickendorf - Köln-Bocklemünd,0,EA71A5,FFFFFF,1_4
+100005,1,5,,H:Köln Sparkasse Am Butzweilerhof - Ossendorf - Subbelrather Str. - Friesenplatz - Dom/Hbf - Rathaus - Köln Heumarkt | R:Köln Heumarkt - Rathaus - Dom/Hbf - Friesenplatz - Subbelrather Str. - Ossendorf - Köln Sparkasse Am Butzweilerhof,0,A69CC8,FFFFFF,1_5
+100007,1,7,,H:Frechen-Benzelrath - Frechen Rathaus - Köln-Marsdorf - Lindenthal - Stadtwaldgürtel - Melaten - Rudolfplatz - Neumarkt - Heumarkt - Deutz - Siegburger Str. - Poll - Westhoven - Ensen - Porz - Köln-Zündorf | R:Köln-Zündorf - Porz - Ensen - Westhoven - Poll - Siegburger Str. - Deutz - Heumarkt - Neumarkt - Rudolfplatz - Melaten - Stadtwaldgürtel - Lindenthal - Köln-Marsdorf - Frechen Rathaus - Frechen-Benzelrath,0,F08D51,FFFFFF,1_7
+100009,1,9,,H:Köln-Sülz - Universität - Zülpicher Platz - Neumarkt - Bf Deutz/Messe - Kalk - Vingst - Ostheim - Rath/Heumar - Köln-Königsforst | R:Köln-Königsforst - Rath/Heumar - Ostheim - Vingst - Kalk - Bf Deutz/Messe - Neumarkt - Zülpicher Platz - Universität - Köln-Sülz,0,F09086,FFFFFF,1_9
+100012,1,12,,H:Köln-Zollstock - Eifelstr. - Barbarossaplatz - Zülpicher Platz - Rudolfplatz - Friesenplatz - Hansaring - Ebertplatz - Nippes - Weidenpesch - Niehl Nord - Fordwerke - Köln-Merkenich | R:Köln-Merkenich - Fordwerke - Niehl Nord - Weidenpesch - Nippes - Ebertplatz - Hansaring - Friesenplatz - Rudolfplatz - Zülpicher Platz - Barbarossaplatz - Eifelstr. - Köln-Zollstock,0,98BF1D,FFFFFF,1_12
+100013,1,13,,H:Köln Sülzgürtel - Lindenthalgürtel - Stadtwaldgürtel - Melatengürtel - Ehrenfeldgürtel - Geldernstr./Parkgürtel - Neusser Str./Gürtel - Riehl - Mülheim Wiener Platz - Bf Mülheim - Buchheim - Köln-Holweide Vischeringstr. | R:Köln-Holweide Vischeringstr. - Buchheim - Bf Mülheim - Mülheim Wiener Platz - Riehl - Neusser Str./Gürtel - Geldernstr./Parkgürtel - Ehrenfeldgürtel - Melatengürtel - Stadtwaldgürtel - Lindenthalgürtel - Köln Sülzgürtel,0,A98567,FFFFFF,1_13
+100014,1,14,,H:Reichenspergerplatz - Dom/Hbf - Neumarkt - Deutz - Mülheim | R:Mülheim - Deutz - Neumarkt - Dom/Hbf - Reichenspergerplatz,0,B9348B,FFFFFF,1_14
+100015,1,15,,H:Köln Ubierring - Chlodwigplatz - Barbarossaplatz - Zülpicher Platz - Rudolfplatz - Friesenplatz - Hansaring - Ebertplatz - Nippes - Weidenpesch - Longerich - Köln-Chorweiler | R:Köln-Chorweiler - Longerich - Weidenpesch - Nippes - Ebertplatz - Hansaring - Friesenplatz - Rudolfplatz - Zülpicher Platz - Barbarossaplatz - Chlodwigplatz - Köln Ubierring,0,5AAC31,FFFFFF,1_15
+100016,1,16,,H:Bonn-Bad Godesberg - Heussallee/Museumsmeile - Bonn Hbf - Tannenbusch - Bornheim-Hersel - Urfeld - Wesseling - Rodenkirchen - Ubierring - Chlodwigplatz - Barbarossaplatz - Neumarkt - Dom/Hbf - Ebertplatz - Kinderkrankenhaus - Amsterdamer Str. - Köln-Niehl Sebastianstr. | R:Köln-Niehl Sebastianstr. - Amsterdamer Str. - Kinderkrankenhaus - Ebertplatz - Dom/Hbf - Neumarkt - Barbarossaplatz - Chlodwigplatz - Ubierring - Rodenkirchen - Wesseling - Urfeld - Bornheim-Hersel - Tannenbusch - Bonn Hbf - Heussallee/Museumsmeile - Bonn-Bad Godesberg,0,06ADA5,FFFFFF,1_16
+100017,1,17,,H:Köln Severinstraße - Chlodwigplatz - Bayenthal - Marienburg - Köln-Rodenkirchen - Sürth | R:Sürth - Köln-Rodenkirchen - Marienburg - Bayenthal - Chlodwigplatz - Köln Severinstraße,0,85D0F5,FFFFFF,1_17
+100018,1,18,,H:Bonn Hbf - Dransdorf - Alfter - Bornheim - Brühl - Hürth - Klettenberg - Barbarossaplatz - Neumarkt - Dom/Hbf - Ebertplatz - Zoo/Flora - Mülheim Wiener Platz - Bf Mülheim - Buchheim - Holweide - Dellbrück - Köln Thielenbruch | R:Köln Thielenbruch - Dellbrück - Holweide - Buchheim - Bf Mülheim - Mülheim Wiener Platz - Zoo/Flora - Ebertplatz - Dom/Hbf - Neumarkt - Barbarossaplatz - Köln-Klettenberg - Hürth - Brühl - Bornheim - Alfter - Dransdorf - Bonn Hbf,0,1D92D1,FFFFFF,1_18
+100104,1,104,,H:Leuchterstr. - Wiener Platz,3,000000,FFFFFF,1_104
+100106,1,106,,H:Köln-Marienburg Südpark - Bayenthalgürtel - Bonntor - Chlodwigplatz - Severinstr. - Waidmarkt - Köln Heumarkt | R:Köln Heumarkt - Waidmarkt - Severinstr. - Chlodwigplatz - Bonntor - Bayenthalgürtel - Köln-Marienburg Südpark,3,000000,FFFFFF,1_106
+100117,1,117,,H:Bonn Hbf - Beuel - Mondorf - Rheidt - Niederkassel - Lülsdorf - Köln-Porz-Langel - Zündorf - Wahn S | R:Wahn S - Zündorf - Köln-Porz-Langel - Lülsdorf - Niederkassel - Rheidt - Mondorf - Beuel - Bonn Hbf,3,000000,FFFFFF,1_117
+100118,1,118,,H:Mülheim Wiener Platz - Stegerwaldsiedlung - Zoo/Flora - Kinderkrankenhaus - Nippes - Neusser Str./Gürtel | R:Neusser Str./Gürtel - Nippes - Amsterdamer Str./Gürtel - Zoo/Flora - Stegerwaldsiedlung - Mülheim Wiener Platz,3,000000,FFFFFF,1_118
+100120,1,120,,H:Köln-Blumenberg - Köln-Chorweiler - Fühlingen - Worringen S - Köln-Roggendorf/Thenhoven | R:Köln-Roggendorf/Thenhoven - Worringen S - Fühlingen - Köln-Chorweiler - Köln-Blumenberg,3,000000,FFFFFF,1_120
+100121,1,121,,H:Köln-Langel - Rheinkassel - Merkenich - Edsel-Ford-Str. - Robert-Bosch-Str. - Merianstr. - Chorweiler - Volkhoven - Lindweiler - Longerich - Bilderstöckchen - Geldernstr./Parkgürtel - Köln Neusser Str./Gürtel | R:Köln Neusser Str./Gürtel - Geldernstr./Parkgürtel - Bilderstöckchen - Longerich - Lindweiler - Volkhoven - Chorweiler - Merianstr. - Robert-Bosch-Str. - Edsel-Ford-Str. - Merkenich - Rheinkassel - Köln-Langel,3,000000,FFFFFF,1_121
+100122,1,122,,H:Köln-Pesch - Chorweiler - Heimersdorf - Seeberg - Köln-Weidenpesch | R:Köln-Weidenpesch - Seeberg - Heimersdorf - Chorweiler - Köln-Pesch,3,000000,FFFFFF,1_122
+100123,1,123,,H:Köln-Chorweiler - Lindweiler - Pesch - Auweiler - Esch - Worringen - Köln-Chorweiler | R:Köln-Chorweiler - Worringen - Esch - Auweiler - Pesch - Lindweiler - Köln-Chorweiler,3,000000,FFFFFF,1_123
+100124,1,124,,H:Breslauer Platz/Hbf - Gewerbegebiet Feldkassel | R:Gewerbegebiet Feldkassel - Breslauer Platz/Hbf,3,000000,FFFFFF,1_124
+100125,1,125,,H:Köln-Weiler - Chorweiler - Heimersdorf - Longerich - Pesch - Auweiler - Köln-Esch - Pulheim-Sinnersdorf | R:Pulheim-Sinnersdorf - Köln-Esch - Auweiler - Pesch - Longerich - Heimersdorf - Chorweiler - Köln-Weiler,3,000000,FFFFFF,1_125
+100126,1,126,,H:Köln-Bocklemünd - Mengenich - Pesch - Auweiler - Esch - Weiler - Köln-Chorweiler | R:Köln-Chorweiler - Weiler - Esch - Auweiler - Pesch - Mengenich - Köln-Bocklemünd,3,000000,FFFFFF,1_126
+100127,1,127,,H:Ebertplatz - Hansaring - Krefelder Str. - Sechzigstr. - Geldernstr./Parkgürtel - Bilderstöckchen - Ossendorf - Mengenich - Pesch - Longerich - Köln Longericher Str. | R:Köln Longericher Str. - Longerich - Pesch - Mengenich - Ossendorf - Bilderstöckchen - Geldernstr./Parkgürtel - Sechzigstr. - Krefelder Str. - Hansaring - Ebertplatz,3,000000,FFFFFF,1_127
+100130,1,130,,H:Köln-Sürth - Sürther Feld - Rodenkirchen - Marienburg - Bayenthalgürtel - Raderberggürtel - Zollstockgürtel - Sülzgürtel - Berrenrather Str. - Köln Universität | R:Köln Universität - Berrenrather Str. - Sülzgürtel - Zollstockgürtel - Raderberggürtel - Bayenthalgürtel - Marienburg - Rodenkirchen - Sürther Feld - Köln-Sürth,3,000000,FFFFFF,1_130
+100131,1,131,,H:Köln-Sürth - Weiß - Rodenkirchen - Hochkirchen - Rondorf - Steinneuerhof - Höningen - Raderthal - Südfriedhof - Zollstock - Gottesweg - Köln-Sülz | R:Köln-Sülz - Gottesweg - Zollstock - Südfriedhof - Raderthal - Höningen - Steinneuerhof - Rondorf - Hochkirchen - Rodenkirchen - Weiß - Köln-Sürth,3,000000,FFFFFF,1_131
+100132,1,132,,H:Köln-Meschenich - Rondorf - Hochkirchen - Arnoldshöhe - Bonner Str. - Chlodwigplatz - Severinstr. - Waidmarkt - Heumarkt - Köln Breslauer Platz/Hbf | R:Köln Breslauer Platz/Hbf - Heumarkt - Waidmarkt - Severinstr. - Chlodwigplatz - Bonner Str. - Arnoldshöhe - Hochkirchen - Rondorf - Köln-Meschenich,3,000000,FFFFFF,1_132
+100133,1,133,,H:Köln-Zollstock Südfriedhof - Raderthal - Raderberg - Chlodwigplatz - Rheinauhafen - Schokoladenmuseum - Heumarkt - Köln Breslauer Platz/Hbf | R:Köln Breslauer Platz/Hbf - Heumarkt - Schokoladenmuseum - Rheinauhafen - Chlodwigplatz - Raderberg - Raderthal - Köln-Zollstock Südfriedhof,3,000000,FFFFFF,1_133
+100134,1,134,,H:Sürth - Weiß - Rodenkirchen - Bayenthal - Raderberg - Zollstock - Sülzgürtel - Universität | R:Universität - Sülzgürtel - Zollstock - Raderberg - Bayenthal - Rodenkirchen - Weiß - Köln-Sürth,3,000000,FFFFFF,1_134
+100135,1,135,,H:Köln-Rodenkirchen Uferstr. - Rodenkirchen Bf - Hahnwald - Godorf - Immendorf - Köln-Meschenich | R:Köln-Meschenich - Immendorf - Godorf - Hahnwald - Rodenkirchen Bf - Köln-Rodenkirchen Uferstr.,3,000000,FFFFFF,1_135
+100136,1,136,,H:Lövenich - Weiden - Junkersdorf - Hohenlind - Lindenthal - Hildegardis-Krankenhaus - Rudolfplatz - Neumarkt | R:Neumarkt - Rudolfplatz - Hildegardis-Krankenhaus - Lindenthal - Hohenlind - Junkersdorf - Weiden - Lövenich,3,000000,FFFFFF,1_136
+100138,1,138,,H:Köln Güterverkehrszentrum - Oberer Komarweg - Köln-Zollstock Südfriedhof | R:Köln-Zollstock Südfriedhof - Oberer Komarweg - Köln Güterverkehrszentrum,3,000000,FFFFFF,1_138
+100139,1,139,,H:Wasseramselweg - Bickendorf - Erlenweg - Gewerbegebiet Ossendorf - Longerich - Köln-Longericher Str. | R:Köln-Longericher Str. - Longerich - Gewerbegebiet Ossendorf - Erlenweg - Bickendorf - Wasseramselweg,3,000000,FFFFFF,1_139
+100140,1,140,,H:Köln Ebertplatz - Zoo/Flora - Riehl - Neusser Str./Gürtel - Mauenheim - Bilderstöckchen - Bickendorf - Müngersdorf S/Technologiepark - Josef-Lammerting-Allee - Köln-Braunsfeld Aachener Gürtel | R:Köln-Braunsfeld Aachener Gürtel - Josef-Lammerting-Allee - Müngersdorf S/Technologiepark - Bickendorf - Bilderstöckchen - Mauenheim - Neusser Str./Gürtel - Riehl - Zoo/Flora - Köln Ebertplatz,3,000000,FFFFFF,1_140
+100141,1,141,,H:Weiden - Lövenich - Junkersdorf - Müngersdorf - Technologiepark Köln - Ehrenfeld - Bickendorf - Bocklemünd | R:Bocklemünd - Bickendorf - Ehrenfeld - Technologiepark Köln - Müngersdorf - Junkersdorf - Lövenich - Weiden,3,000000,FFFFFF,1_141
+100142,1,142,,H:Köln Ubierring - Chlodwigplatz - Zollstock - Universität - Bf Ehrenfeld - Neu-Ehrenfeld - Nippes S - Köln-Nippes Merheimer Platz | R:Köln-Nippes Merheimer Platz - Nippes S - Neu-Ehrenfeld - Bf Ehrenfeld - Universität - Zollstock - Chlodwigplatz - Köln Ubierring,3,000000,FFFFFF,1_142
+100143,1,143,,H:Marsdorf - Junkersdorf - Müngersdorf - Technologiepark Köln - Ehrenfeld - Bickendorf - Vogelsang - Bocklemünd | R:Bocklemünd - Vogelsang - Bickendorf - Ehrenfeld - Technologiepark Köln - Müngersdorf - Junkersdorf - Marsdorf,3,000000,FFFFFF,1_143
+100144,1,144,,H:Köln-Lövenich - Müngersdorf - Gewerbegebiet Vogelsang | R:Gewerbegbiet Vogelsang - Müngersdorf - Köln-Lövenich,3,000000,FFFFFF,1_144
+100145,1,145,,H:Bachem - Frechen - Weiden - Lövenich - Widdersdorf - Bocklemünd | R:Bocklemünd - Widdersdorf - Lövenich - Weiden - Frechen - Bachem,3,000000,FFFFFF,1_145
+100146,1,146,,H:Köln Deckstein - Gleueler Str. - Rudolfplatz - Köln Neumarkt | R:Köln Neumarkt - Rudolfplatz - Gleueler Str. - Köln Deckstein,3,000000,FFFFFF,1_146
+100147,1,147,,H:Köln-Bilderstöckchen - Geldernstr./Parkgürtel - Florastr. - Neusser Str./Gürtel - Köln-Niehl Nord | R:Köln-Niehl Nord - Neusser Str./Gürtel - Florastr. - Geldernstr./Parkgürtel - Köln-Bilderstöckchen,3,000000,FFFFFF,1_147
+100148,1,148,,H:Junkersdorf - Weiden - Lövenich - Widdersdorf | R:Widdersdorf - Lövenich - Weiden - Junkersdorf,3,000000,FFFFFF,1_148
+100149,1,149,,H:Junkersdorf - Weiden - Lövenich - Widdersdorf | R:Widdersdorf - Lövenich - Weiden - Junkersdorf,3,000000,FFFFFF,1_149
+100150,1,150,,H:Kalk - Bf Deutz/Messe - Thermalbad - Mülheim | R:Mülheim - Thermalbad - Bf Deutz/Messe - Kalk,3,000000,FFFFFF,1_150
+100151,1,151,,H:Köln-Porz Markt - Bf Porz - Urbach - Eil - Gremberghoven - Hansestraße Ost - Ostheim - Höhenberg - Bf Mülheim - Mülheim Wiener Platz - Bruder-Klaus-Siedlung - Stammheim - Köln-Flittard - Leverkusen Chempark S | R:Leverkusen Chempark S - Köln-Flittard - Stammheim - Bruder-Klaus-Siedlung - Mülheim Wiener Platz - Bf Mülheim - Höhenberg - Ostheim - Hansestraße Ost - Gremberghoven - Eil - Urbach - Bf Porz - Köln-Porz Markt,3,000000,FFFFFF,1_151
+100152,1,152,,H:Köln-Porz Markt - Bf Porz - Urbach - Eil - Steinstr. - Gremberghoven - Ostheim - Höhenberg - Bf Mülheim - Mülheim Wiener Platz - Bruder-Klaus-Siedlung - Stammheim - Köln-Flittard - Leverkusen Chempark S | R:Leverkusen Chempark S - Köln-Flittard - Stammheim - Bruder-Klaus-Siedlung - Mülheim Wiener Platz - Bf Mülheim - Höhenberg - Ostheim - Gremberghoven - Steinstr. - Eil - Urbach - Bf Porz - Köln-Porz Markt,3,000000,FFFFFF,1_152
+100153,1,153,,H:Köln Bf Deutz/LANXESS arena - Humboldt - Gremberg - Vingst - Höhenberg - Buchheim - Bf Mülheim - Mülheim Wiener Platz - Stammheim - Köln Neuer Mülheimer Friedhof | R:Köln Neuer Mülheimer Friedhof - Stammheim - Mülheim Wiener Platz - Bf Mülheim - Buchheim - Höhenberg - Vingst - Gremberg - Humboldt - Köln Bf Deutz/LANXESS arena,3,000000,FFFFFF,1_153
+100154,1,154,,H:Köln-Porz Markt - Porz Steinstr. - Steinstr. - Rath/Heumar - Königsforst - Brück - Dellbrück - Köln-Dünnwald | R:Köln-Dünnwald - Dellbrück - Brück - Königsforst - Rath/Heumar - Steinstr. - Porz Steinstr. - Köln-Porz Markt,3,000000,FFFFFF,1_154
+100155,1,155,,H:Köln-Mülheim - Höhenhaus - Birkenweg - Dünnwald - Köln-Stammheim | R:Köln-Stammheim - Dünnwald - Birkenweg - Höhenhaus - Köln-Mülheim,3,000000,FFFFFF,1_155
+100156,1,156,,H:Köln-Mülheim Wiener Platz - Stammheim - Flittard - Dünnwald - Köln-Mülheim Wiener Platz | R:Köln-Mülheim Wiener Platz - Stammheim - Flittard - Dünnwald - Köln-Mülheim Wiener Platz,3,000000,FFFFFF,1_156
+100157,1,157,,H:Köln-Ostheim - Neubrück - Merheim - Eggerbachstr. - Holweide - Höhenhaus - Köln-Dünnwald Aeltgen-Dünwald-Str. | R:Köln-Dünnwald Aeltgen-Dünwald-Str. - Höhenhaus - Holweide - Eggerbachstr. - Merheim - Neubrück - Köln-Ostheim,3,000000,FFFFFF,1_157
+100158,1,158,,H:Köln-Merheim - Klinikum Merheim - Köln LVR Kliniken | R:Köln LVR Kliniken - Klinikum Merheim - Köln-Merheim,3,000000,FFFFFF,1_158
+100159,1,159,,H:Köln-Poll - Humboldt - Gremberg - Trimbornstr. - Kalk - Buchforst - Mülheim Wiener Platz - Buchheim Herler Str. | R:Buchheim Herler Str. - Mülheim Wiener Platz - Buchforst - Kalk - Trimbornstr. - Gremberg - Humboldt - Köln-Poll,3,000000,FFFFFF,1_159
+100160,1,160,,H:Köln-Porz Markt - Bf Porz - Eil - Urbach - Grengel - Wahnheide - Wahn - Köln-Porz Linder Mauspfad | R:Köln-Porz Linder Mauspfad - Wahn - Wahnheide - Grengel - Urbach - Eil - Bf Porz - Köln-Porz Markt,3,000000,FFFFFF,1_160
+100161,1,161,,H:Köln-Porz Markt - Bf Porz - Grengel - Köln/Bonn Flughafen | R:Köln/Bonn Flughafen - Grengel - Bf Porz - Köln-Porz Markt,3,000000,FFFFFF,1_161
+100162,1,162,,H:Köln-Porz Markt - Bf Porz - Urbach - Elsdorf - Wahn - Köln-Porz-Lind DLR | R:Köln-Porz-Lind DLR - Wahn - Elsdorf - Urbach - Bf Porz - Köln-Porz Markt,3,000000,FFFFFF,1_162
+100165,1,165,,H:Köln-Porz Markt - Bf Porz - Eil - Steinstr. - Köln-Porz Markt | R:Köln-Porz Markt - Steinstr. - Eil - Bf Porz - Köln-Porz Markt,3,000000,FFFFFF,1_165
+100166,1,166,,H:Köln-Porz Markt - Bf Porz - Urbach - Grengel - Elsdorf - Bf Porz - Köln-Porz Markt | R:Köln-Porz Markt - Bf Porz - Elsdorf - Grengel - Urbach - Bf Porz - Köln-Porz Markt,3,000000,FFFFFF,1_166
+100167,1,167,,H:Abendbuslinie: Köln-Wahn - Wahn - Wahnheide - Lind - Köln-Wahn | R:Abendbuslinie: Köln-Wahn - Lind - Wahnheide - Wahn - Köln-Wahn,3,000000,FFFFFF,1_167
+100171,1,171,,H:Breslauer Platz/Hbf - Offenbachplatz - Severinsbrücke - Kalk - Mülheim Wiener Platz | R:Mülheim Wiener Platz - Kalk - Severinsbrücke - Offenbachplatz - Breslauer Platz/Hbf,3,000000,FFFFFF,1_171
+100172,1,172,,H:Widdersdorf - Lövenich - Weiden - Aachener Straße - Bf West - Dom/Hbf | R:Dom/Hbf - Bf West - Aachener Straße - Weiden - Lövenich - Widdersdorf,3,000000,FFFFFF,1_172
+100173,1,173,,H:Weiden - Junkersdorf - Aachener Straße - Bf West - Dom/Hbf | R:Dom/Hbf - Bf West - Aachener Straße - Junkersdorf - Weiden,3,000000,FFFFFF,1_173
+100191,1,191,,H:Köln-Ostheim - Alter Deutzer Postweg - Lina-Bommer-Weg - Bertha-Benz-Karree | R:Bertha-Benz-Karree - Alter Deutzer Postweg - Lina-Bommer-Weg - Köln-Ostheim,3,000000,FFFFFF,1_191
+100192,1,192,,H:Köln-Meschenich Kirche - Hürth-Kalscheuren Bf | R:Hürth-Kalscheuren Bf - Köln-Meschenich Kirche,3,000000,FFFFFF,1_192
+100193,1,193,,H:Köln-Kalk Corintostr. - Heinrich-Bützler-Str. | R:Heinrich-Bützler-Str. - Köln-Kalk Corintostr.,3,000000,FFFFFF,1_193
+100195,1,195,,H:Buchheim Herler Str. - Kochwiesenstr. | R:Kochwiesenstr. - Buchheim Herler Str.,3,000000,FFFFFF,1_195
+100196,1,196,,H:Köln Bf Deutz/LANXESS arena - Köln Am grauen Stein | R:Köln Am grauen Stein - Köln Bf Deutz/LANXESS arena,3,000000,FFFFFF,1_196
+1100301,11,301,,H:Gummersbach - Derschlag - Bergneustadt - Pernze - (Drolshagen - Olpe) | R:(Olpe - Drolshagen) - Pernze - Bergneustadt - Derschlag - Gummersbach,3,000000,FFFFFF,11_301
+1100302,11,302,,H:Gummersbach - Wiehl - Nümbrecht - Waldbröl | R:Waldbröl - Nümbrecht - Wiehl - Gummersbach,3,000000,FFFFFF,11_302
+1100303,11,303,,H:Gummersbach - Eckenhagen - Denklingen - Waldbröl | R:Waldbröl - Denklingen - Eckenhagen - Gummersbach,3,000000,FFFFFF,11_303
+1100304,11,304,,H:Gummersbach - Wiehl - Denklingen Rathaus - Morsbach | R:Morsbach - Denklingen Rathaus - Wiehl - Gummersbach,3,000000,FFFFFF,11_304
+1100306,11,306,,H:Gummersbach - Dieringhausen - Marienhagen - Berghausen - Wiehl | R:Wiehl - Berghausen - Marienhagen - Dieringhausen - Gummersbach,3,000000,FFFFFF,11_306
+1100307,11,307,,H:Gummersbach - Berghausen - Frielingsdorf - Lindlar | R:Lindlar - Frielingsdorf - Berghausen - Gummersbach,3,000000,FFFFFF,11_307
+1100308,11,308,,H:Marienheide - Hütte - Erlinghagen - Berghausen - Frielingsdorf | R:Frielingsdorf - Berghausen - Erlinghagen - Hütte - Marienheide,3,000000,FFFFFF,11_308
+1100310,11,310,,H:Gummersbach - Dieringhausen - Ründeroth - Engelskirchen - Overath | R:Overath - Engelskirchen - Ründeroth - Dieringhausen - Gummersbach,3,000000,FFFFFF,11_310
+1100311,11,311,,H:Nümbrecht - Oberbreidenbach - Diezenkausen - Waldbröl | R:Waldbröl - Diezenkausen - Oberbreidenbach - Nümbrecht,3,000000,FFFFFF,11_311
+1100312,11,312,,H:Waldbröl - Nümbrecht - Homburg/Bröl - Bielstein - Ründeroth | R:Ründeroth - Bielstein - Homburg/Bröl - Nümbrecht - Waldbröl,3,000000,FFFFFF,11_312
+1100313,11,313,,H:Bergneustadt - Neuenothe - Belmicke - Attenbach | R:Attenbach - Belmicke - Neuenothe - Bergneustadt,3,000000,FFFFFF,11_313
+1100314,11,314,,H:Bergneustadt - Leienbach - Hackenberg - Bergneustadt | R:Bergneustadt - Hackenberg - Leienbach - Bergneustadt,3,000000,FFFFFF,11_314
+1100315,11,315,,H:Bergneustadt - Stadtwald - Bergneustadt,3,000000,FFFFFF,11_315
+1100316,11,316,,H:Gummersbach - Strombach - Berghausen - Engelskirchen | R:Engelskirchen - Berghausen - Strombach - Gummersbach,3,000000,FFFFFF,11_316
+1100317,11,317,,H:Gummersbach - Rospe - Strombach - Ründeroth | R:Ründeroth - Strombach - Rospe - Gummersbach,3,000000,FFFFFF,11_317
+1100318,11,318,,H:Gummersbach - Becke - Niedernhagen - Lieberhausen - Piene - (Pernze) | R:(Pernze) - Piene - Lieberhausen - Niedernhagen - Becke - Gummersbach,3,000000,FFFFFF,11_318
+1100319,11,319,,H:Much - Drabenderhöhe - Bielstein - Ründeroth | R:Ründeroth - Bielstein - Drabenderhöhe - Much,3,000000,FFFFFF,11_319
+1100320,11,320,,H:Marienheide - Meinerzhagen | R:Meinerzhagen - Marienheide,3,000000,FFFFFF,11_320
+1100321,11,321,,H:Wiehl - Volkenrath - Eckenhagen | R:Eckenhagen - Volkenrath - Wiehl,3,000000,FFFFFF,11_321
+1100323,11,323,,H:Drabenderhöhe - Marienberghausen - Schönthal/Elsenroth - Niederbreidenbach/Stockheim - Nümbrecht | R:Nümbrecht - Niederbreidenbach/Stockheim - Schönthal/Elsenroth - Marienberghausen - (Drabenderhöhe),3,000000,FFFFFF,11_323
+1100324,11,324,,H:Wiehl - Nümbrecht | R:Nümbrecht - Wiehl,3,000000,FFFFFF,11_324
+1100325,11,325,,H:Wiehl - Morkepütz - Bomig - Dieringhausen | R:Dieringhausen - Bomig - Morkepütz - Wiehl,3,000000,FFFFFF,11_325
+1100331,11,331,,H:Engelskirchen - Remshagen - Frielingsdorf - Schmidt & Clemens | R:Schmidt & Clemens - Frielingsdorf - Remshagen - Engelskirchen,3,000000,FFFFFF,11_331
+1100332,11,332,,H:Engelskirchen Krankenhaus - Lindlar - Hartegasse - Frielingsdorf - Scheel | R:Scheel - Frielingsdorf - Hartegasse - Lindlar - Engelskirchen Krankenhaus,3,000000,FFFFFF,11_332
+1100333,11,333,,H:Lindlar Freilichtmuseum - Lindlar - Frielingsdorf - Dohrgaul - Wipperfürth | R:Wipperfürth - Dohrgaul - Frielingsdorf - Lindlar - Lindlar Freilichtmuseum,3,000000,FFFFFF,11_333
+1100334,11,334,,H:Wipperfürth - Agathaberg - Hartegasse - Lindlar - Eichholz - Engelskirchen | R:Engelskirchen - Eichholz - Lindlar - Hartegasse - Agathaberg - Wipperfürth,3,000000,FFFFFF,11_334
+1100335,11,335,,H:Lindlar - Biesfeld - Herrenstrunden | R:Herrenstrunden - Biesfeld - Lindlar,3,000000,FFFFFF,11_335
+1100336,11,336,,H:Gummersbach - Marienheide - Wipperfürth - Hückeswagen - Remscheid-Lennep | R:Remscheid-Lennep - Hückeswagen - Wipperfürth - Marienheide - Gummersbach,3,000000,FFFFFF,11_336
+1100337,11,337,,H:Wipperfürth - Neye - Egen - Wipperfürth,3,000000,FFFFFF,11_337
+1100338,11,338,,H:Wipperfürth - Wasserfuhr - Kupferberg - Kreuzberg - Wipperfürth | R:Wipperfürth - Kreuzberg - Kupferberg - Wasserfuhr - Wipperfürth,3,000000,FFFFFF,11_338
+1100339,11,339,,H:Hückeswagen - Radevormwald - Wellringrade - Schlagbaum | R:Schlagbaum - Wellringrade - Radevormwald - Hückeswagen,3,000000,FFFFFF,11_339
+1100340,11,340,,H:Waldbröl - Wallerhausen - Holpe - Morsbach | R:Morsbach - Holpe - Wallerhausen - Waldbröl,3,000000,FFFFFF,11_340
+1100342,11,342,,H:Waldbröl - Spurkenbach - Schladern - Rosbach | R:Rosbach - Schladern - Spurkenbach - Waldbröl,3,000000,FFFFFF,11_342
+1100343,11,343,,H:Waldbröl - Helten - Kohlberg - Rosbach | R:Rosbach - Kohlberg - Helten - Waldbröl,3,000000,FFFFFF,11_343
+1100344,11,344,,H:Waldbröl - Erblingen/Holpe - Kohlberg - Rosbach | R:Rosbach - Kohlberg - Erblingen/Holpe - Waldbröl,3,000000,FFFFFF,11_344
+1100345,11,345,,H:Eckenhagen - Wildbergerhütte - Waldbröl | R:Waldbröl - Wildbergerhütte - Eckenhagen,3,000000,FFFFFF,11_345
+1100346,11,346,,H:Nümbrecht - Berkenroth/Harscheid - Harscheid/Niederbreidenbach - Nümbrecht | R:Nümbrecht - Harscheid/Niederbreidenbach - Berkenroth/Oberelben - Nümbrecht,3,000000,FFFFFF,11_346
+1100347,11,347,,H:Waldbröl - Bladersbach - Harscheid | R:Harscheid - Bladersbach - Waldbröl,3,000000,FFFFFF,11_347
+1100348,11,348,,H:Derschlag - Marienhagen - Dieringhausen | R:Dieringhausen - Marienhagen - Derschlag,3,000000,FFFFFF,11_348
+1100349,11,349,,H:Morsbach - Ellingen - Korseifen - Morsbach,3,000000,FFFFFF,11_349
+1100361,11,361,,H:Gummersbach - Steinenbrück - Strombach | R:Strombach - Steinenbrück - Gummersbach,3,000000,FFFFFF,11_361
+1100362,11,362,,H:Gummersbach - Stadthalle - Steinberg - Gummersbach | R:Gummersbach - Steinberg - Stadthalle - Gummersbach,3,000000,FFFFFF,11_362
+1100363,11,363,,H:Gummersbach - Hepel - Gummersbach,3,000000,FFFFFF,11_363
+1100364,11,364,,H:Gummersbach - Bernberg - Gummersbach | R:Gummersbach - Bernberg - Gummersbach,3,000000,FFFFFF,11_364
+1100365,11,365,,H:Gummersbach - Berstig - Hanfgarten - Strombach | R:Strombach - Hanfgarten - Berstig - Gummersbach,3,000000,FFFFFF,11_365
+1100366,11,366,,H:(Gummersbach) - Strombach - Lobscheid - Dieringhausen | R:Dieringhausen - Lobscheid - Strombach - (Gummersbach),3,000000,FFFFFF,11_366
+1100375,11,336R,,H:Rönsahl Markt - Ohl - Rönsahl Markt | R:Rönsahl Markt - Ohl - Rönsahl Markt,3,000000,FFFFFF,11_336R
+1100398,11,398,,H:Lindlar - Köttingen - Schmitzhöhe | R:Schmitzhöhe - Köttingen - Lindlar,3,000000,FFFFFF,11_398
+1100426,11,426,,H:Bergisch Gladbach S - Dürscheid - Biesfeld - Kürten - Wipperfürth | R:Wipperfürth - Kürten - Biesfeld - Dürscheid - Bergisch Gladbach S,3,000000,FFFFFF,11_426
+1100427,11,427,,H:Bergisch Gladbach S - Eikamp - Bechen - Weiden - Olpe - Wipperfürth | R:Wipperfürth - Olpe - Weiden - Bechen - Eikamp - Bergisch Gladbach S,3,000000,FFFFFF,11_427
+1100429,11,429,,H:Biesfeld - Olpe - Wipperfürth | R:Wipperfürth - Olpe - Biesfeld,3,000000,FFFFFF,11_429
+1100626,11,626,,H:Radevormwald - Wuppertal-Oberbarmen | R:Wuppertal-Oberbarmen - Radevormwald,3,000000,FFFFFF,11_626
+1100671,11,671,,H:Radevormwald - Herbeck - Wassermühle - Lennep | R:Lennep - Wassermühle - Herbeck - Radevormwald,3,000000,FFFFFF,11_671
+1200740,12,740,,H:Rheinbach Bf - Neukirchen - Kurtenberg - Todenfeld/Hilberath | R:Todenfeld/Hilberath - Kurtenberg - Neukirchen - Rheinbach Bf,3,000000,FFFFFF,12_740
+1200741,12,741,,H:Rheinbach Bf - Loch - Kurtenberg - Houverath - Wald | R:Wald - Houverath - Kurtenberg - Loch - Rheinbach Bf,3,000000,FFFFFF,12_741
+1200745,12,745,,H:Bornheimer Berghüpfer,3,000000,FFFFFF,12_745
+1200747,12,747,,H:Swisttaler Landhüpfer: Rheinbach Bf - Miel - Odendorf Kirche | R:Swisttaler Landhüpfer: Odendorf Kirche - Rheinbach Bf,3,000000,FFFFFF,12_747
+1200749,12,749,,H:Meckenheim Bf - Altendorf - Wormersdorf - Rheinbach Bf | R:Rheinbach Bf - Wormersdorf - Altendorf - Meckenheim Bf,3,000000,FFFFFF,12_749
+1200750,12,750,,H:Lüftelberg - Meckenheim | R:Meckenheim - Lüftelberg,3,000000,FFFFFF,12_750
+1200751,12,751,,H:Schulverkehr Swisttal | R:Schulverkehr Swisttal,3,000000,FFFFFF,12_751
+1200752,12,752,,H:Schulverkehr Rheinbach,3,000000,FFFFFF,12_752
+1200753,12,753,,H:Schulverkehr Bornheim | R:Schulverkehr Bornheim,3,000000,FFFFFF,12_753
+1200800,12,800,,H:Bonn Hbf - Bonn-Duisdorf S - Alfter-Witterschlick S - Meckenheim-Lüftelberg - Rheinbach S | R:Rheinbach S - Meckenheim-Lüftelberg - Alfter-Witterschlick S - Bonn-Duisdorf S - Bonn Hbf,3,000000,FFFFFF,12_800
+1200812,12,812,,"H:Bonn, Gaußstr. - Witterschlick S - Alfter-Volmershoven | R:Alfter-Volmershoven - Witterschlick S - Bonn, Gaußstr.",3,000000,FFFFFF,12_812
+1200813,12,813,,H:Rheinbacher Stadthüpfer | R:Rheinbacher Stadthüpfer,3,000000,FFFFFF,12_813
+1200817,12,817,,H:Rheinbach Bf - Swisttal-Heimerzheim - Bornheim - Bonn-Tannenbusch | R:Bonn-Tannenbusch - Bornheim - Swisttal-Heimerzheim - Rheinbach Bf,3,000000,FFFFFF,12_817
+1200818,12,818,,H:Sechtem Bf - Waldorf - Bornheim - Roisdorf Bf - Hersel | R:Hersel - Roisdorf Bf - Bornheim - Waldorf - Sechtem Bf,3,000000,FFFFFF,12_818
+1200842,12,842,,H:Bonn-Duisdorf Bf S - Alfter-Oedekoven - Alfter (Stadtbahn) - Bornheim-Roisdorf Bf - Bornheim-Mitte - Sechtem Bf | R:Sechtem Bf - Bornheim Mitte - Bornheim-Roisdorf Bf - Alfter (Stadtbahn) - Alfter-Oedekoven - Bonn-Duisdorf Bf S,3,000000,FFFFFF,12_842
+1200843,12,843,,H:Alfter - Duisdorf Bf - Röttgen - Meckenheim-Industriepark S | R:Meckenheim-Industriepark S - Röttgen - Duisdorf Bf - Alfter,3,000000,FFFFFF,12_843
+1200845,12,845,,H:Bonn Hbf - Duisdorf Bf - Swisttal-Buschhoven - Morenhoven - Swisttal-Heimerzheim | R:Swisttal-Heimerzheim - Morenhoven - Swisttal-Buschhoven - Duisdorf Bf - Bonn Hbf,3,000000,FFFFFF,12_845
+1200855,12,855,,H:Bonn-Bad Godesberg - Wachtberg-Villip - Meckenheim-Merl - Meckenheim Bf | R:Meckenheim Bf - Meckenheim-Merl - Wachtberg-Villip - Bonn-Bad Godesberg,3,000000,FFFFFF,12_855
+1200856,12,856,,H:Remagen-Oedingen - Wachtberg-Werthhoven - Berkum - Ließem - Lannesdorf - Bonn-Bad Godesberg | R:Bonn-Bad Godesberg - Lannesdorf - Ließem - Berkum - Wachtberg-Werthhoven - Remagen-Oedingen,3,000000,FFFFFF,12_856
+1200857,12,857,,H:Meckenheim Bf - Berkum - Niederbachem - Bonn-Mehlem - Bonn-Bad Godesberg | R:Bonn-Bad Godesberg - Bonn-Mehlem - Niederbachem - Berkum - Meckenheim Bf,3,000000,FFFFFF,12_857
+1200858,12,858,,H:Meckenheim Bf - Le-Mée-Platz - Merl - Meckenheim-Industriepark Bf | R:Meckenheim-Industriepark Bf - Merl - Le-Mée-Platz - Meckenheim Bf,3,000000,FFFFFF,12_858
+1200859,12,859,,H:Meckenheim-Lüftelberg - Meckenheim Industriepark Bf | R:Meckenheim Industriepark Bf - Meckenheim-Lüftelberg,3,000000,FFFFFF,12_859
+1200880,12,880,,H:TaxiBus: Berkum - Züllighoven - Oberbachem | R:TaxiBus: Oberbachem - Züllighoven - Berkum,3,000000,FFFFFF,12_880
+1200881,12,881,,H:Wachtberg-Pech - Villip - Berkum | R:Berkum - Villip - Wachtberg-Pech,3,000000,FFFFFF,12_881
+1200882,12,882,,H:Roisdorf Bf - Alfter - Roisdorf Bf (Rundverkehr) | R:Roisdorf Bf - Alfter - Roisdorf Bf (Rundverkehr),3,000000,FFFFFF,12_882
+1200884,12,884,,H:Bonn-Lessenich - Duisdorf Bf S - Alfter-Oedekoven - Gielsdorf | R:Gielsdorf - Alfter-Oedekoven - Duisdorf Bf S - Bonn-Lessenich,3,000000,FFFFFF,12_884
+1300081,13,SB81,,H:Kall Bf - Gemünd - Schleiden - Hellenthal | R:Hellenthal - Schleiden - Gemünd - Kall Bf,3,000000,FFFFFF,13_SB81
+1300082,13,SB82,,H:NationalparkShuttle: Kall Bf - Gemünd - Anlage Vogelsang - (Schleiden Busbf) | R:NationalparkShuttle: (Schleiden Busbf) - Anlage Vogelsang - Gemünd - Kall Bf,3,000000,FFFFFF,13_SB82
+13001026,130,RB26,,H:Köln - Brühl - Bonn - Remagen - Koblenz | R:Koblenz - Remagen - Bonn - Brühl - Köln,2,000000,FFFFFF,130_RB26
+1300760,13,760,,H:Schülerverkehr Blankenheim,3,000000,FFFFFF,13_760
+1300761,13,761,,H:Schülerverkehr Bad Münstereifel,3,000000,FFFFFF,13_761
+1300762,13,762,,H:Mülheim - Zülpich - Mechernich | R:Mechernich - Zülpich - Mülheim,3,000000,FFFFFF,13_762
+1300763,13,763,,H:Schülerverkehr Hellenthal,3,000000,FFFFFF,13_763
+1300764,13,764,,H:Schülerverkehr Kall,3,000000,FFFFFF,13_764
+1300765,13,765,,H:Schülerverkehr Nettersheim,3,000000,FFFFFF,13_765
+1300766,13,766,,H:Schülerverkehr Schleiden,3,000000,FFFFFF,13_766
+1300767,13,767,,H:Schülerverkehr Berufsschulen im Kreis Euskirchen,3,000000,FFFFFF,13_767
+1300768,13,768,,H:Schülerverkehr Hermann-Josef-Kolleg Steinfeld,3,000000,FFFFFF,13_768
+1300769,13,769,,H:Schülerverkehr Weilerswist,3,000000,FFFFFF,13_769
+1300772,13,772,,H:Citybus Bad Münstereifel | R:Citybus Bad Münstereifel,3,000000,FFFFFF,13_772
+1300773,13,773,,H:Mechernich - Kommern Freilichtmuseum | R:Kommern Freilichtmuseum - Mechernich,3,000000,FFFFFF,13_773
+1300774,13,774,,H:Schwerfen - Seepark - Zülpich | R:Zülpich - Seepark - Schwerfen,3,000000,FFFFFF,13_774
+1300801,13,801,,H:Euskirchen Bf - Kreuzweingarten - Bad Münstereifel-Arloff - Iversheim - Bad Münstereifel Bf | R:Bad Münstereifel Bf - Iversheim - Bad Münstereifel-Arloff - Kreuzweingarten - Euskirchen Bf,3,000000,FFFFFF,13_801
+1300802,13,802,,H:Euskirchen Bf - Flamersheim - Rheinbach | R:Rheinbach - Palmersheim - Euskirchen Bf,3,000000,FFFFFF,13_802
+1300807,13,807,,H:Euskirchen Bf - Friesheim - Lechenich - Erftstadt Bf | R:Erftstadt Bf - Lechenich - Friesheim - Euskirchen Bf,3,000000,FFFFFF,13_807
+1300808,13,808,,H:Euskirchen Bf - Kommern - Mechernich Bf- Kall Bf | R:Kall Bf -Mechernich Bf - Kommern - Euskirchen Bf,3,000000,FFFFFF,13_808
+1300809,13,809,,H:(Euskirchen) - Antweiler - Satzvey Bf - Mechernich | R:Mechernich - Satzvey Bf - Antweiler - (Euskirchen),3,000000,FFFFFF,13_809
+1300810,13,810,,H:Euskirchen - Schwerfen | R:Schwerfen - Euskirchen,3,000000,FFFFFF,13_810
+1300811,13,811,,H:Mechernich Bf - Schwerfen - Zülpich | R:Zülpich - Schwerfen - Mechernich Bf,3,000000,FFFFFF,13_811
+1300819,13,819,,H:Bad Münstereifel Bf - Mahlberg - Rupperath | R:Rupperath - Mahlberg - Bad Münstereifel Bf,3,000000,FFFFFF,13_819
+1300820,13,820,,H:Bouderath - Buir - Nettersheim Bf - Marmagen - Bahrhaus | R:Bahrhaus - Marmagen - Nettersheim Bf - Buir - Bouderath,3,000000,FFFFFF,13_820
+1300821,13,821,,H:Bad Münstereifel Bf - Nettersheim Bf | R:Nettersheim Bf - Bad Münstereifel Bf,3,000000,FFFFFF,13_821
+1300822,13,822,,H:Bad Münstereifel Bf - Schönau - Mutscheid - Ohlerath/Rupperath/Wershofen | R:Ohlerath/Rupperath/Wershofen - Mutscheid - Schönau - Bad Münstereifel Bf,3,000000,FFFFFF,13_822
+1300823,13,823,,H:Weilerswist Bf - Vernich - Lommersum - Weilerswist-Bodenheim | R:Weilerswist-Bodenheim - Lommersum - Vernich - Weilerswist Bf,3,000000,FFFFFF,13_823
+1300824,13,824,,H:Blankenheim - Buir - Holzmülheim - Bad Münstereifel Bf | R:Bad Münstereifel Bf - Holzmülheim - Buir - Blankenheim,3,000000,FFFFFF,13_824
+1300825,13,825,,H:Nettersheim-Tondorf - Blankenheim-Rohr - Lindweiler - Blankenheim-Lommersdorf | R:Freilingen - Lindweiler - Blankenheim-Rohr - Nettersheim-Tondorf,3,000000,FFFFFF,13_825
+1300828,13,828,,H:Bad Münstereifel Bf - Effelsberg - Houverath - Scheuren | R:Scheuren - Houverath - Effelsberg - Bad Münstereifel Bf,3,000000,FFFFFF,13_828
+1300829,13,829,,H:Kall Bf - Schleiden-Gemünd - Schleiden - Hellenthal | R:Hellenthal - Schleiden - Gemünd - Kall Bf,3,000000,FFFFFF,13_829
+1300830,13,830,,H:Zingsheim - Vussem - Mechernich Bf | R:Mechernich Bf - Vussem - Zingsheim,3,000000,FFFFFF,13_830
+1300831,13,831,,H:Gemünd - Dreiborn - Schleiden | R:Schleiden - Dreiborn - Gemünd,3,000000,FFFFFF,13_831
+1300832,13,832,,H:Blankenheim (Wald) Bf - Blankenheim - Ahrdorf | R:Ahrdorf - Blankenheim - Blankenheim (Wald) Bf,3,000000,FFFFFF,13_832
+1300833,13,833,,H:Blankenheim - Hüngersdorf - Blankenheim-Dollendorf/Waldorf | R:Blankenheim-Dollendorf/Waldorf - Hüngersdorf - Blankenheim,3,000000,FFFFFF,13_833
+1300834,13,834,,H:(Blankenheim) - Dahlem-Schmidtheim - Dahlem Bf - Kronenburg - Dahlem-Berk | R:Dahlem-Berk - Kronenburg - Dahlem Bf - Dahlem-Schmidtheim - (Blankenheim),3,000000,FFFFFF,13_834
+1300835,13,835,,H:Blankenheim (Wald) Bf - Sistig - Schleiden Busbf | R:Schleiden Busbf - Sistig - Blankenheim (Wald) Bf,3,000000,FFFFFF,13_835
+1300836,13,836,,H:(Hellenthal) - Schöneseiffen - Harperscheid - Schleiden | R:Schleiden - Harperscheid - Schöneseiffen - (Hellenthal),3,000000,FFFFFF,13_836
+1300837,13,837,,H:Hellenthal Busbf - Reifferscheid - Manscheid - Hellenthal-Hecken | R:Hellenthal-Hecken - Manscheid - Reifferscheid - Hellenthal Busbf,3,000000,FFFFFF,13_837
+1300838,13,838,,H:Hellenthal - Reifferscheid - Rescheid - Schnorrenberg | R:Schnorrenberg - Rescheid - Reifferscheid - Hellenthal,3,000000,FFFFFF,13_838
+1300839,13,839,,H:Hellenthal Busbf - Hollerath - Ramscheid - Udenbreth - Losheimergraben - Hellenthal-Losheim | R:Hellenthal-Losheim - Losheimergraben - Udenbreth - Ramscheid - Hollerath - Hellenthal Busbf,3,000000,FFFFFF,13_839
+1300869,13,869,,H:Euskirchen Bf - Kessenich - Weilerswist-Lommersum - Derkum Bf | R:Derkum Bf - Weilerswist-Lommersum - Kessenich - Euskirchen Bf,3,000000,FFFFFF,13_869
+1300885,13,885,,H:Manscheid - Kall Bf | R:Kall Bf - Manscheid,3,000000,FFFFFF,13_885
+1300886,13,886,,H:Blankenheim (Wald) - Marmagen - Kall Bf | R:Kall Bf - Marmagen - Blankenheim (Wald),3,000000,FFFFFF,13_886
+1300891,13,891,,H:Zingsheim - Kall Bf - Schleiden | R:Schleiden - Kall Bf - Zingsheim,3,000000,FFFFFF,13_891
+1300984,13,984,,H:Swisttal / Erftstadt / Zülpich - Weilerswist | R:Weilerswist - Swisttal / Erftstadt / Zülpich,3,000000,FFFFFF,13_984
+1300985,13,985,,H:Euskirchen Bf - Weilerswist-Derkum - Weilerswist Bf - Brühl Mitte (Stadtbahn) | R:Brühl Mitte (Stadtbahn) - Weilerswist Bf - Weilerswist-Derkum - Euskirchen Bf,3,000000,FFFFFF,13_985
+1300986,13,986,,H:Swisttal-Heimerzheim - Weilerswist-Metternich - Weilerswist Bf | R:Weilerswist Bf - Weilerswist-Metternich - Swisttal-Heimerzheim,3,000000,FFFFFF,13_986
+13901001,139,,RE1 (RRX),H:Aachen - Köln - Düsseldorf - Duisburg - Essen - Dortmund - Hamm | R:Hamm - Dortmund - Essen - Duisburg - Düsseldorf - Köln - Aachen,2,000000,FFFFFF,139_13901001
+13901005,139,,RE5 (RRX),H:Wesel - Oberhausen - Duisburg - Düsseldorf - Köln - Bonn - Koblenz | R:Koblenz - Bonn - Köln - Düsseldorf - Duisburg - Oberhausen - Wesel,2,FF6418,FFFFFF,139_13901005
+13901006,139,,RE6 (RRX),H:Köln - Dormagen - Neuss - Düsseldorf - Duisburg - Essen - Dortmund - Hamm - Bielefeld - Minden | R:Minden - Bielefeld - Hamm - Dortmund - Essen - Duisburg - Düsseldorf - Neuss - Dormagen - Köln,2,673BB8,FFFFFF,139_13901006
+13901007,139,RE7,,H:Rheine - Münster - Hamm - Hagen - Wuppertal - Köln - Neuss - Krefeld | R:Krefeld - Neuss - Köln - Wuppertal - Hagen - Hamm - Münster - Rheine,2,8FD400,FFFFFF,139_RE7
+13901048,139,RB48,,H:Wuppertal - Solingen - Köln - Bonn - Bonn-Mehlem | R:Bonn-Mehlem - Bonn - Köln - Solingen - Wuppertal,2,FFC82E,FFFFFF,139_RB48
+13914569,139,RB48X,,,3,000000,FFFFFF,139_RB48X
+1400040,14,SB40,,H:Köln Hbf - Refrath - Frankenforst - Bensberg | R:Bensberg - Frankenforst - Refrath - Köln Hbf,3,000000,FFFFFF,14_SB40
+1400400,14,400,,H:Berg. Gladbach S - Bensberg U | R:Bensberg U - Berg. Gladbach S,3,000000,FFFFFF,14_400
+1400419,14,419,,H:Overath - Marialinden | R:Marialinden - Overath,3,000000,FFFFFF,14_419
+1400420,14,420,,H:Bensberg U - Overath Bf | R:Overath Bf - Bensberg U,3,000000,FFFFFF,14_420
+1400421,14,421,,H:Bensberg U - Techno Park - Immekeppel - Lindlar | R:Lindlar - Immekeppel - Techno Park - Bensberg U,3,000000,FFFFFF,14_421
+1400422,14,422,,H:Immekeppel - Hoffnungsthal - Rösrath Bf | R:Rösrath Bf - Hoffnungsthal - Immekeppel,3,000000,FFFFFF,14_422
+1400423,14,423,,H:Bensberg U - Rösrath Bf - Königsforst - Flughafen Köln/Bonn | R:Flughafen Köln/Bonn - Königsforst - Rösrath Bf - Bensberg U,3,000000,FFFFFF,14_423
+1400425,14,425,,H:Bürgerbus Overath | R:Bürgerbus Overath,3,000000,FFFFFF,14_425
+1400440,14,440,,H:Immekeppel - Untereschbach - Hurden - Hohkeppel | R:Hohkeppel - Hurden - Untereschbach - Immekeppel,3,000000,FFFFFF,14_440
+1400441,14,441,,H:Hoffnungsthal Bf - Durbusch - Hoffnungsthal Bf | R:Hoffnungsthal Bf - Durbusch - Hoffnungsthal Bf,3,000000,FFFFFF,14_441
+1400442,14,442,,,3,000000,FFFFFF,14_442
+1400443,14,443,,,3,000000,FFFFFF,14_443
+1400444,14,444,,,3,000000,FFFFFF,14_444
+1400445,14,445,,,3,000000,FFFFFF,14_445
+1400446,14,446,,H:Stadverkehr Rösrath: Dammelsfurter Weg - Schulzentrum | R:Stadtverkehr Rösrath: Schulzentrum - Dammelsfurter Weg,3,000000,FFFFFF,14_446
+1400448,14,448,,H:Overath Bf - Rappenhohn - Hufe - Vilkerath | R:Vilkerath - Hufe - Rappenhohn - Overath Bf,3,000000,FFFFFF,14_448
+1400453,14,453,,H:Bergisch Gladbach S - Herkenrath - Grünenbäumchen/Oberkülheim | R:Grünenbäumchen/Oberkülheim - Herkenrath - Bergisch Gladbach S,3,000000,FFFFFF,14_453
+1400454,14,454,,H:Bensberg U - Techno Park - Herkenrath - Kürten Bechen | R:Kürten Bechen - Herkenrath - Techno Park - Bensberg U,3,000000,FFFFFF,14_454
+1400455,14,455,,H:Bergisch Gladbach S - Bensberg U - Herkenrath | R:Herkenrath - Bensberg U - Bergisch Gladbach S,3,000000,FFFFFF,14_455
+1400456,14,456,,H:Bergisch Gladbach S - Hand | R:Hand - Bergisch Gladbach S,3,000000,FFFFFF,14_456
+1400457,14,457,,H:Stadthüpfer Bensberg | R:Stadthüpfer Bensberg,3,000000,FFFFFF,14_457
+1400485,14,N45,,H:Bergisch Gladbach S - Bensberg (Stadtbahn) - Herkenrath - Bergisch Gladbach S,3,000000,FFFFFF,14_N45
+1400486,14,N46,,H:Bergisch Gladbach S - Herkenrath - Bensberg (Stadtbahn) - Bergisch Gladbach S | R:Bergisch Gladbach S - Bensberg - Herkenrath - Bergisch Gladbach S,3,000000,FFFFFF,14_N46
+1400487,14,N47,,H:Bensberg - Overath - Marialinden - Bensberg | R:Bensberg - Marialinden - Overath - Bensberg,3,000000,FFFFFF,14_N47
+14101028,141,RB28,,H:Düren - Zülpich - Euskirchen | R:Euskirchen - Zülpich - Düren,2,000000,FFFFFF,141_RB28
+15101090,151,RB90,,H:Siegen - Betzdorf - Au (Sieg) - Altenkirchen - Westerburg | R:Westerburg - Altenkirchen - Au (Sieg) - Betzdorf - Siegen,2,000000,FFFFFF,151_RB90
+15101093,151,RB93,,H:Bad Berleburg - Erndtebrück - Hilchenbach - Siegen - Betzdorf | R:Betzdorf - Siegen - Hilchenbach - Erndtebrück - Bad Berleburg,2,000000,FFFFFF,151_RB93
+15101099,151,RE99,,H:Siegen - Haiger - Gießen - Frankfurt | R:Frankfurt - Gießen - Haiger - Siegen,2,000000,FFFFFF,151_RE99
+15101298,151,SEV,,,3,000000,FFFFFF,151_SEV
+15201007,152,RE7,,H:Rheine - Münster - Hamm - Hagen - Wuppertal - Köln - Neuss - Krefeld | R:Krefeld - Neuss - Köln - Wuppertal - Hagen - Hamm - Münster - Rheine,2,8FD400,FFFFFF,152_RE7
+1600240,16,240,,H:Lennep Bf - Bergisch Born - Industriegebiet - Wermelskirchen Busbf | R:Wermelskirchen Busbf - Industriegebiet - Bergisch Born - Lennep Bf,3,000000,FFFFFF,16_240
+1600252,16,252,,H:Solingen - Wupperhof/Glüder - Witzhelden - Paffenlöh - Burscheid | R:Burscheid - Paffenlöh - Witzhelden - Wupperhof/Glüder - Solingen,3,000000,FFFFFF,16_252
+1600258,16,258,,H:Leichlingen - Oberschmitte - Witzhelden - Hilgen | R:Hilgen - Witzhelden - Oberschmitte - Leichlingen,3,000000,FFFFFF,16_258
+1600260,16,260,,H:Remscheid - Bliedinghausen - Wermelskirchen - Burscheid-Hilgen - Leverkusen-Schlebusch - Köln-Mülheim - Köln Hbf | R:Köln Hbf - Köln-Mülheim - Leverkusen-Schlebusch - Burscheid-Hilgen - Wermelskirchen - Bliedinghausen - Remscheid,3,000000,FFFFFF,16_260
+1600261,16,261,,H:Wermelskirchen - Eipringhausen - Dhünn - Halzenberg - Hückeswagen | R:Hückeswagen - Halzenberg - Dhünn - Eipringhausen - Wermelskirchen,3,000000,FFFFFF,16_261
+1600263,16,263,,H:Wermelskirchen - Arnzhäuschen - Dabringhausen | R:Wermelskirchen - Dabringhausen - Grünenbäumchen - Wermelskirchen,3,000000,FFFFFF,16_263
+1600264,16,264,,H:Bürgerbus Wermelskirchen | R:Bürgerbus Wermelskirchen,3,000000,FFFFFF,16_264
+1600265,16,265,,H:Wermelskirchen - Linde - Dabringhausen | R:Dabringhausen - Linde - Wermelskirchen,3,000000,FFFFFF,16_265
+1600266,16,266,,H:Wermelskirchen - Pohlhausen - Hünger - Solingen-Burg (Wupper) | R:(Wupper)Solingen-Burg - Hünger - Pohlhausen - Wermelskirchen,3,000000,FFFFFF,16_266
+1600268,16,268,,H:Wermelskirchen Busbf - Buchholzen - Wermelskirchen Markt | R:Wermelskirchen Markt - Buchholzen - Wermelskirchen Busbf,3,000000,FFFFFF,16_268
+1600270,16,270,,H:Wermelskirchen Busbf - Krankenhaus | R:Krankenhaus - Wermelskirchen Busbf,3,000000,FFFFFF,16_270
+1600271,16,271,,H:Wermelskirchen Busbf - Am Stadtrand | R:Am Stadtrand - Wermelskirchen Busbf,3,000000,FFFFFF,16_271
+1600274,16,X24,,H:Leverkusen-Mitte Bf - Hilgen - Wermelskirchen Busbf | R:Wermelskirchen Busbf - Hilgen - Leverkusen-Mitte Bf,3,000000,FFFFFF,16_X24
+1600278,16,278,,H:Leichlingen - Pilgerheim - Witzhelden - Hilgen | R:Hilgen - Witzhelden - Pilgerheim - Leichlingen,3,000000,FFFFFF,16_278
+1600279,16,279,,H:Witzhelden - Leichlingen - Verbundschule Nord | R:Verbundschule Nord - Leichlingen - Witzhelden,3,000000,FFFFFF,16_279
+1600286,16,N26,,H:Nachtbus Wermelskirchen: Köln Hbf - Wermelskirchen | R:Nachtbus Wermelskirchen: Köln Hbf - Wermelskirchen,3,000000,FFFFFF,16_N26
+1600288,16,N28,,H:Nachtbus Leichlingen | R:Nachtbus Leichlingen,3,000000,FFFFFF,16_N28
+1700091,17,SB91,,H:Dormagen Bf - Worringen - Pulheim - Frechen - Hürth - Brühl Bf | R:Brühl Bf - Hürth - Frechen - Pulheim - Worringen - Dormagen Bf,3,000000,FFFFFF,17_SB91
+1700092,17,SB92,,H:Elsdorf Busbf - Bergheim - Quadrath-Ichendorf - Ahe - Sindorf - Kerpen | R:Kerpen - Sindorf - Ahe - Quadrath-Ichendorf - Bergheim - Elsdorf Busbf,3,000000,FFFFFF,17_SB92
+1700093,17,SB93,,H:Kerpen - Lechenich - Liblar - Brühl - Wesseling | R:Wesseling - Brühl - Liblar - Lechenich - Kerpen,3,000000,FFFFFF,17_SB93
+1700905,17,905,,H:Bedburg Bf - Kirchtroisdorf - Grottenherten - Kirchherten - Pütz - Königshoven - Kaster - Lipp - Bedburg Bf - Kirdorf | R:Kirdorf - Bedburg Bf - Lipp - Kaster - Königshoven - Pütz - Kirchherten - Grottenherten - Kirchtroisdorf - Bedburg Bf,3,000000,FFFFFF,17_905
+1700910,17,910,,H:Frechen Rathaus - Bachem - Gleuel - Stotzheim - Hürth Mitte (ZOB) | R:Hürth Mitte (ZOB) - Stotzheim - Gleuel - Bachem - Frechen Rathaus,3,000000,FFFFFF,17_910
+1700911,17,911,,H:Brüggen - Türnich - Kerpen - Sindorf | R:Sindorf - Kerpen - Türnich - Brüggen,3,000000,FFFFFF,17_911
+1700915,17,915,,H:Quadrath-Ichendorf Bf - Ahe - Thorr - Elsdorf - Neu-Etzweiler | R:Neu-Etzweiler - Elsdorf - Thorr - Ahe - Quadrath-Ichendorf Bf,3,000000,FFFFFF,17_915
+1700920,17,920,,H:Erftstadt Bf - Lechenich - Gymnich - Kerpen - Sindorf Bf (S) - Horrem Bf (S) | R:Horrem Bf (S) - Sindorf Bf (S) - Kerpen - Gymnich - Lechenich - Erftstadt Bf,3,000000,FFFFFF,17_920
+1700921,17,921,,H:Ringbus Sindorf: Bahnhof (S) - Gewerbegebiet - Zeisigweg - Bahnhof (S) | R:Ringbus Sindorf: Bahnhof (S) - Zeisigweg - Gewerbegebiet - Bahnhof (S),3,000000,FFFFFF,17_921
+1700922,17,922,,H:Bergheim Bf - Thorr - Heppendorf - Ahe - Sindorf Bf (S) - Kerpen | R:Kerpen - Sindorf Bf (S) - Ahe - Heppendorf - Thorr - Bergheim Bf,3,000000,FFFFFF,17_922
+1700923,17,923,,H:Stadtverkehr Bergheim | R:Stadtverkehr Bergheim,3,000000,FFFFFF,17_923
+1700924,17,924,,H:(Bergheim Bf - Oberaußem -) Niederaußem - Rath - Bedburg Bf | R:Bedburg Bf - Rath - Niederaußem (- Oberaußem - Bergheim),3,000000,FFFFFF,17_924
+1700927,17,927,,H:Bedburg Bf - Industriegebiet Mühlenerft | R:Industriegebiet Mühlenerft - Bedburg Bf,3,000000,FFFFFF,17_927
+1700930,17,930,,H:Brühl Mitte - Berzdorf - Wesseling (Stadtbahn) | R:Wesseling (Stadtbahn) - Berzdorf - Brühl Mitte,3,000000,FFFFFF,17_930
+1700931,17,931,,"H:Frechen-Königsdorf - Buschbell - Hücheln, Krankenhaus - Frechen Rathaus | R:Frechen Rathaus - Hücheln, Krankenhaus - Buschbell - Frechen-Königsdorf",3,000000,FFFFFF,17_931
+1700933,17,933,,H:Buir - Blatzheim - Kerpen - Sindorf | R:Sindorf - Kerpen - Blatzheim - Buir,3,000000,FFFFFF,17_933
+1700935,17,935,,H:Brühl Mitte (Stadtbahn) - Brühl Ost - Köln-Meschenich - Hermülheim (Stadtbahn) | R:Hermülheim (Stadtbahn) - Köln-Meschenich - Brühl Ost - Brühl Mitte (Stadtbahn),3,000000,FFFFFF,17_935
+1700937,17,937,,H:Oberembt - Elsdorf - Bergheim | R:Bergheim - Elsdorf - Oberembt,3,000000,FFFFFF,17_937
+1700941,17,941,,H:Elsdorf Busbf - Berrendorf - Heppendorf - Ahe - Sindorf - Horrem Bf (S) | R:Horrem Bf (S) - Sindorf - Ahe - Heppendorf - Berrendorf - Elsdorf Busbf,3,000000,FFFFFF,17_941
+1700944,17,944,,H:Brüggen - Balkhausen - Türnich - Horrem - Sindorf | R:Sindorf - Horrem - Türnich- Balkhausen - Brüggen,3,000000,FFFFFF,17_944
+1700945,17,945,,H:Bergheim Bf - Paffendorf Gewerbepark | R:Paffendorf Gewerbepark - Bergheim Bf,3,000000,FFFFFF,17_945
+1700949,17,949,,H:Brauweiler - Lövenich Bf (S) - Weiden Zentrum (Stadtbahn) | R:Weiden Zentrum (Stadtbahn) - Lövenich Bf (S) - Brauweiler,3,000000,FFFFFF,17_949
+1700950,17,950,,H:Weiden Zentrum (Stadtbahn) - Königsdorf Bf (S) - Quadrath-Ichendorf Bf - Bergheim Bf - Thorr - Berrendorf - Elsdorf - Oberembt - Rödingen | R:Rödingen - Oberembt - Elsdorf - Berrendorf - Thorr - Bergheim Bf - Quadrath-Ichendorf Bf - Königsdorf Bf (S) - Weiden Zentrum (Stadtbahn),3,000000,FFFFFF,17_950
+1700955,17,955,,H:Horrem Bf (S) - Türnich - Brüggen - Kierdorf - Erftstadt Bf - Bliesheim - Lechenich | R:Lechenich - Bliesheim - Erftstadt Bf - Kierdorf - Brüggen - Türnich - Horrem Bf (S),3,000000,FFFFFF,17_955
+1700957,17,957,,H:Königsdorf - Buschbell - Frechen | R:Frechen - Buschbell - Königsdorf,3,000000,FFFFFF,17_957
+1700960,17,960,,H:Bergheim - Quadrath-Ichendorf Bf - Horrem Bf (S) - Habbelrath - Frechen Rathaus - Bachem - Gleuel - Hürth-Mitte - Hermülheim (Stadtbahn) | R:Hermülheim (Stadtbahn) - Hürth Mitte - Gleuel - Bachem - Frechen Rathaus - Habbelrath - Horrem Bf (S) - Quadrath-Ichendorf Bf - Bergheim,3,000000,FFFFFF,17_960
+1700961,17,961,,H:Weiden West (S) - Brauweiler - Glessen - Oberaußem - Quadrath-Ichendorf Bf - Bergheim | R:Bergheim - Quadrath-Ichendorf Bf - Oberaußem - Glessen - Brauweiler - Weiden West (S),3,000000,FFFFFF,17_961
+1700962,17,962,,H:Bocklemünd (Stadtbahn) - Widdersdorf - Brauweiler - Glessen - Dansweiler - Königsdorf Bf (S) | R:Königsdorf Bf (S) - Dansweiler - Glessen - Brauweiler - Widdersdorf - Bocklemünd (Stadtbahn),3,000000,FFFFFF,17_962
+1700964,17,964,,H:Kerpen Lörsfelder Busch - Götzenkirchen - Horrem Bf - Habbelrath - Grefrath - Frechen Rathaus | R:Frechen Rathaus - Grefrath - Habbelrath - Horrem Bf - Götzenkirchen - Kerpen Lörsfelder Busch,3,000000,FFFFFF,17_964
+1700965,17,965,,H:Grube Carl - Frechen Rathaus - Euro Park - Weiden West (S) | R:Weiden West (S) - Euro Park - Frechen Rathaus - Grube Carl,3,000000,FFFFFF,17_965
+1700966,17,966,,H:Kerpen - Sindorf - Horrem - Neubottenbroich | R:Neubottenbroich - Horrem - Sindorf - Kerpen,3,000000,FFFFFF,17_966
+1700967,17,967,,H:Stadtverkehr Pulheim | R:Stadtverkehr Pulheim,3,000000,FFFFFF,17_967
+1700968,17,968,,H:Habbelrath - Grefrath - Grube Carl - Frechen | R:Frechen - Grube Carl - Grefrath - Habbelrath,3,000000,FFFFFF,17_968
+1700969,17,969,,H:Bergheim Bf - Kenten - Quadrath-Ichendorf Bf | R:Quadrath-Ichendorf Bf - Kenten - Bergheim Bf,3,000000,FFFFFF,17_969
+1700970,17,970,,H:Bocklemünd (Stadtbahn) - Pulheim Bf - Stommeln - Fliesteden - Niederaußem - Oberaußem - Bergheim Bf | R:Bergheim Bf - Oberaußem - Niederaußem - Fliesteden - Stommeln - Pulheim Bf - Bocklemünd (Stadtbahn),3,000000,FFFFFF,17_970
+1700971,17,971,,H:Bergheim Bf - Oberaußem - Niederaußem - Rheidt - Rommerskirchen Bf | R:Rommerskirchen Bf - Rheidt - Niederaußem - Oberaußem - Bergheim Bf,3,000000,FFFFFF,17_971
+1700972,17,972,,H:Brauweiler - Büsdorf / Stommeln | R:Bergheim - Büsdorf - Brauweiler - Weiden West (S),3,000000,FFFFFF,17_972
+1700974,17,974,,H:Stadtverkehr Erftstadt | R:Stadtverkehr Erftstadt,3,000000,FFFFFF,17_974
+1700975,17,975,,H:(Grevenbroich -) Kaster - Bedburg Bf - Glesch - Paffendorf - Bergheim Bf - Quadrath-Ichendorf Bf - Horrem Bf (S) | R:Horrem Bf (S) - Quadrath-Ichendorf Bf - Bergheim Bf - Paffendorf - Glesch - Bedburg Bf - Kaster (- Grevenbroich),3,000000,FFFFFF,17_975
+1700976,17,976,,H:Frechen EuroPark - Frechen Rathaus - Habbelrath - Horrem Bf (S) - Kerpen - Manheim-neu - Blatzheim - Buir Bf (S) | R:Buir Bf (S) - Blatzheim - Manheim-neu - Kerpen - Horrem Bf (S) - Habbelrath - Frechen Rathaus - Frechen EuroPark,3,000000,FFFFFF,17_976
+1700977,17,977,,H:Erftstadt Bf - Liblar - Kierdorf - Brüggen - Türnich - Frechen Rathaus | R:Frechen Rathaus - Türnich - Brüggen - Kierdorf - Liblar - Erftstadt Bf,3,000000,FFFFFF,17_977
+1700978,17,978,,H:Köln Hbf (S) (U) - Heumarkt - Sülz - Efferen - Stotzheim - Gleuel - Berrenrath | R:Berrenrath - Gleuel - Stotzheim - Efferen - Sülz - Heumarkt - Köln Hbf (S) (U),3,000000,FFFFFF,17_978
+1700979,17,979,,H:Hermülheim - Liblar - Erftstadt Bf - Lechenich - Erp - Zülpich | R:Zülpich - Erp - Lechenich - Erftstadt Bf - Liblar - Hermülheim,3,000000,FFFFFF,17_979
+1700980,17,980,,H:Worringen (S) - Sinnersdorf - Pulheim Bf - Brauweiler - Königsdorf Bf (S) - Frechen Rathaus | R:Frechen Rathaus - Königsdorf Bf (S) - Brauweiler - Pulheim Bf - Sinnersdorf - Worringen (S),3,000000,FFFFFF,17_980
+1700987,17,987,,H:Schülerverkehr Bedburg | R:Schülerverkehr Bedburg,3,000000,FFFFFF,17_987
+1700988,17,988,,H:Heppendorf - Berrendorf - Elsdorf Busbf - Oberembt - Niederembt - Bedburg | R:Bedburg - Niederembt - Oberembt - Elsdorf Busbf - Berrendorf - Heppendorf,3,000000,FFFFFF,17_988
+1700990,17,990,,H:Herrig - Lechenich - Blessem - Liblar - Erftstadt Bf - Brühl West - Brühl Mitte (Stadtbahn) | R:Brühl Mitte (Stadtbahn) - Brühl West - Erftstadt Bf - Liblar - Blessem - Lechenich - Herrig,3,000000,FFFFFF,17_990
+1900379,19,BBO,,H:Bürgerbus Odenthal | R:Bürgerbus Odenthal,3,000000,FFFFFF,19_BBO
+19901008,199,RE8,,H:Mönchengladbach - Pulheim - Köln - Troisdorf - BN-Beuel - Neuwied - Koblenz | R:Koblenz - Neuwied - BN-Beuel - Troisdorf - Köln - Pulheim - Mönchengladbach,3,000000,FFFFFF,199_RE8
+19901009,199,RE9,,H:Aachen - Düren - Köln - Troisdorf - Siegburg/Bonn - Hennef - Au (Sieg) - Siegen | R:Siegen - Au (Sieg) - Hennef - Siegburg/Bonn - Troisdorf - Köln - Düren - Aachen,3,000000,FFFFFF,199_RE9
+19901012,199,RE12,,H:Köln - Euskirchen - Mechernich - Kall - Jünkerath - Gerolstein - Trier | R:Trier - Gerolstein - Jünkerath - Kall - Mechernich - Euskirchen - Köln,3,000000,FFFFFF,199_RE12
+19901022,199,RE22,,H:Köln - Euskirchen - Mechernich - Kall - Gerolstein - Trier | R:Trier - Gerolstein - Kall - Mechernich - Euskirchen - Köln,3,000000,FFFFFF,199_RE22
+19901024,199,RB24,,H:Köln - Erftstadt - Euskirchen - Kall - Jünkerath - Gerolstein - Trier | R:Trier - Gerolstein - Jünkerath - Kall - Euskirchen - Erftstadt - Köln,3,000000,FFFFFF,199_RB24
+19901025,199,RB25,,H:(Lüdenscheid) - Meinerzhagen - Gummersbach - Overath - Rösrath - Köln | R:Köln - Rösrath - Overath - Gummersbach - Meinerzhagen - (Lüdenscheid),3,000000,FFFFFF,199_RB25
+19901027,199,RB27,,H:Mönchengladbach - Grevenbroich - Köln - Bonn-Beuel - Linz - Neuwied - Koblenz | R:Koblenz - Neuwied - Linz - Bonn-Beuel - Köln - Grevenboich - Mönchengladbach,3,000000,FFFFFF,199_RB27
+19901030,199,RB30,,H:Ahrbrück - Bad Neuenahr - Remagen - Bonn | R:Bonn - Remagen - Bad Neuenahr - Ahrbrück,3,000000,FFFFFF,199_RB30
+19901206,199,S6,,H:Köln - Leverkusen - Langenfeld - Düsseldorf - Essen | R:Essen - Düsseldorf - Langenfeld - Leverkusen - Köln,3,000000,FFFFFF,199_S6
+19901211,199,S11,,H:Düsseldorf Flughafen - Düsseldorf - Neuss - Dormagen - Köln - Bergisch Gladbach | R:Bergisch Gladbach - Köln - Dormagen - Neuss - Düsseldorf - Düsseldorf Flughafen,3,000000,FFFFFF,199_S11
+19901212,199,S12,,H:Au (Sieg) - Eitorf - Hennef - Siegburg - Troisdorf - Köln - Horrem | R:Horrem - Köln - Troisdorf - Siegburg - Hennef - Eitorf - Au (Sieg),3,000000,FFFFFF,199_S12
+19901219,199,S19,,H:Au (Sieg) - Hennef - Siegburg/Bonn - Troisdorf - Köln/Bonn Flughafen - Köln - Horrem - Düren | R:Düren - Horrem - Köln - Köln/Bonn Flughafen - Troisdorf - Siegburg/Bonn - Hennef - Au (Sieg),3,000000,FFFFFF,199_S19
+19901223,199,S23,,H:Bad Münstereifel - Euskirchen - Rheinbach - Meckenheim - Bonn | R:Bonn - Meckenheim - Rheinbach - Euskirchen - Bad Münstereifel,3,000000,FFFFFF,199_S23
+19901298,199,SEV,,,3,000000,FFFFFF,199_SEV
+19914506,199,RE9X,,,3,000000,FFFFFF,199_RE9X
+19914559,199,RE22X,,,3,000000,FFFFFF,199_RE22X
+19914681,199,S19X,,,3,000000,FFFFFF,199_S19X
+19914687,199,RE12X,,,3,000000,FFFFFF,199_RE12X
+19914688,141,RB28,,H:Düren - Zülpich - Euskirchen | R:Euskirchen - Zülpich - Düren,3,000000,FFFFFF,141_RB28
+19914689,130,RB26,,H:Köln - Brühl - Bonn - Remagen - Koblenz | R:Koblenz - Remagen - Bonn - Brühl - Köln,3,000000,FFFFFF,130_RB26
+19914690,139,,RE6 (RRX),H:Köln - Dormagen - Neuss - Düsseldorf - Duisburg - Essen - Dortmund - Hamm - Bielefeld - Minden | R:Minden - Bielefeld - Hamm - Dortmund - Essen - Duisburg - Düsseldorf - Neuss - Dormagen - Köln,3,673BB8,FFFFFF,139_19914690
+19914691,139,RE7,,H:Rheine - Münster - Hamm - Hagen - Wuppertal - Köln - Neuss - Krefeld | R:Krefeld - Neuss - Köln - Wuppertal - Hagen - Hamm - Münster - Rheine,3,8FD400,FFFFFF,139_RE7
+19914692,139,,RE5 (RRX),H:Wesel - Oberhausen - Duisburg - Düsseldorf - Köln - Bonn - Koblenz | R:Koblenz - Bonn - Köln - Düsseldorf - Duisburg - Oberhausen - Wesel,3,FF6418,FFFFFF,139_19914692
+19914693,139,,RE1 (RRX),H:Aachen - Köln - Düsseldorf - Duisburg - Essen - Dortmund - Hamm | R:Hamm - Dortmund - Essen - Duisburg - Düsseldorf - Köln - Aachen,3,000000,FFFFFF,139_19914693
+19914694,139,RB48,,H:Wuppertal - Solingen - Köln - Bonn - Bonn-Mehlem | R:Bonn-Mehlem - Bonn - Köln - Solingen - Wuppertal,3,FFC82E,FFFFFF,139_RB48
+2200731,22,731,,H:Schülerverkehr Euskirchen,3,000000,FFFFFF,22_731
+2200732,22,732,,H:Schülerverkehr Euskirchen,3,000000,FFFFFF,22_732
+2200733,22,733,,H:Schülerverkehr Euskirchen,3,000000,FFFFFF,22_733
+2200735,22,735,,H:Schülerverkehr Euskirchen,3,000000,FFFFFF,22_735
+2200736,22,736,,H:Schülerverkehr Euskirchen,3,000000,FFFFFF,22_736
+2200737,22,737,,H:Schülerverkehr Euskirchen,3,000000,FFFFFF,22_737
+2200738,22,738,,H:Schülerverkehr Euskirchen,3,000000,FFFFFF,22_738
+2200860,22,860,,H:Euskirchen Bf - Lindenweg - Marienhospital - Euskirchen Bf (Ringverkehr) | R:Euskirchen Bf - Marienhospital - Lindenweg - Euskirchen Bf (Ringverkehr),3,00BFFF,000000,22_860
+2200865,22,865,,H:Euskirchen Bf - Frauenberg - Oberwichterich | R:Oberwichterich - Frauenberg - Euskirchen Bf,3,009999,FFFFFF,22_865
+2200866,22,866,,H:Euskirchen Bf - IPAS | R:IPAS - Euskirchen Bf,3,FFFF21,000000,22_866
+2200870,22,870,,H:Euskirchen Bf - Wüschheim - Kuchenheim - Kirchheim - Stotzheim - Euskirchen Bf (Ringverkehr) | R:Euskirchen Bf - Stotzheim - Kirchheim - Kuchenheim - Wüschheim - Euskirchen Bf (Ringverkehr),3,003BD1,FFFFFF,22_870
+2200871,22,871,,H:Rudolf-Diesel-Str. - Euskirchen Bf - Memelstr. | R:Memelstr. - Euskirchen Bf - Rudolf-Diesel-Str.,3,FF0000,000000,22_871
+2200872,22,872,,H:Kessenich - Josef-Franke-Str. - Euskirchen Bf - Euskirchener Heide - Theodor-Körner-Str. | R:Euskirchener Heide - Theodor-Körner-Str. - Euskirchen Bf - Josef-Franke-Str. - Kessenich,3,4DFF00,000000,22_872
+2200873,22,873,,H:Euskirchen Bf - Stotzheim - Euskirchen-Niederkastenholz - (Schweinheim) | R:(Schweinheim) - Euskirchen-Niederkastenholz - Stotzheim - Euskirchen Bf,3,801AFF,FFFFFF,22_873
+2200874,22,874,,H:Euskirchen Bf - Kuchenheim - Flamersheim - Euskirchen-Kirchheim | R:Euskirchen-Kirchheim - Flamersheim - Kuchenheim - Euskirchen Bf,3,FF4000,000000,22_874
+2200875,22,875,,H:Euskirchen Bf - Kleinbüllesheim - Großbüllesheim - Euskirchen-Wüschheim | R:Euskirchen-Wüschheim - Großbüllesheim - Kleinbüllesheim - Euskirchen Bf,3,33FFFF,000000,22_875
+2200876,22,876,,H:Euskirchen Bf - IPAS - Dom-Esch - Kuchenheim - Euskirchen Bf | R:Euskirchen Bf - Kuchenheim - Dom-Esch - IPAS - Euskirchen Bf,3,00CC29,FFFFFF,22_876
+2200877,22,877,,H:Euskirchen Bf - Billig - Euskirchen-Kreuzweingarten - (Bad Münstereifel Bf) | R:(Bad Münstereifel Bf) - Euskirchen-Kreuzweingarten - Billig - Euskirchen Bf,3,FF59FF,000000,22_877
+2200878,22,878,,H:Euskirchen Bf - Euskirchen-Wißkirchen - (Mechernich Bf - Kall Bf) | R:(Kall Bf - Mechernich Bf) - Euskirchen-Wißkirchen - Euskirchen Bf,3,FF9900,000000,22_878
+2300711,23,711,,H:Hürth Mitte (ZOB) - Alstädten - Burbach - Gleuel - Hürth-Berrenrath | R:Hürth-Berrenrath - Gleuel - Burbach - Alstädten - Hürth Mitte (ZOB),3,FFFF00,000000,23_711
+2300712,23,712,,H:Hürth Mitte (ZOB) - Hermülheim - Hürth-Efferen | R:Hürth-Efferen - Hermülheim - Hürth Mitte (ZOB),3,008800,FFFFFF,23_712
+2300713,23,713,,H:Hermülheim (Stadtbahn) - Hürth Mitte (ZOB) - Alt-Hürth - Knapsack | R:Knapsack - Alt-Hürth - Hürth Mitte (ZOB) - Hermülheim (Stadtbahn),3,00FF00,000000,23_713
+2300714,23,714,,H:Hürth Mitte (ZOB) - Hermülheim (Stadtbahn) - Kalscheuren Bf - Am Kirchtürmchen (- Fischenich) | R:(Fischenich -) Am Kirchtürmchen - Kalscheuren Bf - Hermülheim (Stadtbahn) - Hürth Mitte (ZOB),3,0000FF,FFFFFF,23_714
+2300717,23,717,,H:Hürth-Kendenich - Knapsack - Berrenrath - Gleuel - Hürth-Sielsdorf | R:Hürth-Sielsdorf - Gleuel - Berrenrath - Knapsack - Hürth-Kendenich,3,0088FF,FFFFFF,23_717
+2300720,23,720,,H:Hermülheim (Stadtbahn) - Hürth Mitte (ZOB) - Kendenich - Fischenich (Stadtbahn) | R:Fischenich (Stadtbahn) - Kendenich - Hürth Mitte (ZOB) - Hermülheim (Stadtbahn),3,008888,FFFFFF,23_720
+2400701,24,701,,H:Brühl-Heide - Kierberg - Brühl Mitte (Stadtbahn) | R:Brühl Mitte (Stadtbahn) - Kierberg - Brühl-Heide,3,000000,FFFFFF,24_701
+2400702,24,702,,H:Brühl-Heide - Kierberg - Brühl Mitte (Stadtbahn) | R:Brühl Mitte (Stadtbahn) - Kierberg - Brühl-Heide,3,000000,FFFFFF,24_702
+2400703,24,703,,H:Brühl Mitte (Stadtbahn) - Max-Ernst-Museum (Abzw Bf) - Brühl Ost | R:Brühl Ost - Max-Ernst-Museum (Abzw Bf) - Brühl Mitte (Stadtbahn),3,000000,FFFFFF,24_703
+2400704,24,704,,H:Brühl-West Roddergrube - Brühl Mitte (Stadtbahn) - Kierberg - Brühl-Vochem | R:Brühl-Vochem - Kierberg - Brühl Mitte (Stadtbahn) - Brühl-West Roddergrube,3,000000,FFFFFF,24_704
+2400705,24,705,,"H:Brühl West, Am Wasserturm - Brühl Mitte | R:Brühl Mitte - Brühl West, Am Wasserturm",3,000000,FFFFFF,24_705
+2400706,24,706,,H:Brühl-Geildorf - Bonnstr. - Brühl Mitte (Stadtbahn) - (Brühl Nord) | R:(Brühl Nord) - Brühl Mitte (Stadtbahn) - Bonnstr. - Brühl-Geildorf,3,000000,FFFFFF,24_706
+2400707,24,707,,H:(Euskirchen Bf) - Brühl-Badorf - Pingsdorf - Brühl Mitte (Stadtbahn) - (Brühl Nord) | R:(Brühl Nord) - Brühl Mitte (Stadtbahn) - Pingsdorf - Brühl-Badorf - (Euskirchen Bf),3,000000,FFFFFF,24_707
+2400708,24,708,,H:Brühl Mitte (Stadtbahn) - Badorf Schulzenrum - Geildorf - Brühl-Badorf - (Phantasialand) | R:(Phantasialand) - Brühl-Badorf - Geildorf - Badorf Schulzentrum - Brühl Mitte (Stadtbahn),3,000000,FFFFFF,24_708
+2400709,24,709,,H:Brühl Mitte (Stadtbahn) - Jordanstr. - Brühl Ost | R:Brühl Ost - Jordanstr. - Brühl Mitte (Stadtbahn),3,000000,FFFFFF,24_709
+2400779,24,PHL,,,3,000000,FFFFFF,24_PHL
+2500256,25,256,,H:Bürgerbus Leichlingen | R:Bürgerbus Leichlingen,3,000000,FFFFFF,25_256
+2800826,28,826,,H:(Kalenberg) - Kall Bf - Mechernich Bf | R:Mechernich Bf - Kall Bf - (Kalenberg),3,000000,FFFFFF,28_826
+2800827,28,827,,H:Nettersheim-Zingsheim - Mechenich-Eiserfey - Mechernich Bf | R:Mechernich Bf - Mechenich-Eiserfey - Nettersheim-Zingsheim,3,000000,FFFFFF,28_827
+2800867,28,867,,H:Satzvey - Antweiler - Mechernich Bf | R:Mechernich Bf - Antweiler - Satzvey,3,000000,FFFFFF,28_867
+2800868,28,868,,H:Satzvey - Firmenich - Mechernich | R:Mechernich - Firmenich - Satzvey,3,000000,FFFFFF,28_868
+2800893,28,893,,H:Mechernich-Kommern - Kommern Süd - Katzvey - Mechernich Bf | R:Mechernich Bf - Katzvey - Kommern Süd - Mechernich-Kommern,3,000000,FFFFFF,28_893
+2800896,28,896,,H:Mechernich-Berg - Mechernich | R:Mechernich - Mechernich-Berg,3,000000,FFFFFF,28_896
+2800897,28,897,,H:Mechernich-Voißel - Mechernich | R:Mechernich - Mechernich-Voißel,3,000000,FFFFFF,28_897
+2800898,28,898,,H:Mechernich-Wallenthal - Kalenberg - Mechernich | R:Mechernich - Kalenberg - Mechernich-Wallenthal,3,000000,FFFFFF,28_898
+2900721,29,721,,H:Stadtverkehr Wesseling | R:Stadtverkehr Wesseling,3,000000,FFFFFF,29_721
+2900723,29,723,,H:Keldenich - Wesseling (Stadtbahn) | R:Wesseling (Stadtbahn) - Keldenich,3,000000,FFFFFF,29_723
+300020,3,SB20,,H:Lützenkirchen - Quettingen - Leverkusen Mitte | R:Leverkusen Mitte - Quettingen - Lützenkirchen,3,000000,FFFFFF,3_SB20
+300021,3,SB21,,H:Rheindorf-Nord - Leverkusen Mitte - Schlebusch - Alt Steinbüchel | R:Alt Steinbüchel - Schlebusch - Leverkusen Mitte - Rheindorf-Nord,3,000000,FFFFFF,3_SB21
+300022,3,SB22,,H:Mathildenhof - Leimbacher Berg - Schlebusch - Leverkusen Mitte | R:Leverkusen Mitte - Schlebusch - Leimbacher Berg - Mathildenhof,3,000000,FFFFFF,3_SB22
+300023,3,SB23,,H:Leverkusen Mitte - Pützdelle - Hitdorf - Monheim Mitte | R:Monheim Mitte - Hitdorf - Pützdelle - Leverkusen Mitte,3,000000,FFFFFF,3_SB23
+300024,3,SB24,,"H:LEV-Mitte - Opladen, Busbf. - Burscheid - Hilgen | R:Hilgen - Burscheid - Opladen, Busbf. - LEV-Mitte",3,000000,FFFFFF,3_SB24
+300025,3,SB25,,H:Köln Hbf - CHEMPARK - Leverkusen Mitte - Opladen Busbf - Leichlingen - Solingen | R:Solingen - Leichlingen - Opladen Busbf - Leverkusen Mitte - CHEMPARK - Köln Hbf,3,000000,FFFFFF,3_SB25
+300026,3,SB26,,H:Lev.-Opladen Busbf. - Neue Bahnstadt Opladen - Fixheide - Alkenrath - K.-Carstens-Ring - Schlebusch Stadtbahn | R:Schlebusch Stadtbahn - K.-Carstens-Ring - Alkenrath - Fixheide - Neue Bahnstadt Opladen - Lev.-Opladen Busbf.,3,000000,FFFFFF,3_SB26
+300042,3,SB42,,H:Odenthal - Schildgen - Schlebusch - LEV-Mitte | R:LEV-Mitte - Schlebusch - Schildgen - Odenthal,3,000000,FFFFFF,3_SB42
+300201,3,201,,H:Lützenkirchen - Opladen Busbf - Leverkusen Mitte - (CHEMPARK S) | R:(CHEMPARK S) - Leverkusen Mitte - Opladen Busbf - Lützenkirchen,3,000000,FFFFFF,3_201
+300202,3,202,,H:Schlebusch - Alkenrath - Opladen Busbf - Berliner Platz - (Villa Römer) | R:(Villa Römer) - Berliner Platz - Opladen Busbf - Alkenrath - Schlebusch,3,000000,FFFFFF,3_202
+300203,3,203,,"H:Eisholz - BayArena - LEV-Mitte - Bürrig - Reuschenberg - Opladen, Busbf. | R:Opladen, Busbf. - Reuschenberg - Bürrig - LEV-Mitte - BayArena - Eisholz",3,000000,FFFFFF,3_203
+300204,3,204,,H:Reuschenberg - Küppersteg - Leverkusen Mitte - Stegerwaldsiedlung | R:Stegerwaldsiedlung - Leverkusen Mitte - Küppersteg - Reuschenberg,3,000000,FFFFFF,3_204
+300205,3,205,,"H:Opladen, Busbf. - Quettingen - Lützenkirchen - Steinbüchel - Schlebusch - Schlebusch, Stadtbahn | R:Schlebusch, Stadtbahn - Schlebusch - Steinbüchel - Lützenkirchen - Quettingen - Opladen, Busbf.",3,000000,FFFFFF,3_205
+300206,3,206,,"H:Mathildenhof - Quettingen - Opladen, Busbf. - Langenfeld S - Langenfeld, Turnerstraße | R:Langenfeld, Turnerstraße - Langenfeld S - Opladen, Busbf. - Quettingen - Mathildenhof",3,000000,FFFFFF,3_206
+300207,3,207,,H:Rheindorf Nord - Küppersteg S - BayArena - Schlebusch - Alt-Steinbüchel - Mathildenhof | R:Mathildenhof - Alt-Steinbüchel - Schlebusch - BayArena - Küppersteg S - Rheindorf Nord,3,000000,FFFFFF,3_207
+300208,3,208,,H:Wiesdorf - Leverkusen Mitte - Schlebusch - Mathildenhof | R:Mathildenhof - Schlebusch - Leverkusen Mitte - Wiesdorf,3,000000,FFFFFF,3_208
+300209,3,209,,H:Quettingen - Alkenrath - Manfort - Leverkusen Mitte | R:Leverkusen Mitte - Manfort - Alkenrath - Quettingen,3,000000,FFFFFF,3_209
+300211,3,211,,H:Rheindorf Nord - Rheindorf S - Bürrig - Leverkusen Mitte - Schlebusch - Alt Steinbüchel | R:Alt Steinbüchel - Schlebusch - Leverkusen Mitte - Bürrig - Rheindorf S - Rheindorf Nord,3,000000,FFFFFF,3_211
+300212,3,212,,H:Leverkusen Mitte - Schlebusch - Edelrath - Glöbusch - Altenberg - Odenthal | R:Odenthal - Altenberg - Glöbusch - Edelrath - Schlebusch - Leverkusen Mitte,3,000000,FFFFFF,3_212
+300213,3,213,,H:Hilgen - Museum/K.-Carstens-Ring,3,000000,FFFFFF,3_213
+300214,3,214,,H:Fixheide - Alkenrath - Museum Morsbroich - Leverkusen Mitte | R:Leverkusen Mitte - Museum Morsbroich - Alkenrath - Fixheide,3,000000,FFFFFF,3_214
+300215,3,215,,H:Hitdorf - Rheindorf S - Opladen | R:Opladen - Rheindorf S - Hitdorf,3,000000,FFFFFF,3_215
+300217,3,217,,H:Rheindorf - Bürrig - Chempark (S) | R:CHEMPARK (S) - Bürrig - Rheindorf,3,000000,FFFFFF,3_217
+300218,3,218,,H:Mathildenhof - Steinbüchel - Schlebusch - W.-Brandt-Ring - CHEMPARK (S) - CHEMPARK TOR 1 | R:CHEMPARK TOR 1 - CHEMPARK (S) - W.-Brandt-Ring - Schlebusch - Steinbüchel - Mathildenhof,3,000000,FFFFFF,3_218
+300222,3,222,,H:Bergisch Gladbach S - Klutstein - Schildgen - Schlebusch - BayArena - Silbersee - Opladen Busbf | R:Opladen Busbf - Silbersee - BayArena - Schlebusch - Schildgen - Klutstein - Bergisch Gladbach S,3,000000,FFFFFF,3_222
+300227,3,227,,H:Moitzfeld - Bensberg Busbf - Bergisch Gladbach S - Schildgen - Waldsiedlung - Leverkusen Mitte | R:Leverkusen Mitte - Waldsiedlung - Schildgen - Bergisch Gladbach S - Bensberg Busbf - Moitzfeld,3,000000,FFFFFF,3_227
+300229,3,229,,H:Lützenkirchen - Dürscheid - Burscheid | R:Burscheid - Dürscheid - Lützenkirchen,3,000000,FFFFFF,3_229
+300232,3,232,,H:Opladen Busbf - Reusrath - Mehlbruch - Langenfeld | R:Langenfeld - Mehlbruch - Reusrath - Opladen Busbf,3,000000,FFFFFF,3_232
+300235,3,235,,H:Lützenkirchen - Biesenbach - Lützenkirchen,3,000000,FFFFFF,3_235
+300236,3,236,,H:Lützenkirchen - Meckhofen | R:Meckhofen - Lützenkirchen,3,000000,FFFFFF,3_236
+300238,3,238,,H:Dabringhausen - Odenthal | R:Odenthal - Dabringhausen,3,000000,FFFFFF,3_238
+300244,3,244,,H:Hitdorf - Rheindorf - Opladen | R:Opladen - Rheindorf - Hitdorf,3,000000,FFFFFF,3_244
+300251,3,251,,H:Leichlingen - Bergisch Neukirchen - Opladen - Rathaus-Galerie - CHEMPARK | R:CHEMPARK - Rathaus-Galerie - Opladen - Bergisch Neukirchen - Leichlingen,3,000000,FFFFFF,3_251
+300253,3,253,,"H:Lev.-Fixheide - Opladen Busbf. - Leichlingen Busbf./Leichlingen, Bf. | R:Leichlingen Bf./Leichlingen, Busbf. - Opladen Busbf. - Lev.-Fixheide",3,000000,FFFFFF,3_253
+300255,3,255,,H:CHEMPARK S - Leverkusen Mitte - Opladen Busbf - Leichlingen | R:Leichlingen - Opladen Busbf - Leverkusen Mitte S - CHEMPARK S,3,000000,FFFFFF,3_255
+300257,3,257,,H:Leichlingen Busbf - Roderbirken - Vogelsiedlung - Leichlingen Bf - Langenfeld Gladbacher Str. | R:Langenfeld Gladbacher Str. - Leichlingen Bf - Vogelsiedliung - Roderbirken - Leichlingen Busbf,3,000000,FFFFFF,3_257
+300258,3,258,,H:Leichlingen - Oberschmitte - Witzhelden - Hilgen | R:Hilgen - Witzhelden - Oberschmitte - Leichlingen,3,000000,FFFFFF,3_258
+300274,3,X24,,H:Leverkusen-Mitte Bf - Hilgen - Wermelskirchen Busbf | R:Wermelskirchen Busbf - Hilgen - Leverkusen-Mitte Bf,3,000000,FFFFFF,3_X24
+300278,3,278,,H:Leichlingen - Pilgerheim - Witzhelden - Hilgen | R:Hilgen - Witzhelden - Pilgerheim - Leichlingen,3,000000,FFFFFF,3_278
+300280,3,N20,,H:Opladen Busbf - Reusrath - Langenfeld | R:Langenfeld - Reusrath - Opladen Busbf,3,000000,FFFFFF,3_N20
+300281,3,N21,,H:Leverkusen Mitte - Opladen Busbf - Lützenkirchen | R:Lützenkirchen - Opladen Busbf - Leverkusen Mitte,3,000000,FFFFFF,3_N21
+300282,3,N22,,"H:Opladen Busbf - Küppersteg - Manfort - Schlebusch, Stadtbahn - Alkenrath - Fixheide - Quettingen - Opladen Busbf | R:Opladen Busbf Schlebusch, Stadtbahn - Manfort - Küppersteg - Opladen Busbf",3,000000,FFFFFF,3_N22
+300283,3,N23,,H:Leverkusen Mitte - Bürrig - Rheindorf - Hitdorf - Rheindorf - Leverkusen Mitte | R:Leverkusen Mitte - Rheindorf - Hitdorf - Rheindorf - Bürrig - Leverkusen Mitte,3,000000,FFFFFF,3_N23
+300284,3,N24,,H:Leverkusen Mitte - Manfort - Schlebusch - Alt Steinbüchel - Mathildenhof - Schlebusch - Manfort - Leverkusen Mitte | R:Leverkusen Mitte - Manfort - Schlebusch - Mathildenhof - Alt Steinbüchel - Schlebusch - Manfort - Leverkusen Mitte,3,000000,FFFFFF,3_N24
+300285,3,N25,,H:Opladen Busbf - Burscheid - Hilgen | R:Hilgen - Burscheid - Opladen Busbf,3,000000,FFFFFF,3_N25
+300403,3,403,,H:Herkenrath/(Grube) - Spitze - Dürscheid - Biesfeld - Eichhof - Kürten | R:Kürten - Eichhof - Biesfeld - Dürscheid - Herkenrath,3,000000,FFFFFF,3_403
+300404,3,404,,H:Herkenrath - Spitze - (Eikamp) - Bechen - Weiden - Kürten | R:Kürten - Weiden - Bechen - (Eikamp) - Spitze - Herkenrath,3,000000,FFFFFF,3_404
+300426,3,426,,H:Bergisch Gladbach S - Dürscheid - Biesfeld - Kürten - Wipperfürth | R:Wipperfürth - Kürten - Biesfeld - Dürscheid - Bergisch Gladbach S,3,000000,FFFFFF,3_426
+300427,3,427,,H:Bergisch Gladbach S - Eikamp - Bechen - Weiden - Olpe - Wipperfürth | R:Wipperfürth - Olpe - Weiden - Bechen - Eikamp - Bergisch Gladbach S,3,000000,FFFFFF,3_427
+300429,3,429,,H:Biesfeld - Olpe - Wipperfürth | R:Wipperfürth - Olpe - Biesfeld,3,000000,FFFFFF,3_429
+300430,3,430,,H:Bergisch Gladbach S - Odenthal - Glöbusch - Blecher - Burscheid | R:Burscheid - Blecher - Glöbusch - Odenthal - Bergisch Gladbach S,3,000000,FFFFFF,3_430
+300431,3,431,,H:Bergisch Gladbach S - Reuterstr. - Heidberg | R:Heidberg - Reuterstr. - Bergisch Gladbach S,3,000000,FFFFFF,3_431
+300432,3,432,,H:Bergisch Gladbach S - Höffe - Neschen - Schmeisig | R:Schmeisig - Neschen - Höffe - Bergisch Gladbach S,3,000000,FFFFFF,3_432
+300433,3,433,,H:Bergisch Gladbach S - Reuterstr. - Voiswinkel - Küchenberg | R:Küchenberg - Voiswinkel - Reuterstr. - Bergisch Gladbach S,3,000000,FFFFFF,3_433
+300434,3,434,,"H:Bergisch Gladbach S - Odenthal - Schildgen - Köln-Mülheim, Wiener Platz - Köln-Mülheim Danzierstr. | R:Köln-Mülheim Danzierstr. - Köln-Mülheim, Wiener Platz - Schildgen - Odenthal - Bergisch Gladbach S",3,000000,FFFFFF,3_434
+300435,3,435,,H:Bergisch Gladbach S - Hand - Dellbrück | R:Dellbrück - Hand - Bergisch Gladbach S,3,000000,FFFFFF,3_435
+300436,3,436,,H:Bergisch Gladbach S - Gierath - Dellbrück | R:Dellbrück - Gierath - Bergisch Gladbach S,3,000000,FFFFFF,3_436
+300437,3,437,,H:Bergisch Gladbach S - Reuterstr. - Nußbaum - Paffrath Kombibad | R:Paffrath Kombibad - Nußbaum - Reuterstr. - Bergisch Gladbach S,3,000000,FFFFFF,3_437
+300438,3,438,,H:Bergisch Gladbach S - Damaschkestr. | R:Damaschkestr. - Bergisch Gladbach S,3,000000,FFFFFF,3_438
+300439,3,439,,H:Bergisch Gladbach S - Rommerscheid - Margaretenhöhe - Bergisch Gladbach S | R:Bergisch Gladbach S - Margaretenhöhe - Rommerscheid - Bergisch Gladbach S,3,000000,FFFFFF,3_439
+300451,3,451,,H:Bergisch Gladbach S - Refrath | R:Refrath - Bergisch Gladbach S,3,000000,FFFFFF,3_451
+300452,3,452,,H:Bergisch Gladbach S - Refrath - Frankenforst | R:Frankenforst - Refrath - Bergisch Gladbach S,3,000000,FFFFFF,3_452
+300481,3,N41,,H:Bergisch Gladbach S - Hand - Paffrath - Klutstein - Schildgen - Odenthal - Voiswinkel - Bergisch Gladbach S | R:Bergisch Gladbach S - Voiswinkel - Odenthal - Schildgen - Klutstein - Paffrath - Hand - Bergisch Gladbach S,3,000000,FFFFFF,3_N41
+300482,3,N42,,H:Bergisch Gladbach S - Voiswinkel - Odenthal - Blecher - Schildgen - Paffrath - Hand - Bergisch Gladbach S | R:Bergisch Gladbach S - Hand - Paffrath - Schildgen - Blecher - Odenthal - Voiswinkel - Bergisch Gladbach S,3,000000,FFFFFF,3_N42
+300483,3,N43,,H:Bergisch Gladbach S - Dürscheid - Biesfeld - Kürten | R:Kürten - Biesfeld - Dürscheid - Bergisch Gladbach S,3,000000,FFFFFF,3_N43
+300484,3,N44,,H:Bergisch Gladbach S - Refrath (Stadtbahn) - Kippekausen (Stadtbahn) - Frankenforst - Bergisch Gladbach S | R:Bergisch Gladbach S - Refrath (Stadtbahn) - Bergisch Gladbach S,3,000000,FFFFFF,3_N44
+301501,3,E1,,H:CHEMPARK - Mus./K.-Carstens-Ring - Gesamtschule Schlebusch,3,000000,FFFFFF,3_E1
+301502,3,E2,,H:Hitdorf - Rheindorf - Bürrig - Küppersteg - Am Stadtpark,3,000000,FFFFFF,3_E2
+301503,3,E3,,H:Blecher - Glöbusch - Edelrath - Leimbacher Berg - Mus./K.-Carstens-Ring - Gesamtschule Schlebusch - K.-Schumacher-Ring | R:K.-Schumacher-Ring - Gesamtschule Schlebusch - Leimbacher Berg - Edelrath - Glöbusch - Blecher - Neuboddenberg,3,000000,FFFFFF,3_E3
+301504,3,E4,,H:Scharrenberg - Glöbusch - Blecher - Neuboddenberg - Gesamtschule Schlebusch - K.-Schumacher-Ring | R:Mus./K.-Carstens-Ring - Edelrath - Glöbusch - Blecher - Neuboddenberg,3,000000,FFFFFF,3_E4
+301505,3,E5,,"H:Mathildenhof - Steinbüchel - Lützenkirchen - Quettingen - Opladen, Busbf. - Schule an der Wupper",3,000000,FFFFFF,3_E5
+301506,3,E6,,"H:Lützenkirchen - Quettingen - Opladen, Busbf. - Schule an der Wupper | R:Schule an der Wupper - Opladen, Busbf. - Quettingen - Lützenkirchen",3,000000,FFFFFF,3_E6
+301509,3,E9,,H:Burscheid - Pattscheid - Quettingen - W.-Heisenberg-Schule,3,000000,FFFFFF,3_E9
+301511,3,E11,,H:Lützenkirchen - KGS Lützenkirchen,3,000000,FFFFFF,3_E11
+301512,3,E12,,H:Blecher - Glöbusch - Edelrath - Leimbacher Berg - Ophovener Str. - Museum/Karl-Carstens-Ring,3,000000,FFFFFF,3_E12
+301513,3,E13,,H:Gesamtschule Schlebusch - Leimbacher Berg - Edelrath - Glöbusch - Blecher - Hilgen - Dabringhausen,3,000000,FFFFFF,3_E13
+301522,3,E202,,H:Lev.-Schlebusch - Alkenrath - Lev.-Fixheide/Villa Römer - Schule an der Wupper | R:Schule an der Wupper - Villa Römer/Lev.-Opladen - Alkenrath - Gesamtschule Schlebusch - K.-Schumacher-Ring,3,000000,FFFFFF,3_E202
+301526,3,E206,,,3,000000,FFFFFF,3_E206
+301529,3,E209,,H:Blasberg - Benninghausen - Kaltenherberg - Neuboddenberg - W.-Heisenberg-Schule | R:W.-Heisenberg-Schule - Ropenstall - Neuboddenberg - Kaltenherberg - Bergisch Neukirchen,3,000000,FFFFFF,3_E209
+301532,3,E222,,H:Bergisch Gladbach - Paffrath - Klutstein - Schildgen | R:Schildgen - Klutstein - Paffrath - Bergisch Gladbach,3,000000,FFFFFF,3_E222
+301535,3,E215,,H:Schlebusch - Neuboddenberg - Lützenkirchen - Gesamtschule Schlebusch,3,000000,FFFFFF,3_E215
+301537,3,E227,,H:Schildgen - Paffrath - Bergisch Gladbach/Bergisch Gladbach - Kreishaus,3,000000,FFFFFF,3_E227
+301539,3,E229,,H:Quettingen - Lützenkirchen - Burscheid/W.-Heisenberg-Schule - Burscheid - Hilgen - Benninghausen - Blasberg | R:Burscheid - W.-Heisenberg-Schule,3,000000,FFFFFF,3_E229
+301541,3,E231,,H:Quettingen - Lützenkirchen - Steinbüchel - Gesamtschule Schlebusch | R:Gesamtschule Schlebusch - Steinbüchel - Lützenkirchen - Quettingen,3,000000,FFFFFF,3_E231
+301549,3,E239,,H:Dabringhausen - Hilgen - Burscheid | R:Burscheid - Hilgen - Dabringhausen,3,000000,FFFFFF,3_E239
+301550,3,E240,,H:Burscheid-Hilgen - Paffenlöh - Burscheid - Bergisch Neukirchen - Opladen Busbf. | R:Opladen Busbf. - Bergisch Neukirchen - Paffenlöh - Burscheid-Hilgen,3,000000,FFFFFF,3_E240
+301557,3,E257,,,3,000000,FFFFFF,3_E257
+301566,3,E426,,,3,000000,FFFFFF,3_E426
+301567,3,E427,,"H:Bergisch Gladbach - Spitze - Eikamp/Kürten / Kürten, Schulzentrum - Wipperfeld - Wipperfürth, Busbf. | R:Wipperfürth, Busbf. - Wipperfeld - Kürten / Eikamp - Spitze - Grube",3,000000,FFFFFF,3_E427
+301569,3,E429,,,3,000000,FFFFFF,3_E429
+301570,3,E430,,,3,000000,FFFFFF,3_E430
+301572,3,E432,,"H:Odenthal, Schule - Eikamp, Schule | R:Schmeisig - Bechen",3,000000,FFFFFF,3_E432
+301573,3,E433,,,3,000000,FFFFFF,3_E433
+301575,3,E435,,,3,000000,FFFFFF,3_E435
+301591,3,E451,,H:Bergisch Gladbach S - Verbundschule Mitte | R:Verbundschule Mitte - Bergisch Gladbach S,3,000000,FFFFFF,3_E451
+501008,5,RE8,,H:Mönchengladbach - Pulheim - Köln - Troisdorf - BN-Beuel - Neuwied - Koblenz | R:Koblenz - Neuwied - BN-Beuel - Troisdorf - Köln - Pulheim - Mönchengladbach,2,000000,FFFFFF,5_RE8
+501009,5,RE9,,H:Aachen - Düren - Köln - Troisdorf - Siegburg/Bonn - Hennef - Au (Sieg) - Siegen | R:Siegen - Au (Sieg) - Hennef - Siegburg/Bonn - Troisdorf - Köln - Düren - Aachen,2,000000,FFFFFF,5_RE9
+501012,5,RE12,,H:Köln - Euskirchen - Mechernich - Kall - Jünkerath - Gerolstein - Trier | R:Trier - Gerolstein - Jünkerath - Kall - Mechernich - Euskirchen - Köln,2,000000,FFFFFF,5_RE12
+501022,5,RE22,,H:Köln - Euskirchen - Mechernich - Kall - Gerolstein - Trier | R:Trier - Gerolstein - Kall - Mechernich - Euskirchen - Köln,2,000000,FFFFFF,5_RE22
+501024,5,RB24,,H:Köln - Erftstadt - Euskirchen - Kall - Jünkerath - Gerolstein - Trier | R:Trier - Gerolstein - Jünkerath - Kall - Euskirchen - Erftstadt - Köln,2,000000,FFFFFF,5_RB24
+501025,5,RB25,,H:(Lüdenscheid) - Meinerzhagen - Gummersbach - Overath - Rösrath - Köln | R:Köln - Rösrath - Overath - Gummersbach - Meinerzhagen - (Lüdenscheid),2,000000,FFFFFF,5_RB25
+501027,5,RB27,,H:Mönchengladbach - Grevenbroich - Köln - Bonn-Beuel - Linz - Neuwied - Koblenz | R:Koblenz - Neuwied - Linz - Bonn-Beuel - Köln - Grevenboich - Mönchengladbach,2,000000,FFFFFF,5_RB27
+501030,5,RB30,,H:Ahrbrück - Bad Neuenahr - Remagen - Bonn | R:Bonn - Remagen - Bad Neuenahr - Ahrbrück,2,000000,FFFFFF,5_RB30
+501038,5,RB38,,H:Bedburg - Bergheim - Horrem - Köln | R:Köln - Horrem - Bergheim - Bedburg,2,000000,FFFFFF,5_RB38
+501206,5,S6,,H:Köln - Leverkusen - Langenfeld - Düsseldorf - Essen | R:Essen - Düsseldorf - Langenfeld - Leverkusen - Köln,2,000000,FFFFFF,5_S6
+501211,5,S11,,H:Düsseldorf Flughafen - Düsseldorf - Neuss - Dormagen - Köln - Bergisch Gladbach | R:Bergisch Gladbach - Köln - Dormagen - Neuss - Düsseldorf - Düsseldorf Flughafen,2,000000,FFFFFF,5_S11
+501212,5,S12,,H:Au (Sieg) - Eitorf - Hennef - Siegburg - Troisdorf - Köln - Horrem | R:Horrem - Köln - Troisdorf - Siegburg - Hennef - Eitorf - Au (Sieg),2,000000,FFFFFF,5_S12
+501219,5,S19,,H:Au (Sieg) - Hennef - Siegburg/Bonn - Troisdorf - Köln/Bonn Flughafen - Köln - Horrem - Düren | R:Düren - Horrem - Köln - Köln/Bonn Flughafen - Troisdorf - Siegburg/Bonn - Hennef - Au (Sieg),2,000000,FFFFFF,5_S19
+501223,5,S23,,H:Bad Münstereifel - Euskirchen - Rheinbach - Meckenheim - Bonn | R:Bonn - Meckenheim - Rheinbach - Euskirchen - Bad Münstereifel,2,000000,FFFFFF,5_S23
+6000240,60,240,,H:Lennep Bf - Bergisch Born - Industriegebiet - Wermelskirchen Busbf | R:Wermelskirchen Busbf - Industriegebiet - Bergisch Born - Lennep Bf,3,000000,FFFFFF,60_240
+600060,6,SB60,,H:Bonn Hbf - Innenministerium - Köln/Bonn Flughafen | R:Köln/Bonn Flughafen - Innenministerium - Bonn Hbf,3,000000,FFFFFF,6_SB60
+600061,6,61,,H:Dottendorf - Kessenich - Hauptbahnhof - Stadthaus - Chlodwigplatz - Innenministerium - Graurheindorf - Auerberg | R:Auerberg - Graurheindorf - Innenministerium - Chlodwigplatz - Stadthaus - Hauptbahnhof - Kessenich - Dottendorf,0,000000,FFFFFF,6_61
+600062,6,62,,H:Dottendorf - Kessenich - Hauptbahnhof - Stadthaus - Beuel Bf - Ramersdorf - Oberkassel Süd/Römlinghoven | R:Oberkassel Süd/Römlinghoven - Ramersdorf - Beuel Bf - Stadthaus - Hauptbahnhof - Kessenich - Dottendorf,0,000000,FFFFFF,6_62
+600063,6,63,,"H:Bad Godesberg - Hochkreuz/Dt. Museum Bonn - Heussallee/Museumsmeile - Bonn Hbf - Tannenbusch - (Wesseling - Köln, Dom/Hbf - Köln-Niehl) | R:(Köln-Niehl - Köln, Dom/Hbf - Wesseling -) Tannenbusch - Bonn Hbf - Heussallee/Museumsmeile - Hochkreuz/Dt. Museum Bonn - Bad Godesberg",0,000000,FFFFFF,6_63
+600065,6,65,,H:Ramersdorf - Beuel Bf - Bertha-von-Suttner-Platz - Chlodwigplatz - Innenministerium - Graurheindorf - Auerberg | R:Auerberg - Graurheindorf - Innenministerium - Chlodwigplatz - Bertha-von-Suttner-Platz - Beuel Bf - Ramersdorf,0,000000,FFFFFF,6_65
+600066,6,66,,H:Bad Honnef - Königswinter - Bonn-Oberkassel - Ramersdorf - Heussallee/Museumsmeile - Bonn Hbf - Beuel - Sankt Augustin - Siegburg Bf | R:Siegburg Bf - Sankt Augustin - Beuel - Bonn Hbf - Heussallee/Museumsmeile - Ramersdorf - Bonn-Oberkassel - Königswinter - Bad Honnef,0,000000,FFFFFF,6_66
+600067,6,67,,H:Siegburg Bf - Sankt Augustin - Beuel - Bonn Hbf - Heussallee/Museumsmeile - Hochkreuz/Dt. Museum Bonn - Bad Godesberg | R:Bad Godesberg - Hochkreuz/Dt. Museum Bonn - Heussallee/Museumsmeile - Bonn Hbf - Beuel - Sankt Augustin - Siegburg Bf,0,000000,FFFFFF,6_67
+6000671,60,671,,H:Radevormwald - Herbeck - Wassermühle - Lennep | R:Lennep - Wassermühle - Herbeck - Radevormwald,3,000000,FFFFFF,60_671
+600068,6,68,,"H:Ramersdorf - Heussallee/Museumsmeile - Bonn Hbf - Dransdorf - Alfter - Bornheim - (Brühl - Hürth - Köln, Dom/Hbf - Köln-Thielenbruch) | R:(Köln-Thielenbruch - Köln, Dom/Hbf - Hürth - Brühl) - Bornheim - Alfter - Dransdorf - Bonn Hbf - Heussallee/Museumsmeile - Ramersdorf",0,000000,FFFFFF,6_68
+600069,6,SB69,,H:Brüser Berg - Finkenhof - Schieffelingsweg - Endenicher Straße - Hauptbahnhof | R:Hauptbahnhof - Endenicher Straße - Schieffelingsweg - Finkenhof - Brüser Berg,3,000000,FFFFFF,6_SB69
+6001612,60,,NE12 RS,H:Nachtbus Remscheid - Wermelskirchen | R:Nachtbus Remscheid - Wermelskirchen,3,000000,FFFFFF,60_6001612
+6001619,60,,NE19 RS,H:Remscheid Mitte - Lennep Mitte - Radevormwald Mitte | R:Radevormwald Mitte - Lennep Mitte - Remscheid Mitte,3,000000,FFFFFF,60_6001619
+6001652,60,652,,H:Remscheid Mitte - Zentralpunkt - Struck - Talsperre - Belten - Wermelskirchen Busbf | R:Wermelskirchen Busbf - Belten - Talsperre - Struck - Zentralpunkt - Remscheid Mitte,3,000000,FFFFFF,60_652
+6001669,60,669,,,3,000000,FFFFFF,60_669
+6001672,60,672,,H:Remscheid Mitte - Zentralpunkt - Struck - Talsperre - Ortlinghaus - Wermelskirchen Mitte | R:Wermelskirchen Mitte - Ortlinghaus - Talsperre - Struck - Zentralpunkt - Remscheid Mitte,3,000000,FFFFFF,60_672
+6001673,60,673,,,3,000000,FFFFFF,60_673
+600540,6,540,,H:Sankt Augustin Zentrum - Menden - Meindorf - Geislar - Schwarzrheindorf - Beuel - Bonn Hbf | R:Bonn Hbf - Beuel - Schwarzrheindorf - Geislar - Meindorf - Menden - Sankt Augustin Zentrum,3,000000,FFFFFF,6_540
+600600,6,600,,"H:Ippendorf Altenheim - Venusberg, Uniklinikum Nord - Südstadt - Hauptbahnhof - Römerstraße - Graurheindorf Kranenweg | R:Graurheindorf Kranenweg - Römerstraße - Hauptbahnhof - Südstadt - Venusberg, Uniklinikum Nord - Ippendorf Altenheim",3,000000,FFFFFF,6_600
+600601,6,601,,"H:Venusberg, Uniklinikum - Poppelsdorf - Hauptbahnhof - Römerstraße - Graurheindorf - Auerberg - Tannenbusch Süd - Tannenbusch Mitte - Tannenbusch, Agnetendorfer Straße | R:Tannenbusch, Agnetendorfer Straße - Tannenbusch Mitte - Tannenbusch Süd - Auerberg - Graurheindorf - Römerstraße - Hauptbahnhof - Poppelsdorf - Venusberg, Uniklinikum",3,000000,FFFFFF,6_601
+600602,6,602,,"H:(Venusberg, Uniklinikum) - Waldau - Ippendorf - Poppelsdorf - Hauptbahnhof - Bornheimer Str. - Tannenbusch Mitte - Tannenbusch, Agnetendorfer Str. | R:Tannenbusch, Agnetendorfer Str.- Tannenbusch Mitte - Bornheimer Str. - Hauptbahnhof - Poppelsdorf - Ippendorf - Waldau - (Venusberg, Uniklinikum)",3,000000,FFFFFF,6_602
+600603,6,603,,H:Röttgen - Ippendorf - Poppelsdorf - Hauptbahnhof - Beuel - Neu-Vilich - Pützchen | R:Pützchen - Neu-Vilich - Beuel - Hauptbahnhof - Poppelsdorf - Ippendorf - Röttgen,3,000000,FFFFFF,6_603
+600604,6,604,,H:Bonn-Ückesdorf - Lengsdorf - Endenich - Endenicher Allee - Hauptbahnhof - Nordstadt - Auerberg - Buschdorf - Bornheim-Hersel (Stadtbahn) | R:Bornheim-Hersel (Stadtbahn) - Buschdorf - Auerberg - Nordstadt - Hauptbahnhof - Endenicher Allee - Endenich - Lengsdorf - Bonn-Ückesdorf,3,000000,FFFFFF,6_604
+600605,6,605,,"H:Duisdorf Bf - Duisdorf Mitte - Lengsdorf - Endenich - Endenicher Allee - Hauptbahnhof - Nordstadt - Auerberg - Graurheindorf, Mondorfer Fähre | R:Graurheindorf, Mondorfer Fähre - Auerberg - Nordstadt - Hauptbahnhof - Endenicher Allee - Endenich - Lengsdorf - Duisdorf Mitte - Duisdorf Bf",3,000000,FFFFFF,6_605
+600606,6,606,,H:Hardtberg Klinikum - Medinghoven - Duisdorf Bf - Schieffelingsweg - Endenich Mitte - Endenicher Allee - Hauptbahnhof - Beuel Krankenhaus - Ramersdorf U | R:Ramersdorf U - Beuel Krankenhaus - Hauptbahnhof - Endenicher Allee - Endenich Mitte - Schieffelingsweg - Duisdorf Bf - Medinghoven - Hardtberg Klinikum,3,000000,FFFFFF,6_606
+600607,6,607,,H:Hardtberg Klinikum - Medinghoven - Duisdorf Bf - Schieffelingsweg - Endenich Mitte - Endenicher Allee - Hauptbahnhof - Beuel Bf - Ramersdorf U | R:Ramersdorf U - Beuel Bf - Hauptbahnhof - Endenicher Allee - Endenich Mitte - Schieffelingsweg - Duisdorf Bf - Medinghoven - Hardtberg Klinikum,3,000000,FFFFFF,6_607
+600608,6,608,,H:Brüser Berg - Finkenhof - Duisdorf Mitte - Endenich - Endenicher Str. - Hauptbahnhof - Beuel - Pützchen - Holzlar - Kohlkaul - Gielgen | R:Gielgen - Kohlkaul - Holzlar - Pützchen - Beuel - Hauptbahnhof - Endenicher Str. - Endenich - Duisdorf Mitte - Finkenhof - Brüser Berg,3,000000,FFFFFF,6_608
+600609,6,609,,H:Brüser Berg - Hardthöhe Nordwache - Duisdorf Mitte - Endenich - Endenicher Str. - Hauptbahnhof - Beuel - Pützchen - Finkenweg - Kohlkaul - Gielgen | R:Gielgen - Kohlkaul - Finkenweg - Pützchen - Beuel - Hauptbahnhof - Endenicher Str. - Endenich - Duisdorf Mitte - Hardthöhe Nordwache - Brüser Berg,3,000000,FFFFFF,6_609
+600610,6,610,,"H:Mehlem, Giselherstraße - Mehlem Ort - Mehlem Bf - Rüngsdorf - Bad Godesberg Bf/Rheinallee - Plittersdorf - Rheinaue - Heussallee/Museumsmeile - Hauptbahnhof - Endenich Nord - Dransdorf - Lessenich - Duisdorf Bf | R:Duisdorf Bf - Lessenich - Dransdorf - Endenich Nord - Hauptbahnhof - Heussallee/Museumsmeile - Rheinaue - Plittersdorf - Bad Godesberg Bf/Rheinallee - Rüngsdorf - Mehlem Bf - Mehlem Ort - Mehlem, Giselherstraße",3,000000,FFFFFF,6_610
+600611,6,611,,H:Heiderhof - Muffendorf - Bad Godesberg Bf/Rheinallee - Plittersdorf - Rheinaue - Heussallee/Museumsmeile - Hauptbahnhof - Endenich Nord - Dransdorf - Lessenich | R:Lessenich - Dransdorf - Endenich Nord - Hauptbahnhof - Heussallee/Museumsmeile - Rheinaue - Plittersdorf - Bad Godesberg Bf/Rheinallee - Muffendorf - Heiderhof,3,000000,FFFFFF,6_611
+600612,6,612,,H:Mehlem Fähre - Mehlem Ort - Lannesdorf - Bad Godesberg Mitte - Friesdorf - Dottendorf | R:Dottendorf - Friesdorf - Bad Godesberg Mitte - Lannesdorf - Mehlem Ort - Mehlem Fähre,3,000000,FFFFFF,6_612
+600613,6,613,,"H:Mehlem, Giselherstr. - Mehlem Ort - Mehlem Bf - Rüngsdorf - Bad Godesberg Bf/Rheinallee - Heiderhof | R:Heiderhof - Bad Godesberg Bf/Rheinallee - Rüngsdorf - Mehlem Bf - Mehlem Ort - Mehlem, Giselherstr.",3,000000,FFFFFF,6_613
+600614,6,614,,"H:Mehlem, Im Rosenberg - Lannesdorf - Mehlem Bf - Pennenfeld - Bad Godesberg Mitte - (Friesdorf - Dottendorf) | R:(Dottendorf - Friesdorf) - Bad Godesberg Mitte - Pennenfeld - Mehlem Bf - Lannesdorf - Mehlem, Im Rosenberg",3,000000,FFFFFF,6_614
+600616,6,BE16,,,3,000000,FFFFFF,6_BE16
+600630,6,630,,"H:(Gronau - Dottendorf) - Venusberg, Uniklinikum - Ippendorf - Brüser Berg - Medinghoven - Duisdorf Bf - Dransdorf (Stadtbahn) - Tannenbusch Mitte - Buschdorf - Tannenbusch, Agnetendorfer Str. | R:Tannenbusch, Agnetendorfer Str. - Buschdorf - Tannenbusch Mitte - Dransdorf (Stadtbahn) - Duisdorf Bf - Medinghoven - Brüser Berg - Ippendorf - Venusberg, Uniklinikum - (Dottendorf - Gronau)",3,000000,FFFFFF,6_630
+600631,6,631,,"H:Tannenbusch, Agnetendorfer Straße - Tannenbusch Mitte U - Dransdorf (Stadtbahn) - Endenich Nord - Endenich Mitte - Poppelsdorf - Kessenich - Friesdorf - Robert-Schuman-Platz U | R:Robert-Schuman-Platz U - Friesdorf - Kessenich - Poppelsdorf - Nußallee - Endenich Mitte - Endenich Nord - Dransdorf (Stadtbahn) - Tannenbusch Mitte U - Tannenbusch, Agnetendorfer Straße",3,000000,FFFFFF,6_631
+600632,6,632,,"H:Venusberg, Uniklinikum - Poppelsdorf - Nußallee - Endenich - Endenich Nord Bf S | R:Endenich Nord Bf S - Endenich - Nußallee - Poppelsdorf - Venusberg, Uniklinikum",3,000000,FFFFFF,6_632
+600633,6,633,,H:Endenich Nord Bf S - Propsthof Nord (Stadtbahn) - Nordstadt - Bertha-von-Suttner-Platz - Beuel Bf - Küdinghoven - Ramersdorf U | R:Ramerdorf U - Küdinghoven - Beuel Bf - Bertha-von-Suttner-Platz - Nordstadt - Propsthof Nord (Stadtbahn) - Endenich Nord Bf S,3,000000,FFFFFF,6_633
+600634,6,634,,"H:Gronau, Fritz-Erler-Straße - Heussallee/Museumsmeile U - Bundeskanzlerplatz - Kessenich - Venusberg, Uniklinikum | R:Venusberg, Uniklinikum - Kessenich - Bundeskanzlerplatz - Heussallee/Museumsmeile U - Gronau, Fritz-Erler-Straße",3,000000,FFFFFF,6_634
+600636,6,636,,H:Bonn-Ramersdorf U - Holtorf - Gielgen - Hoholz - Sankt Augustin-Hangelar Ost (Stadtbahn) | R:Sankt Augustin-Hangelar Ost (Stadtbahn) - Hoholz - Gielgen - Holtorf - Bonn-Ramersdorf U,3,000000,FFFFFF,6_636
+600637,6,637,,H:Bad Godesberg Bf/Rheinallee - Deutschherrenstraße - Muffendorf - Marienforster Steinweg - Bad Godesberg Bf/Rheinallee | R:Bad Godesberg Bf/Rheinallee - Marienforster Steinweg - Muffendorf - Deutschherrenstraße - Bad Godesberg Bf/Rheinallee,3,000000,FFFFFF,6_637
+600638,6,638,,"H:Stadtwald/Ev. Krankenhaus - Schweinheim, Quellenstraße - Bad Godesberg Bf/Rheinallee - Plittersdorf - Robert-Schuman-Platz | R:Robert-Schuman-Platz - Plittersdorf - Bad Godesberg Bf/Rheinallee - Schweinheim, Quellenstraße - Stadtwald/Ev. Krankenhaus",3,000000,FFFFFF,6_638
+600639,6,639,,"H:Stadtwald/Ev. Krankenhaus - Schweinheim, Winterstraße - Bad Godesberg Bf/Löbestraße",3,000000,FFFFFF,6_639
+600640,6,640,,H:Bonn Hbf - Beuel - Schwarzrheindorf - Geislar - Sankt Augustin-Menden - Sankt Augustin-Mülldorf (Stadtbahn) - Siegburg Bf | R:Siegburg Bf - Sankt Augustin-Mülldorf (Stadtbahn) - Sankt Augustin-Menden - Geislar - Schwarzrheindorf - Beuel - Bonn Hbf,3,000000,FFFFFF,6_640
+600641,6,E,,,3,000000,FFFFFF,6_E
+600642,6,E,,,3,000000,FFFFFF,6_E
+600681,6,N1,,H:BonnNatur-Linie Hauptbahnhof - Nordstadt - Auerberg - Buschdorf - Tannenbusch - Nordstadt - Hauptbahnhof | R:BonnNatur-Linie Hauptbahnhof - Nordstadt - Tannenbusch - Buschdorf - Auerberg - Nordstadt - Hauptbahnhof,3,000000,FFFFFF,6_N1
+600682,6,N2,,H:Hauptbahnhof - Endenicher Allee - Endenich Mitte - Schieffelingsweg - Duisdorf - Medinghoven - Brüser Berg - Lengsdorf - Endenicher Allee - Hauptbahnhof | R:Hauptbahnhof - Endenicher Allee - Lengsdorf - Brüser Berg - Medinghoven - Duisdorf - Endenicher Allee - Hauptbahnhof,3,000000,FFFFFF,6_N2
+600683,6,N3,,H:Hauptbahnhof - Südstadt - Kessenich - Dottendorf - Friesdorf - Bad Godesberg Mitte - Plittersdorf - Friesdorf - Dottendorf - Kessenich - Südstadt - Hauptbahnhof | R:Hauptbahnhof - Südstadt - Kessenich - Dottendorf - Friesdorf - Plittersdorf - Bad Godesberg Mitte - Friesdorf - Dottendorf - Kessenich - Südstadt - Hauptbahnhof,3,000000,FFFFFF,6_N3
+600684,6,N4,,H:Hauptbahnhof - Beuel - Neu-Vilich - Pützchen - Finkenweg - Kohlkaul - Gielgen - Holtorf - Beuel - Hauptbahnhof | R:Hauptbahnhof - Beuel - Holtorf - Gielgen - Kohlkaul - Finkenweg - Pützchen - Neu-Vilich - Beuel - Hauptbahnhof,3,000000,FFFFFF,6_N4
+600685,6,N5,,H:Hauptbahnhof - Poppelsdorf - Venusberg - Ippendorf - Röttgen - Ückesdorf - Ippendorf - Poppelsdorf - Hauptbahnhof | R:Hauptbahnhof - Poppelsdorf - Ippendorf - Ückesdorf - Röttgen - Ippendorf - Venusberg - Poppelsdorf - Hauptbahnhof,3,000000,FFFFFF,6_N5
+600686,6,N6,,H:Hauptbahnhof - Südstadt - Poppelsdorf - Lengsdorf - Brüser Berg - Duisdorf - Endenich - Poppelsdorf - Hauptbahnhof | R:Hauptbahnhof - Südstadt - Endenich - Duisdorf - Brüser Berg - Lengsdorf - Poppelsdorf - Südstadt - Hauptbahnhof,3,000000,FFFFFF,6_N6
+600687,6,N7,,H:Hauptbahnhof - Hochkreuz - Bad Godesberg Mitte - Pennenfeld - Lannesdorf - Mehlem - Rüngsdorf - Bad Godesberg Mitte - Hochkreuz - Hauptbahnhof | R:Hauptbahnhof - Hochkreuz - Bad Godesberg Bf/Rheinallee - Rüngsdorf - Mehlem - Lannesdorf - Pennenfeld - Bad Godesberg Mitte - Hochkreuz - Hauptbahnhof,3,000000,FFFFFF,6_N7
+600688,6,N8,,H:Hauptbahnhof - Beuel Süd - Oberkassel - Ramersdorf - Küdinghoven - Beuel - Hauptbahnhof | R:Hauptbahnhof - Beuel - Küdinghoven - Ramersdorf - Oberkassel - Beuel Süd - Hauptbahnhof,3,000000,FFFFFF,6_N8
+600689,6,N9,,H:Bonn Hbf - Endenich Nord - Dransdorf - Lessenich - Duisdorf Bf - Alfter-Impekoven - Oedekoven - Alfter (Stadtbahn) - Bonn-Dransdorf - Immenburgstraße - Bonn Hbf | R:Bonn Hbf - Immenburgstraße - Bonn-Dransdorf - Alfter (Stadtbahn) - Oedekoven - Alfter-Impekoven - Duisdorf Bf - Lessenich - Dransdorf - Endenich Nord - Bonn Hbf,3,000000,FFFFFF,6_N9
+600690,6,N10,,H:Hauptbahnhof - Kaiserstraße - Rheinaue - Plittersdorf - Bad Godesberg Mitte - Heiderhof - Bad Godesberg Mitte - Hochkreuz - Kaiserstraße - Hauptbahnhof | R:Hauptbahnhof - Kaiserstraße - Hochkreuz - Bad Godesberg Bf/Löbestraße - Heiderhof - Bad Godesberg Mitte - Plittersdorf - Rheinaue - Kaiserstraße - Hauptbahnhof,3,000000,FFFFFF,6_N10
+6300023,63,SB23,,H:Leverkusen Mitte - Pützdelle - Hitdorf - Monheim Mitte | R:Monheim Mitte - Hitdorf - Pützdelle - Leverkusen Mitte,3,000000,FFFFFF,63_SB23
+6301933,63,SB33,,"H:Leverkusen, Rathaus-Galerie - Landwirtschaftszentrum - Monheim, Creative Campus | R:Monheim, Creative Campus - Landwirtschaftszentrum - Leverkusen, Rathaus-Galerie",3,000000,FFFFFF,63_SB33
+7000626,70,626,,H:Radevormwald - Wuppertal-Oberbarmen | R:Wuppertal-Oberbarmen - Radevormwald,3,000000,FFFFFF,70_626
+7001880,70,880,,,3,000000,FFFFFF,70_880
+7001885,70,885,,"H:Dormagen, Marktplatz - Chempark - Köln-Worringen S - Dormagen-Hackenbroich - Kreiskrankenhaus - Delhoven - Knechtsteden - Straberg - Nievenheim | R:Nievenheim - Straberg - Knechtsteden - Delhoven - Kreiskrankenhaus - Dormagen-Hackenbroich - Köln-Worringen S - Chempark - Dormagen, Marktplatz",3,000000,FFFFFF,70_885
+7001889,70,885E,,,3,000000,FFFFFF,70_885E
+800051,8,SB51,,H:Asbach - Windhagen - Himberg - Bad Honnef (Stadtbahn) | R:Bad Honnef (Stadtbahn) - Himberg - Windhagen - Asbach,3,000000,FFFFFF,8_SB51
+800052,8,SB52,,H:Asbach - Rindhausen - Buchholz - Mendt - Uckerath - Bierth - Hennef Bf | R:Hennef Bf - Bierth - Uckerath - Mendt - Buchholz - Rindhausen - Asbach,3,000000,FFFFFF,8_SB52
+800053,8,SB53,,H:Hennef Bf - Bröl - Schönenberg - Ruppichteroth - Waldbröl Krankenhaus | R:Waldbröl Krankenhaus - Ruppichteroth - Schönenberg - Bröl - Hennef Bf,3,000000,FFFFFF,8_SB53
+800054,8,SB54,,H:Much Rathaus - Marialinden - Overath Bf | R:Overath Bf - Marialinden - Much Rathaus,3,000000,FFFFFF,8_SB54
+800056,8,SB56,,H:Siegburg Bf - Seelscheid - Much Rathaus | R:Much Rathaus - Seelscheid - Siegburg Bf,3,000000,FFFFFF,8_SB56
+800501,8,501,,H:Siegburg Bf - Troisdorf Bf - Sieglar RSVG - Bergheim - Mondorf - Rheidt - Niederkassel - Lülsdorf Stahlenstraße | R:Lülsdorf Stahlenstraße - Niederkassel - Rheidt - Mondorf - Bergheim - Sieglar RSVG - Troisdorf Bf - Siegburg Bf,3,000000,FFFFFF,8_501
+800502,8,502,,H:Siegburg Bf - Siegburg Blücherstr. - Siegburg Bf | R:Siegburg Bf - Siegburg Blücherstr. - Siegburg Bf,3,000000,FFFFFF,8_502
+800503,8,503,,H:Siegburg Bf - Troisdorf Bf - Spich S - Kriegsdorf - Sieglar RSVG | R:Sieglar RSVG - Kriegsdorf - Spich S - Troisdorf Bf - Siegburg Bf,3,000000,FFFFFF,8_503
+800504,8,504,,H:Spich S - Uckendorf - Niederkassel - Ranzel - Lülsdorf | R:Lülsdorf - Ranzel - Niederkassel - Uckendorf - Spich S,3,000000,FFFFFF,8_504
+800505,8,505,,H:Köln-Porz-Wahn - Lind - Camp Spich - Spich Bf | R:Spich Bf - Camp Spich - Lind - Köln-Porz-Wahn,3,000000,FFFFFF,8_505
+800506,8,506,,H:Troisdorf Waldfriedhof - Troisdorf Bf - Friedrich-Wilhelms-Hütte - Sieglar RSVG | R:Sieglar RSVG - Friedrich-Wilhelms-Hütte - Troisdorf Bf - Troisdorf Waldfriedhof,3,000000,FFFFFF,8_506
+800507,8,507,,H:Junkersring - Spich Bf - Troisdorf Bf - Altenrath - Lohmar | R:Lohmar - Altenrath - Troisdorf Bf - Spich Bf - Junkersring,3,000000,FFFFFF,8_507
+800508,8,508,,H:St. Augustin Zentrum - Menden - Troisdorf Bf - Oberlar - Rotter See - Spich Bf | R:Spich Bf - Rotter See - Oberlar - Troisdorf Bf - Menden - St. Augustin Zentrum,3,000000,FFFFFF,8_508
+800510,8,510,,H:Siegburg Bf - Kaldauen - Seligenthal - Allner - Hennef Bf | R:Hennef Bf - Allner - Seligenthal - Kaldauen - Siegburg Bf,3,000000,FFFFFF,8_510
+800511,8,511,,H:Schneffelrath - Braschoß - Schreck - Stallberg - Siegburg Bf | R:Siegburg Bf - Stallberg - Schreck - Braschoß - Schneffelrath,3,000000,FFFFFF,8_511
+800512,8,512,,H:Ittenbach - Thomasberg - Stieldorf - Rauschendorf - Birlinghoven - Niederpleis - Siegburg Bf | R:Siegburg Bf - Niederpleis - Birlinghoven - Rauschendorf - Stieldorf - Thomasberg - Ittenbach,3,000000,FFFFFF,8_512
+800513,8,513,,H:Oberpleis - Uthweiler - Birlinghoven - Niederpleis - Siegburg Bf | R:Siegburg Bf - Niederpleis - Birlinghoven - Uthweiler - Oberpleis,3,000000,FFFFFF,8_513
+800515,8,515,,H:Siegburg Bf - Siegburg Seidenbergstr. - Siegburg Bf,3,000000,FFFFFF,8_515
+800516,8,516,,H:Vilich-Müldorf - Gielgen - Hoholz - Birlinghoven - Rott - Hennef Bf | R:Hennef Bf - Rott - Birlinghoven - Hoholz - Gielgen - Vilich-Müldorf,3,000000,FFFFFF,8_516
+800517,8,517,,H:Sankt Augustin Zentrum - Niederpleis - Großenbusch - Hangelar Ost | R:Hangelar Ost - Großenbusch - Niederpleis - Sankt Augustin Zentrum,3,000000,FFFFFF,8_517
+800518,8,518,,H:Sankt Augustin Zentrum - Großenbusch - Niederberg - Hangelar Grundschule | R:Hangelar Grundschule - Niederberg - Großenbusch - Sankt Augustin Zentrum,3,000000,FFFFFF,8_518
+800519,8,BB W,,H:Bürgerbus Windeck | R:Bürgerbus Windeck,3,000000,FFFFFF,8_BB W
+800520,8,520,,H:Oberpleis Busbahnhof - Thomasberg - Oberdollendorf - Niederdollendorf Bf | R:Niederdollendorf Bf - Oberdollendorf - Thomasberg - Oberpleis Busbahnhof,3,000000,FFFFFF,8_520
+800521,8,521,,H:Oberpleis - Ittenbach - Königswinter Bf | R:Königswinter Bf - Ittenbach - Oberpleis,3,000000,FFFFFF,8_521
+800522,8,522,,H:Uckerath Alter Zoll - Bierth - Lichtenberg - Warth - Geistingen - Hennef Bf | R:Hennef Bf - Geistingen - Warth - Lichtenberg - Bierth - Uckerath Alter Zoll,3,000000,FFFFFF,8_522
+800523,8,523,,H:Hennef Bf - Geistingen - Edgoven - Geisbach - Geistingen - Hennef Bf,3,000000,FFFFFF,8_523
+800524,8,524,,H:Uckerath Alter Zoll - Eulenberg - Dahlhausen - Geisbach - Hennef Bf | R:Hennef Bf - Geisbach - Dahlhausen - Eulenberg - Uckerath Alter Zoll,3,000000,FFFFFF,8_524
+800525,8,525,,H:Oberpleis Busbahnhof - Fronhardt - Westerhausen - Söven - Hennef Bf | R:Hennef Bf - Söven - Westerhausen - Fronhardt - Oberpleis Busbahnhof,3,000000,FFFFFF,8_525
+800527,8,527,,H:Hennef Bf - Stoßdorf - Buisdorf - Siegburg Bf | R:Siegburg Bf - Buisdorf - Stoßdorf - Hennef Bf,3,000000,FFFFFF,8_527
+800529,8,529,,H:Ramersdorf - Küdinghoven - Pützchen - Sankt Augustin Zentrum - Niederpleis - Buisdorf - Hennef Bf | R:Hennef Bf - Buisdorf - Niederpleis - Sankt Augustin Zentrum - Pützchen - Küdinghoven - Ramersdorf,3,000000,FFFFFF,8_529
+800530,8,530,,H:Siegtalhüpfer: Hennef Bf - Blankenberg Katharinentor - Uckerath Grundschule | R:Siegtalhüpfer: Uckerath Grundschule - Blankenberg Katharinentor - Hennef Bf,3,000000,FFFFFF,8_530
+800531,8,531,,H:Hennef Bf - Winterscheid - Hatterscheid - Hänscheid - Ruppichteroth | R:Ruppichteroth - Hänscheid - Hatterscheid - Winterscheid - Hennef Bf,3,000000,FFFFFF,8_531
+800532,8,532,,H:Hennef Bf - Weldergoven - Lauthausen - Oberauel - Bödingen - Weldergoven - Hennef Bf,3,000000,FFFFFF,8_532
+800533,8,533,,H:Eitorf Bf - Halft - Köttingen - Rankenhohn - Bohlscheid - Eitorf Bf | R:Eitorf Bf - Bohlscheid - Rankenhohn - Köttingen - Halft - Eitorf Bf,3,000000,FFFFFF,8_533
+800535,8,535,,H:Oberpleis - Uthweiler - Birlinghoven - St. Augustin Zentrum | R:St. Augustin Zentrum - Birlinghoven - Uthweiler - Oberpleis,3,000000,FFFFFF,8_535
+800536,8,536,,H:Oberpleis - Berghausen - Eudenbach - Sassenberg | R:Sassenberg - Eudenbach - Berghausen - Oberpleis,3,000000,FFFFFF,8_536
+800537,8,537,,H:Oberpleis Busbahnhof - Stieldorf - Vinxel - Niederholtorf - Pützchen - Beuel - Bonn Hbf | R:Bonn Hbf - Beuel - Pützchen - Niederholtorf - Vinxel - Stieldorf - Oberpleis Busbahnhof,3,000000,FFFFFF,8_537
+800539,8,539,,H:Neustadt Schulzentrum - Asbach Markt - Buchholz Grundschule - Oberpleis Busbf | R:Oberpleis Busbf - Buchholz Grundschule - Asbach Markt - Neustadt Schulzentrum,3,000000,FFFFFF,8_539
+800540,8,540,,H:Sankt Augustin Zentrum - Menden - Meindorf - Geislar - Schwarzrheindorf - Beuel - Bonn Hbf | R:Bonn Hbf - Beuel - Schwarzrheindorf - Geislar - Meindorf - Menden - Sankt Augustin Zentrum,3,000000,FFFFFF,8_540
+800541,8,541,,H:Oberpleis Busbf - Bockeroth - Stieldorf - Vinxel - Oberkassel Süd - Königswinter Bf | R:Königswinter Bf - Oberkassel Süd - Vinxel - Stieldorf - Bockeroth - Oberpleis Busbf,3,000000,FFFFFF,8_541
+800542,8,542,,H:Mittel - Gierzhagen - Rosbach Bf (- Schladern Grundschule) | R:(Schladern Grundschule -) Rosbach Bf - Gierzhagen - Mittel,3,000000,FFFFFF,8_542
+800543,8,543,,H:Perseifen - Kohlberg - Öttershagen - Langenberg - Rosbach Bf | R:Rosbach Bf - Langenberg - Öttershagen - Kohlberg - Perseifen,3,000000,FFFFFF,8_543
+800544,8,544,,H:(Au Bf -) Halscheid - Hurst - Rosbach Bf | R:Rosbach Bf - Hurst - Halscheid,3,000000,FFFFFF,8_544
+800545,8,545,,H:(Röhrigshof -) Leuscheid Grundschule - Geilhausen - Imhausen - Rosbach Bf | R:Rosbach Bf - Imhausen - Geilhausen - Leuscheid Grundschule (- Röhrigshof),3,000000,FFFFFF,8_545
+800546,8,546,,H:Rosbach Bf - Schladern - Altwindeck - Dattenfeld - Rossel Dorf | R:Rossel Dorf - Dattenfeld - Altwindeck - Schladern - Rosbach Bf,3,000000,FFFFFF,8_546
+800547,8,547,,H:Rosbach Bf - Obernau - Dreisel - Dattenfeld - Hoppengarten - Herchen Bf | R:Herchen Bf - Hoppengarten - Dattenfeld - Dreisel - Obernau - Rosbach Bf,3,000000,FFFFFF,8_547
+800548,8,548,,H:Rosbach Bf - Locksiefen - Saal - Leuscheid - Alsen - Werfen - Herchen Bf | R:Herchen Bf - Werfen - Alsen - Leuscheid - Saal - Locksiefen - Rosbach Bf,3,000000,FFFFFF,8_548
+800549,8,549,,H:Ruppichteroth Denkmal - Lüttershausen - Rieferath - Gerressen - Herchen Bf | R:Herchen Bf - Gerressen - Rieferath - Lüttershausen - Ruppichteroth Denkmal,3,000000,FFFFFF,8_549
+800550,8,550,,H:Bonn Hbf - Castell - Niederkassel (- Libur - Wahn Bf) | R:(Wahn Bf. - Libur -) Niederkassel - Castell - Bonn Hbf,3,000000,FFFFFF,8_550
+800551,8,551,,H:Bonn Hbf - Beuel - Müllekoven - Eschmar - Kriegsdorf - Rotter See - Oberlar - Troisdorf Bf | R:Troisdorf Bf - Oberlar - Rotter See - Kriegsdorf - Eschmar - Müllekoven - Beuel - Bonn Hbf,3,000000,FFFFFF,8_551
+800552,8,552,,"H:Bonn Nord, Am Neuen Lindenhof - Bergheim - Müllekoven - Eschmar - Sieglar RSVG | R:Sieglar RSVG - Eschmar - Müllekoven - Bergheim - Bonn Nord, Am Neuen Lindenhof",3,000000,FFFFFF,8_552
+800553,8,553,,H:Siegburg Bf - Lohmar - Scheiderhöhe - Honrath Bf - Neuhonrath | R:Neuhonrath - Honrath Bf - Scheiderhöhe - Lohmar - Siegburg Bf,3,000000,FFFFFF,8_553
+800554,8,554,,H:Lohmar - Birk - Inger - Donrath - Lohmar | R:Lohmar - Birk - Inger - Donrath - Lohmar,3,000000,FFFFFF,8_554
+800555,8,555,,H:Siegburg Bf - Lohmar - Donrath - Kreuzhäuschen - Pohlhausen | R:Pohlhausen - Kreuzhäuschen- Donrath - Lohmar - Siegburg Bf,3,000000,FFFFFF,8_555
+800556,8,556,,H:Siegburg Bf - Lohmar - Donrath Kreuzung - Rösrath Bf | R:Rösrath Bf - Donrath Kreuzung - Lohmar - Siegburg Bf,3,000000,FFFFFF,8_556
+800557,8,557,,H:Siegburg Bf - Lohmar - Wahlscheid - Overath Bf | R:Overath Bf - Wahlscheid - Lohmar - Siegburg Bf,3,000000,FFFFFF,8_557
+800558,8,558,,H:Lohmar Märkte - Wahlscheid - Agger - Honrath Bf - Dahlhaus - Overath Schulzentrum Cyriax | R:Overath Schulzentrum Cyriax - Dahlhaus - Honrath Bf - Agger - Wahlscheid - Lohmar Märkte,3,000000,FFFFFF,8_558
+800559,8,559,,H:Lohmar Birkenweg - Donrath - Hausen - Höffen - Kern - Neuhonrath Grundschule | R:Neuhonrath Grundschule - Kern - Höffen - Hausen - Donrath - Lohmar Märkte,3,000000,FFFFFF,8_559
+800560,8,560,,H:Bad Honnef Bf - Himberg - Aegidienberg - Oberpleis | R:Oberpleis - Aegidienberg - Himberg - Bad Honnef Bf,3,000000,FFFFFF,8_560
+800561,8,561,,H:Wülscheid Post - Himberg - Ittenbach Busbf - Königswinter Bf | R:Königswinter Bf - Ittenbach Busbf - Himberg - Wülscheid Post,3,000000,FFFFFF,8_561
+800564,8,564,,H:Asbach - Limbach - Obereip - Mühleip - Irlenborn - Eitorf Bf | R:Eitorf Bf - Irlenborn - Mühleip - Obereip - Limbach - Asbach,3,000000,FFFFFF,8_564
+800565,8,565,,H:Rhöndorf Bf - Bad Honnef Mitte - Rheinbreitbach - Unkel Bf - Erpel - Linz Bf - Linz Schulzentrum | R:Linz Schulzentrum - Linz Bf - Erpel - Unkel Bf - Rheinbreitbach - Bad Honnef Mitte - Rhöndorf Bf,3,000000,FFFFFF,8_565
+800566,8,566,,H:Bad Honnef (Stadtbahn) - Bad Honnef Mitte - Selhof | R:Selhof - Bad Honnef Mitte - Bad Honnef (Stadtbahn),3,000000,FFFFFF,8_566
+800567,8,567,,H:Bad Honnef (Stadtbahn) - Rheinbreitbach - Breite Heide Kupferberg | R:Breite Heide Kupferberg - Rheinbreitbach - Bad Honnef (Stadtbahn),3,000000,FFFFFF,8_567
+800570,8,570,,H:Eitorf Bf - Süchterscheid - Uckerath | R:Uckerath - Süchterscheid - Eitorf Bf,3,000000,FFFFFF,8_570
+800571,8,571,,H:Eitorf Bf - Alzenbach - Bitze - Rodder | R:Rodder - Bitze - Alzenbach - Eitorf Bf,3,000000,FFFFFF,8_571
+800573,8,573,,H:Eitorf Bf - Käsberg - Mühleip | R:Mühleip - Käsberg - Eitorf Bf,3,000000,FFFFFF,8_573
+800576,8,576,,H:Neunkirchen Antoniusplatz - Seelscheid Post - Much Rathaus - Marienfeld Kirche | R:Marienfeld Kirche - Much Rathaus - Seelscheid Post - Neunkirchen Antoniusplatz,3,000000,FFFFFF,8_576
+800577,8,577,,H:Siegburg Bf - Birk - Pohlhausen - Neunkirchen - Wohlfahrt - Much | R:Much - Wohlfahrt - Neunkirchen - Pohlhausen - Birk - Siegburg Bf,3,000000,FFFFFF,8_577
+800578,8,578,,H:Hennef Bf - Happerschoß - Neunkirchen Antoniusplatz - Wohlfarth - Much Schulzentrum | R:Much Schulzentrum - Wohlfarth - Neunkirchen Antoniusplatz - Happerschoß - Hennef Bf,3,000000,FFFFFF,8_578
+800579,8,579,,H:Herchen Grundschule - Herchen Bf - Stromberg - Halft - Eitorf Bf | R:Eitorf Bf - Halft - Stromberg - Herchen Bf - Herchen Grundschule,3,000000,FFFFFF,8_579
+800590,8,590,,H:Schulverkehr Lohmar | R:Schulverkehr Lohmar,3,000000,FFFFFF,8_590
+800592,8,592,,H:Schulverkehr Hennef | R:Schulverkehr Hennef,3,000000,FFFFFF,8_592
+800593,8,593,,H:Schulverkehr Neunkirchen-Seelscheid | R:Schulverkehr Neunkirchen-Seelscheid,3,000000,FFFFFF,8_593
+800594,8,594,,H:Schulverkehr Much | R:Schulverkehr Much,3,000000,FFFFFF,8_594
+800596,8,596,,H:Schulverkehr Bad Honnef | R:Schulverkehr Bad Honnef,3,000000,FFFFFF,8_596
+800597,8,597,,H:Schulverkehr Windeck | R:Schulverkehr Windeck,3,000000,FFFFFF,8_597
+800598,8,598,,H:Schulverkehr Königswinter | R:Schulverkehr Königswinter,3,000000,FFFFFF,8_598
+800599,8,599,,H:Schulverkehr Sankt Augustin | R:Schulverkehr Sankt Augustin,3,000000,FFFFFF,8_599

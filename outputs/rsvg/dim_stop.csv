@@ -1,0 +1,1185 @@
+stop_id,stop_name,stop_lat,stop_lon,location_type
+77,Niederkassel Ranzel Schule,50.831688,7.030734,0
+113,Niederkassel Hallenbad,50.830211,7.019814,0
+158,Niederkassel Lülsdorf Kirche,50.829950,7.012598,0
+281,Niederkassel Lülsdorf Schulzentrum,50.832147,7.026542,0
+344,Niederkassel Ranzel Kirche,50.833154,7.035706,0
+488,Köln Wahn S-Bahn,50.858127,7.079251,0
+489,Köln Wahn Kirche,50.857406,7.086293,0
+491,Köln Wahn Friedhof,50.852500,7.089829,0
+492,Köln Linder Kreuz,50.846876,7.094298,0
+497,Köln Libur Kirche,50.838296,7.069508,0
+498,Köln Libur Margaretenstr.,50.839271,7.073066,0
+687,Bonn Hbf,50.732008,7.097128,0
+869,Niederkassel Weilerhof,50.834982,7.051376,0
+1010,Troisdorf Bergheim Grundschule,50.776533,7.086586,0
+1011,Troisdorf Bergheim Industriegebiet,50.779549,7.085153,0
+1042,Windeck Am Weiher,50.823341,7.656735,0
+1059,Bad Honnef Berck-sur-Mer-Str.,50.631465,7.225301,0
+1061,Bad Honnef Honnefer Kreuz,50.641118,7.222965,0
+1069,Troisdorf Fährhaus,50.767462,7.103868,0
+1070,Troisdorf Bergstr./L269,50.770849,7.092678,0
+1071,Niederkassel Ahrstr.,50.775693,7.072474,0
+1072,Niederkassel Beckergasse,50.776653,7.064854,0
+1073,Niederkassel Mondorf Realschule,50.779644,7.058258,0
+1074,Niederkassel An der Enggasse,50.783816,7.050227,0
+1076,Niederkassel Rheidt Markt,50.790868,7.041649,0
+1077,Niederkassel Unterführung,50.794609,7.048597,0
+1078,Niederkassel Rheidt Nord,50.798388,7.047121,0
+1079,Niederkassel Pastor-Ibach-Str.,50.787845,7.044999,0
+1080,Niederkassel Spicher Str.,50.810837,7.038248,0
+1081,Niederkassel Bergstr.,50.816388,7.035732,0
+1082,Niederkassel Sonnenberger Weg,50.827697,7.031653,0
+1086,Niederkassel Stahlenstr.,50.828726,7.002394,0
+1102,Bonn Friedensplatz,50.736282,7.097652,0
+1103,Bonn Markt,50.734671,7.102629,0
+1104,Bonn Stadthaus,50.736394,7.095360,0
+1106,Bonn Thomas-Mann-Str.,50.733773,7.094874,0
+1110,Bonn Wilhelmsplatz,50.740145,7.098919,0
+1112,Bonn Stiftsplatz,50.739095,7.101600,0
+1115,Bonn Bertha-von-Suttner-Pl./Beethovenhaus,50.737468,7.102483,0
+1151,Bonn Frankenbad/Kunstverein,50.739711,7.087660,0
+1153,Bonn Heerstr.,50.736639,7.090238,0
+1162,Bonn Rosental,50.741879,7.096098,0
+1175,Bonn LVR-Klinik,50.745598,7.092586,0
+1177,Bonn Innenministerium,50.751080,7.090871,0
+1178,Bonn Heinrich-Hertz-Europakolleg,50.754675,7.087043,0
+1179,Bonn Herseler Str.,50.755307,7.084876,0
+1182,Bonn Chlodwigplatz,50.743293,7.091044,0
+1185,Bonn Josephinum,50.749728,7.078696,0
+1227,Hennef Söven Grundschule,50.748079,7.274084,0
+1228,Hennef Theodor-Heuss-Allee,50.775097,7.277058,0
+1237,Sankt Augustin Im Goldwinkel,50.761006,7.177503,0
+1238,Niederkassel Sportplatz,50.813820,7.044487,0
+1251,Troisdorf Haberstr.,50.811392,7.130344,0
+1254,Troisdorf Dachsweg,50.827357,7.104131,0
+1257,Troisdorf Langeler Ring,50.828109,7.101623,0
+1259,Troisdorf Iltisweg,50.829402,7.105628,0
+1265,Sankt Augustin Grantham-Allee,50.780676,7.185469,0
+1359,Troisdorf Langbaurghstr.,50.822177,7.110083,0
+1366,Troisdorf Redcarstr.,50.824208,7.107250,0
+1367,Troisdorf Händelstr.,50.809223,7.105349,0
+1500,Bonn Konrad-Adenauer-Platz,50.739231,7.117442,0
+1501,Bonn Beuel Rathaus,50.739373,7.120462,0
+1502,Bonn Beueler Bahnhofsplatz,50.740926,7.125373,0
+1504,Bonn Beuel Bf,50.738477,7.127652,0
+1506,Bonn Beuel Krankenhaus,50.736636,7.117181,0
+1507,Bonn Goetheallee,50.737124,7.120650,0
+1515,Bonn Siegaue,50.763100,7.111660,0
+1521,Bonn Vilich-Müldorf,50.754149,7.146692,0
+1542,Bonn Maarstr.,50.737018,7.139913,0
+1548,Bonn Am Waldrand,50.734313,7.175983,0
+1549,Bonn Oberholtorf,50.725450,7.188323,0
+1550,Bonn Pützchen Kloster,50.742595,7.146934,0
+1551,Bonn Im Thelenpfand,50.740962,7.147517,0
+1552,Bonn Pützchen Kirche,50.743283,7.150946,0
+1553,Bonn Pützchen Schule,50.744842,7.154257,0
+1554,Bonn Bechlinghoven,50.746545,7.157445,0
+1555,Bonn Bleibtreustr.,50.734062,7.180396,0
+1556,Bonn Niederholtorf Mitte,50.733044,7.184110,0
+1557,Bonn Niederholtorf Kirche,50.730828,7.185499,0
+1558,Bonn Ungarten,50.728682,7.192258,0
+1559,Bonn Ettenhausen,50.730703,7.195907,0
+1561,Bonn Hangelarer Str.,50.750948,7.171993,0
+1562,Bonn Kohlkauler Platz,50.750074,7.174904,0
+1563,Bonn Am Tanzberg,50.747895,7.179710,0
+1564,Bonn Heidebergen,50.746927,7.184701,0
+1566,Bonn Paul-Langen-Str.,50.745160,7.173690,0
+1568,Bonn Am Rehsprung,50.745197,7.167358,0
+1570,Bonn Roleber Sportplatz,50.743501,7.188384,0
+1572,Bonn Hoholz Mitte,50.741195,7.201090,0
+1573,Bonn Pützhecke,50.738386,7.199800,0
+1574,Bonn Gielgen,50.739485,7.196017,0
+1575,Bonn Roleber Kreuzung,50.740404,7.191422,0
+1580,Bonn Broichstr.,50.734970,7.142498,0
+1581,Bonn Forstweg,50.733303,7.145630,0
+1582,Bonn Küdinghoven Kirche,50.730342,7.148731,0
+1583,Bonn Samansstr.,50.725953,7.150790,0
+1584,Bonn Ramersdorf,50.722377,7.155135,0
+1587,Bonn Mehlemstr.,50.723970,7.153079,0
+1588,Asbach (Westerw) Vorteil-Center,50.660110,7.422778,0
+1593,Bonn Oberkassel Süd/Römlinghoven,50.710151,7.174033,0
+1709,Hennef Uckerath Grundschule,50.735690,7.369310,0
+1724,Bad Honnef Logebachstr.,50.676771,7.303418,0
+1727,Windeck Alsen Weierswiese,50.758336,7.545418,0
+1733,Eitorf Schönenberger Str.,50.770689,7.485149,0
+1734,Waldbröl Walberfeldstr.,50.872556,7.607659,0
+1774,Königswinter Oberdollendorf,50.695811,7.184799,0
+1778,Königswinter Clemens-August-Str.,50.676896,7.189275,0
+1781,Bad Honnef Rhöndorf Bf,50.657874,7.210205,0
+1782,Bad Honnef Rhöndorf Kapelle,50.657376,7.213092,0
+1783,Bad Honnef Rhöndorfer Str.,50.654726,7.216318,0
+1784,Bad Honnef Physikzentrum,50.651227,7.219127,0
+1785,Bad Honnef Am Brünnele,50.648944,7.221669,0
+1786,Bad Honnef Kurhaus,50.646494,7.224632,0
+1787,Bad Honnef Post,50.644523,7.225725,0
+1788,Bad Honnef (Stadtbahn),50.643812,7.217210,0
+1790,Bad Honnef Moltkestr.,50.642600,7.231656,0
+1791,Bad Honnef Brückenstr.,50.641690,7.234332,0
+1792,Bad Honnef Sankt Martinskapelle,50.639322,7.235599,0
+1793,Bad Honnef Schulstr.,50.638796,7.233479,0
+1794,Bad Honnef Selhof Kirche,50.637303,7.233510,0
+1795,Bad Honnef Karlstr.,50.637900,7.226401,0
+1797,Bad Honnef Bf,50.639770,7.219523,0
+1798,Bad Honnef Alter Friedhof,50.639720,7.227636,0
+1799,Bad Honnef Hochschule,50.642262,7.227900,0
+1801,Sankt Augustin Hangelar Mitte,50.760408,7.166333,0
+1802,Sankt Augustin Hangelar Ost,50.763387,7.171368,0
+1803,Sankt Augustin Ort,50.770343,7.180530,0
+1804,Buchholz (Westerw) Industriegebiet,50.695686,7.378406,0
+1806,Sankt Augustin Zentrum,50.776998,7.188255,0
+1807,Sankt Augustin-Mülldorf,50.784506,7.193337,0
+1808,Sankt Augustin Fährstr.,50.784619,7.188391,0
+1809,Sankt Augustin Nobelstr.,50.780599,7.157350,0
+1810,Königswinter Alter Sportplatz,50.707657,7.268655,0
+1811,Siegburg Bf,50.793908,7.203023,0
+1812,Siegburg Zange,50.790589,7.202342,0
+1816,Lohmar Frackenpohler Str.,50.906670,7.238573,0
+1818,Sankt Augustin Menden Haas,50.788036,7.172382,0
+1820,Sankt Augustin Meindorf Kirche,50.775903,7.137598,0
+1821,Sankt Augustin Meindorf Schule,50.777989,7.140328,0
+1822,Sankt Augustin Meindorf Siedlung,50.778672,7.144031,0
+1823,Sankt Augustin Menden Bf,50.779921,7.149535,0
+1824,Sankt Augustin Mittelstr.,50.784332,7.160690,0
+1827,Sankt Augustin Menden Post,50.789991,7.162078,0
+1828,Sankt Augustin Menden Markt,50.788976,7.165527,0
+1829,Sankt Augustin Obermenden,50.787145,7.180500,0
+1933,Rheinbreitbach Bürresheimer Straße,50.619805,7.227089,0
+1936,Königswinter Rauschendorf Schule,50.736938,7.224922,0
+1950,Bonn Am Köppekreuz,50.745068,7.120896,0
+1969,Königswinter Oelinghovener Str.,50.728859,7.221213,0
+1974,Lohmar Zum Friedenskreuz,50.835219,7.270466,0
+1975,Lohmar Albach Ort,50.829320,7.264926,0
+1977,Lohmar Birk Bürgerzentrum,50.834049,7.274763,0
+1978,Lohmar Vila-Verde-Str.,50.841335,7.211029,0
+1979,Lohmar Birkenweg,50.836738,7.220862,0
+1980,Lohmar Weegen,50.846693,7.236756,0
+1982,Lohmar Ellhausen Kindergarten,50.853439,7.248238,0
+1983,Lohmar Donrath Grundschule,50.856849,7.235263,0
+1985,Sankt Augustin Rathausallee,50.777468,7.185289,0
+1997,Lohmar Klasberg,50.879913,7.216762,0
+2001,Lohmar Grünaggerstr.,50.912384,7.264817,0
+2002,Lohmar Neuhonrath Grundschule,50.895765,7.266243,0
+2003,Lohmar Neuhonrath Brücke,50.901116,7.271861,0
+2004,Lohmar Neuhonrath Kirche,50.900774,7.276799,0
+2005,Lohmar Rosaueler Weg,50.894946,7.255531,0
+2007,Lohmar Birken 2,50.900965,7.250846,0
+2009,Lohmar Goldene Ecke,50.892431,7.285895,0
+2010,Lohmar Aiselsfeld,50.889565,7.281595,0
+2011,Lohmar Bönnerbergstr.,50.864030,7.248095,0
+2012,Niederkassel Ev. Kirche,50.812562,7.039422,0
+2013,Lohmar An den Steinen,50.848841,7.219701,0
+2015,Lohmar Zur Jabachbrücke,50.846057,7.218635,0
+2018,Troisdorf Bergheim Kirche,50.774657,7.091136,0
+2019,Troisdorf Bergheim Friedhof,50.776665,7.096500,0
+2020,Troisdorf Müllekoven,50.780439,7.104273,0
+2021,Troisdorf Bergheimer Str.,50.787837,7.107199,0
+2022,Troisdorf Eschmar Kirche,50.791188,7.110271,0
+2023,Troisdorf Im Kirchtal,50.793857,7.116901,0
+2024,Troisdorf Flachtenstr.,50.796965,7.121868,0
+2025,Troisdorf Rathausstr.,50.799854,7.125228,0
+2026,Troisdorf Sieglar RSVG,50.802965,7.125232,0
+2027,Niederkassel Schäferstr.,50.821888,7.064918,0
+2028,Niederkassel Stockem,50.824265,7.088816,0
+2029,Troisdorf Vogelsang,50.825590,7.104672,0
+2030,Troisdorf Spich Bf,50.826724,7.114918,0
+2031,Troisdorf Kriegsdorfer Str.,50.825242,7.114825,0
+2032,Troisdorf Lülsdorfer Str.,50.830482,7.114908,0
+2033,Troisdorf Maarstr.,50.832568,7.113865,0
+2034,Troisdorf Porzer Str.,50.837841,7.113394,0
+2035,Troisdorf Spich Kreissparkasse,50.827404,7.119916,0
+2036,Troisdorf Spich Seniorenheim,50.827089,7.124635,0
+2037,Troisdorf Josef-Frank-Str.,50.825747,7.130535,0
+2038,Troisdorf Telegrafstr.,50.826059,7.127051,0
+2039,Troisdorf Rodderstr.,50.823275,7.129553,0
+2040,Troisdorf Kunsthaus Tor 3,50.820014,7.140430,0
+2041,Troisdorf Rathaus,50.817568,7.148785,0
+2043,Troisdorf Lindlaustr.,50.812906,7.142895,0
+2044,Troisdorf Landgrafenstr.,50.809668,7.138489,0
+2045,Troisdorf Feuerwache,50.805166,7.131825,0
+2046,Troisdorf Leostr.,50.802275,7.128705,0
+2047,Troisdorf Sieglar Krankenhaus,50.797988,7.119297,0
+2048,Troisdorf Parkfriedhof,50.797872,7.112599,0
+2051,Troisdorf Offenbachstr.,50.806669,7.103572,0
+2052,Troisdorf Haus Rott,50.813300,7.108596,0
+2055,Troisdorf Schützenstr.,50.813076,7.126369,0
+2056,Troisdorf Oberlarer Platz,50.814631,7.136510,0
+2057,Troisdorf Sieglar Schulzentrum,50.808037,7.122190,0
+2058,Troisdorf Kerpstr.,50.800649,7.129475,0
+2059,Troisdorf Schmelzer Weg,50.802306,7.135700,0
+2060,Troisdorf Friedrich-Wilhelms-Hütte Friedhof,50.802293,7.147133,0
+2061,Rheinbreitbach Denkmal,50.622070,7.228801,0
+2063,Hennef Lückert Abzw.,50.730021,7.396284,0
+2066,Troisdorf Friedrich-Wilhelms-Hütte Bf,50.802046,7.159384,0
+2067,Troisdorf Mendener Str.,50.806051,7.158873,0
+2068,Troisdorf Hermann-Ehlers-Str.,50.805841,7.151959,0
+2069,Troisdorf Bergeracker,50.806999,7.147575,0
+2070,Troisdorf Blücherstr.,50.810230,7.151755,0
+2071,Troisdorf Bf,50.813915,7.150895,0
+2073,Troisdorf Wilhelmstr.,50.815809,7.154815,0
+2075,Hennef Zum Hochbusch,50.729426,7.381365,0
+2076,Troisdorf Ursulaplatz,50.813904,7.163821,0
+2077,Hennef Issertshof,50.729228,7.405410,0
+2078,Troisdorf Elsenplatz,50.814175,7.171759,0
+2079,Hennef Kraheck,50.729658,7.410720,0
+2080,Hennef Eichholz,50.721980,7.407813,0
+2081,Troisdorf Krankenhaus,50.818280,7.159460,0
+2082,Troisdorf Brunnenstr.,50.814781,7.177607,0
+2083,Troisdorf Altenforst,50.814289,7.176445,0
+2084,Troisdorf Königsberger Str.,50.817476,7.180484,0
+2085,Troisdorf Stettiner Str.,50.819303,7.180232,0
+2086,Troisdorf Waldfriedhof,50.819460,7.173581,0
+2088,Troisdorf Jägerhof,50.854756,7.195386,0
+2089,Troisdorf Altenrath Mitte,50.857683,7.196654,0
+2091,Windeck Ehrentalsmühle,50.760464,7.592984,0
+2092,Windeck Röhrigshof,50.764100,7.586105,0
+2094,Rheinbreitbach Jagdhaus,50.616584,7.246745,0
+2096,Troisdorf Julius-Leber-Str.,50.811683,7.174577,0
+2097,Troisdorf Geschwister-Scholl-Str.,50.813168,7.176175,0
+2098,Troisdorf Aggerbrücke,50.812709,7.181570,0
+2099,Siegburg Brückberg,50.810134,7.189989,0
+2100,Siegburg Ernststr.,50.805519,7.199037,0
+2101,Siegburg Waldstr.,50.804151,7.202690,0
+2102,Siegburg Kaiserstr.,50.801683,7.205748,0
+2103,Siegburg Rhein-Sieg-Forum,50.796896,7.202745,0
+2106,Troisdorf Tierheim,50.808176,7.173794,0
+2107,Troisdorf Aggerdeich,50.805000,7.174920,0
+2108,Troisdorf Mannstaedtwerke,50.799219,7.167002,0
+2109,Sankt Augustin Menden Brücke,50.793784,7.165675,0
+2110,Sankt Augustin Marienkirchstr.,50.772792,7.188999,0
+2111,Sankt Augustin Menden Schulzentrum,50.785365,7.167961,0
+2112,Sankt Augustin Am Thomaskreuzchen,50.771732,7.195068,0
+2114,Sankt Augustin Menden Friedhof,50.781342,7.162104,0
+2115,Sankt Augustin Böttgerstr.,50.781935,7.166671,0
+2116,Sankt Augustin Kinderkrankenhaus,50.774161,7.182568,0
+2117,Sankt Augustin Bahnstr.,50.770628,7.208861,0
+2118,Sankt Augustin Niederpleis Pleistalstr.,50.771615,7.212488,0
+2119,Sankt Augustin Schmerbroich,50.762460,7.215369,0
+2120,Sankt Augustin Pleistalwerk,50.754714,7.215990,0
+2121,Sankt Augustin Karl-Hennecke-Str.,50.752277,7.218606,0
+2122,Sankt Augustin Birlinghoven Pleistalstr.,50.748517,7.223113,0
+2123,Hennef Dambroich Pleistalstr.,50.747102,7.237132,0
+2125,Sankt Augustin Langstr.,50.772765,7.217749,0
+2126,Sankt Augustin An der Hongsburg,50.784477,7.200512,0
+2127,Sankt Augustin Am Engelsgraben,50.780495,7.203061,0
+2128,Sankt Augustin Wohnpark,50.779192,7.202206,0
+2129,Sankt Augustin Sieben Bäumchen,50.776845,7.207462,0
+2130,Sankt Augustin Niederpleis Campus,50.776881,7.209164,0
+2131,Sankt Augustin Niederpleis Schulstr.,50.773675,7.210641,0
+2132,Königswinter Oberscheuren,50.741601,7.245487,0
+2133,Königswinter Niederscheuren,50.737985,7.252390,0
+2134,Königswinter Freckwinkel,50.733941,7.258982,0
+2135,Königswinter Uthweiler Kapelle,50.731611,7.264911,0
+2136,Königswinter Uthweiler Mühle,50.728016,7.269800,0
+2137,Königswinter Wahlfeld,50.720464,7.273971,0
+2138,Königswinter Feuerwehr,50.714707,7.275118,0
+2140,Königswinter Oberpleis Busbf,50.709646,7.276708,0
+2141,Königswinter Oberpleis Schulzentrum,50.706745,7.269933,0
+2142,Königswinter Am Tor,50.738651,7.226128,0
+2143,Königswinter Am Grünen Berg,50.735002,7.223455,0
+2145,Königswinter Stieldorf Kirche,50.729964,7.219499,0
+2146,Königswinter Oelinghoven,50.725451,7.223843,0
+2147,Königswinter Stieldorferhohn,50.715301,7.239239,0
+2148,Königswinter Sonderbusch,50.710725,7.242616,0
+2149,Königswinter Bellinghausen,50.705167,7.244493,0
+2150,Königswinter Grengelsbitze Weiler,50.704127,7.242554,0
+2151,Königswinter Thomasberg Bauverwaltung,50.699363,7.244990,0
+2152,Königswinter Hirschbergstr.,50.695403,7.247122,0
+2153,Königswinter Thomasberg Busch,50.693152,7.251633,0
+2154,Königswinter Schauinsland,50.691491,7.255609,0
+2155,Königswinter Stöckerhof,50.686505,7.260301,0
+2156,Königswinter Linde,50.680183,7.262197,0
+2157,Königswinter Ittenbach Busbf,50.681246,7.271097,0
+2159,Königswinter Oberpleis Freizeitzentrum,50.705215,7.264271,0
+2160,Königswinter Bellinghausen Abzw.,50.707237,7.255208,0
+2161,Königswinter Bellinghauserhohn,50.705823,7.247922,0
+2162,Königswinter Wiesenstr.,50.697067,7.243684,0
+2163,Königswinter Terrassenweg,50.698521,7.237197,0
+2164,Königswinter Haus Schlesien,50.696203,7.231956,0
+2165,Königswinter Sommerfelder Str.,50.694731,7.225732,0
+2166,Königswinter Verschönerungsweg,50.693820,7.222666,0
+2167,Königswinter Kloster Heisterbach,50.696605,7.212476,0
+2168,Königswinter Düferoth,50.731113,7.251951,0
+2169,Königswinter Friedrichshöhe,50.727953,7.247278,0
+2170,Königswinter Bockeroth,50.727347,7.240917,0
+2171,Königswinter Probsthofstr.,50.737613,7.227390,0
+2172,Königswinter Im Winkel,50.724269,7.210486,0
+2173,Königswinter Vinxel Mitte,50.720154,7.203356,0
+2174,Königswinter Frankenforst Abzw.,50.716627,7.201920,0
+2175,Königswinter Idyllenmühle,50.698974,7.207654,0
+2176,Königswinter Oberdollendorf Friedhof,50.698064,7.200964,0
+2177,Königswinter Rennenberg,50.698196,7.194230,0
+2178,Königswinter Oberdollendorf Mitte,50.697990,7.188011,0
+2179,Königswinter Niederdollendorf Bf,50.695077,7.180974,0
+2180,Königswinter Niederdollendorf Fähre,50.693974,7.176191,0
+2181,Königswinter Schulzentrum,50.681928,7.188553,0
+2182,Königswinter Bf,50.678632,7.193591,0
+2183,Königswinter Wintermühlenhof,50.678638,7.204345,0
+2184,Königswinter Rosenauer Weg,50.680434,7.217493,0
+2185,Königswinter Margarethenhöhe,50.676812,7.247987,0
+2186,Königswinter Gräfenhohn,50.683845,7.274295,0
+2187,Königswinter Ruttscheid,50.693113,7.277603,0
+2188,Königswinter Boseroth,50.701706,7.276903,0
+2190,Bad Honnef Aegidiusplatz,50.662357,7.302099,0
+2191,Bad Honnef Hövel Denkmal,50.666287,7.300398,0
+2192,Königswinter Palm,50.703738,7.239387,0
+2193,Königswinter Mehren,50.698370,7.233556,0
+2194,Königswinter Dahlhausen,50.701581,7.288294,0
+2195,Königswinter Nonnenberg,50.693876,7.292343,0
+2198,Königswinter Herresbach,50.705406,7.287026,0
+2199,Königswinter Sandscheid,50.706130,7.306837,0
+2200,Sankt Augustin Nonnenstrombergstr.,50.762498,7.180262,0
+2201,Königswinter Neuer Weg,50.701399,7.302176,0
+2202,Königswinter Im Hagen,50.699919,7.305122,0
+2203,Königswinter Willmeroth Abzw.,50.697360,7.313656,0
+2204,Königswinter Hühnerberg,50.687300,7.311323,0
+2206,Troisdorf Grundschule Heerstr.,50.819990,7.178078,0
+2207,Königswinter Kochenbach,50.677060,7.320885,0
+2208,Königswinter Quirrenbach,50.682369,7.316464,0
+2209,Königswinter Faulenbitze,50.677969,7.324759,0
+2210,Königswinter Rostingen,50.681561,7.329006,0
+2212,Königswinter Willmeroth Ort,50.699419,7.319150,0
+2213,Königswinter Gartenstr.,50.691116,7.331512,0
+2214,Königswinter Eudenbach Kirche,50.687293,7.338763,0
+2215,Königswinter Eudenbach Schule,50.686933,7.336488,0
+2216,Königswinter Eudenbach Sportplatz,50.685874,7.333939,0
+2219,Königswinter Sassenberg Wendeschleife,50.692904,7.348773,0
+2220,Königswinter Sassenberg Mitte,50.690563,7.350616,0
+2221,Königswinter Komp Abzw.,50.685730,7.353421,0
+2222,Königswinter Sassenberg Abzw.,50.685531,7.344245,0
+2223,Königswinter Flugplatz Nord,50.679511,7.364844,0
+2225,Buchholz (Westerw) Solscheid,50.685884,7.391520,0
+2226,Siegburg Blücherstr.,50.808220,7.190735,0
+2227,Siegburg Gneisenaustr.,50.806611,7.186353,0
+2228,Siegburg Adolf-Kolping-Platz,50.805164,7.188984,0
+2229,Siegburg An der Schlade,50.804379,7.197107,0
+2230,Siegburg Gartenstr.,50.803666,7.202635,0
+2233,Siegburg Wilhelm-Ostwald-Str.,50.789604,7.214102,0
+2234,Siegburg Beethovenstr.,50.788350,7.217998,0
+2237,Siegburg Marienhofstr.,50.795942,7.221841,0
+2238,Siegburg Jakobstr.,50.795617,7.225392,0
+2239,Siegburg Seidenbergstr.,50.800521,7.224925,0
+2242,Siegburg Am Turm,50.792277,7.219859,0
+2243,Hennef Bf,50.773324,7.284580,0
+2244,Hennef Mozartstr.,50.775899,7.280114,0
+2246,Hennef Sieg-Rheinischer Hof,50.772983,7.271429,0
+2247,Hennef Lorenzhöhe,50.773124,7.264202,0
+2248,Hennef Schützenstr.,50.774013,7.261008,0
+2249,Hennef Gewerbegebiet West,50.780586,7.256704,0
+2250,Hennef Stoßdorf,50.782547,7.250745,0
+2251,Sankt Augustin Ringstr.,50.783040,7.238222,0
+2252,Sankt Augustin Rosenweg,50.783324,7.231750,0
+2253,Siegburg Holzgasse,50.799497,7.211110,0
+2254,Siegburg Schwimmbad,50.803422,7.220106,0
+2255,Siegburg Stallberg Kirche,50.807496,7.231024,0
+2256,Siegburg An den Höfen,50.807030,7.235991,0
+2257,Siegburg Waldfriedhof,50.806793,7.248129,0
+2258,Siegburg Lendersbergstr.,50.807656,7.252295,0
+2259,Siegburg Mühlenhofweg,50.804276,7.255609,0
+2260,Siegburg Kaldauen Post,50.802548,7.259195,0
+2261,Siegburg Münchshecke,50.799314,7.265576,0
+2262,Siegburg Seligenthal,50.795076,7.274156,0
+2264,Siegburg Franzhäuschen,50.820454,7.263451,0
+2265,Siegburg Derenbachstr.,50.822587,7.270676,0
+2266,Siegburg Schreck,50.825751,7.278895,0
+2267,Siegburg Brunnenweg,50.823965,7.285161,0
+2268,Siegburg Bitzerweg,50.820950,7.283886,0
+2269,Siegburg Schneffelrath,50.817701,7.284166,0
+2270,Siegburg Jägerstr.,50.810553,7.230948,0
+2271,Sankt Augustin Lochnerstr.,50.778579,7.207535,0
+2272,Sankt Augustin Am Kreuzeck,50.767648,7.197076,0
+2273,Sankt Augustin Niederberg-Kaserne,50.765908,7.189632,0
+2274,Sankt Augustin Waldstr.,50.764467,7.186364,0
+2275,Sankt Augustin Hirschbergweg,50.762112,7.185496,0
+2276,Sankt Augustin Eisenachstr.,50.760591,7.189214,0
+2277,Sankt Augustin Weimarstr.,50.758061,7.187761,0
+2278,Sankt Augustin Erfurtstr.,50.760711,7.184426,0
+2280,Rheinbreitbach Maarweg,50.625806,7.223232,0
+2293,Siegburg Nordfriedhof,50.809232,7.209475,0
+2297,Hennef Gartenstr.,50.778571,7.275862,0
+2298,Sankt Augustin Rheinstr.,50.758393,7.178968,0
+2300,Sankt Augustin Eifelstr.,50.757105,7.172133,0
+2303,Sankt Augustin Heckenweg,50.756989,7.163045,0
+2304,Bonn Alte Schulstr.,50.750453,7.153177,0
+2305,Bonn Friedenstr.,50.748011,7.150141,0
+2307,Bonn Holtorfer Str.,50.741495,7.150916,0
+2308,Bonn Am Weidenbach,50.738566,7.159812,0
+2309,Bonn Forsthaus Hardt,50.735622,7.169259,0
+2311,Sankt Augustin Schloßstr.,50.747440,7.220435,0
+2314,Sankt Augustin Löwenburgstr.,50.757238,7.183885,0
+2315,Sankt Augustin Petersbergstr.,50.755705,7.186071,0
+2316,Sankt Augustin Jagdweg,50.755236,7.180901,0
+2317,Sankt Augustin Auf dem Niederberg,50.755497,7.177379,0
+2318,Hennef Rott Denkmal,50.746103,7.259067,0
+2319,Hennef Rott Mitte,50.746058,7.264068,0
+2320,Hennef Söven Denkmal,50.749178,7.277132,0
+2321,Hennef Sportschule,50.760823,7.273608,0
+2322,Hennef Waldfrieden,50.767667,7.270859,0
+2324,Sankt Augustin Gartenstr.,50.779031,7.194205,0
+2327,Königswinter Vinxel Kapelle,50.722152,7.203945,0
+2328,Hennef Schultes,50.749538,7.278771,0
+2329,Hennef Oberpleiser Str.,50.748491,7.282469,0
+2330,Hennef Hofen Abzw.,50.737585,7.287469,0
+2331,Hennef Westerhausen,50.732656,7.293368,0
+2332,Hennef Broichhausen,50.725962,7.305137,0
+2333,Hennef Kurscheid,50.724698,7.310413,0
+2334,Hennef Wiersberg Abzw.,50.718694,7.313531,0
+2335,Königswinter Sand,50.713069,7.314096,0
+2336,Königswinter Waschpohl,50.713957,7.309505,0
+2337,Königswinter Frohnhardt Denkmal,50.712723,7.304076,0
+2342,Hennef Alter Zoll,50.729000,7.370248,0
+2343,Hennef Uckerath Mitte,50.730617,7.368808,0
+2344,Hennef Hollenbusch,50.732480,7.358621,0
+2345,Hennef Hüchel Denkmal,50.732205,7.348995,0
+2346,Hennef Hüchel West,50.728464,7.342132,0
+2347,Hennef Mittelstr.,50.771403,7.283493,0
+2348,Hennef Bachstr.,50.770283,7.291273,0
+2349,Hennef Warth Siedlung,50.770288,7.297298,0
+2350,Hennef Hossenberg,50.763857,7.322450,0
+2351,Hennef Käsberg,50.761253,7.330059,0
+2352,Hennef Striefen,50.755260,7.336833,0
+2353,Hennef Lichtenberg B8,50.745712,7.345544,0
+2354,Hennef Lichtenberg Ort,50.741839,7.339950,0
+2355,Hennef Adscheider Weg,50.741965,7.350834,0
+2356,Hennef Bierth,50.739720,7.361395,0
+2357,Hennef Uckerath West,50.733674,7.365668,0
+2367,Hennef Wasserheß,50.722017,7.378442,0
+2368,Hennef Buchheide,50.719918,7.385631,0
+2371,Hennef Stotterheck B8,50.716900,7.395908,0
+2372,Hennef Schulen Hanftalstr.,50.766860,7.301584,0
+2373,Hennef Im Alten Garten,50.762429,7.307130,0
+2374,Hennef Lanzenbach,50.750450,7.309999,0
+2375,Hennef Kuchenbach Abzw.,50.747688,7.310177,0
+2376,Hennef Kurenbach,50.739334,7.312763,0
+2377,Hennef Hermesmühle,50.726719,7.326502,0
+2378,Hennef Zumhof Abzw. I,50.724959,7.329469,0
+2379,Hennef Dahlhausen,50.720883,7.340017,0
+2380,Hennef Hanfmühle,50.710309,7.345591,0
+2382,Hennef Hanf,50.705854,7.342930,0
+2383,Hennef Heide Abzw.,50.709025,7.346277,0
+2384,Hennef Heide,50.708202,7.355257,0
+2385,Hennef Köschbusch,50.707261,7.358019,0
+2386,Hennef Überholz,50.708903,7.362144,0
+2387,Hennef Eulenberg,50.710716,7.363981,0
+2395,Hennef Bröltalstr.,50.772912,7.299030,0
+2396,Hennef Weldergoven Abzw.,50.777590,7.305143,0
+2397,Hennef Allner,50.781666,7.304051,0
+2398,Hennef Bröl Schule,50.787342,7.314973,0
+2399,Hennef Bröl Kirche,50.791330,7.328686,0
+2400,Hennef Katharinental,50.799929,7.336136,0
+2401,Neunkirchen-Seelscheid Ingersau,50.822827,7.356333,0
+2403,Ruppichteroth Herrnstein,50.829948,7.390507,0
+2404,Ruppichteroth Büchel,50.836268,7.404011,0
+2405,Ruppichteroth Bröleck,50.839844,7.416811,0
+2406,Ruppichteroth Brunnenweg,50.839295,7.433802,0
+2407,Ruppichteroth Schönenberg Mitte,50.839020,7.438579,0
+2408,Ruppichteroth Ahe,50.837195,7.457461,0
+2409,Ruppichteroth Harth,50.838995,7.472978,0
+2410,Ruppichteroth Post,50.842302,7.479485,0
+2411,Ruppichteroth Denkmal,50.844815,7.486196,0
+2412,Ruppichteroth Oeleroth,50.848063,7.501422,0
+2413,Nümbrecht Schönhausen,50.854908,7.515049,0
+2414,Nümbrecht Benroth,50.858027,7.524013,0
+2415,Nümbrecht Berkenroth,50.859672,7.545884,0
+2421,Waldbröl Ziegenhardt,50.859263,7.559051,0
+2423,Waldbröl Rossenbach,50.860131,7.575414,0
+2424,Waldbröl Beuinghausen,50.862772,7.585518,0
+2426,Waldbröl Brenzingen,50.870481,7.604235,0
+2428,Waldbröl Busbf,50.874699,7.613260,0
+2431,Waldbröl Krankenhaus,50.877888,7.629569,0
+2432,Waldbröl Kreissparkasse,50.878277,7.621653,0
+2433,Waldbröl Schulzentrum,50.875288,7.605721,0
+2435,Ruppichteroth Schreckenberg Abzw.,50.803401,7.359331,0
+2436,Ruppichteroth Pfaffensteg Abzw.,50.806433,7.366058,0
+2439,Ruppichteroth Haus Tanneck,50.810121,7.399977,0
+2440,Ruppichteroth Bechlingen,50.809689,7.403696,0
+2441,Ruppichteroth Schmitzdörfgen Abzw.,50.809633,7.410632,0
+2442,Ruppichteroth Holenfeld Abzw.,50.810191,7.415771,0
+2443,Ruppichteroth Kreuzung Schneppe,50.813833,7.425218,0
+2444,Ruppichteroth Berg Abzw.,50.819933,7.422622,0
+2446,Ruppichteroth Winterscheid Kirche,50.814843,7.376350,0
+2447,Ruppichteroth Weiher,50.815545,7.370936,0
+2448,Ruppichteroth Schreckenberg Ort,50.812722,7.362524,0
+2449,Ruppichteroth Kuchem,50.824284,7.421875,0
+2450,Ruppichteroth Hänscheid,50.835447,7.424272,0
+2458,Eitorf Schulzentrum,50.773804,7.450583,0
+2459,Eitorf Markt/Brückenstr.,50.772306,7.450267,0
+2460,Eitorf Markt,50.770394,7.449358,0
+2461,Eitorf Bf,50.773619,7.447317,0
+2462,Hennef Weldergoven Ort,50.778120,7.313183,0
+2463,Hennef Müschmühle,50.782335,7.306097,0
+2464,Hennef Bauhof Gilliam,50.781187,7.321053,0
+2465,Hennef Lauthausen Sportplatz,50.777504,7.326337,0
+2466,Hennef Lauthausen Mitte,50.776166,7.328610,0
+2467,Hennef Oberauel,50.773109,7.350513,0
+2468,Hennef Kningelthal,50.778814,7.352336,0
+2469,Hennef Bödingen Friedhof,50.780096,7.344929,0
+2470,Hennef Bödingen Kloster,50.783391,7.342131,0
+2471,Hennef Hospiz,50.785145,7.338125,0
+2472,Hennef Altenbödingen,50.783170,7.332439,0
+2479,Eitorf Rankenhohn Abzw.,50.810097,7.466251,0
+2480,Eitorf Lüttershausen Abzw.,50.803306,7.473713,0
+2481,Eitorf Kreisfeld,50.805628,7.470622,0
+2482,Eitorf Oberottersbach,50.799813,7.479036,0
+2483,Eitorf Niederottersbach,50.789406,7.484437,0
+2484,Eitorf Köttingen,50.783568,7.484054,0
+2485,Eitorf Kehlenbach Abzw.,50.779545,7.483005,0
+2486,Eitorf Halft,50.774062,7.477231,0
+2487,Eitorf Baleroth Abzw.,50.776500,7.468546,0
+2488,Eitorf Probach,50.777722,7.463635,0
+2489,Eitorf Kelters,50.777521,7.455250,0
+2490,Eitorf Rankenhohn,50.806688,7.463576,0
+2491,Eitorf Grengel,50.803177,7.462473,0
+2492,Eitorf Oberbohlscheid,50.795632,7.454777,0
+2493,Eitorf Niederbohlscheid,50.787611,7.452089,0
+2497,Sankt Augustin Wolfsbach,50.752973,7.171760,0
+2502,Königswinter Pleiserhohn,50.725439,7.290818,0
+2503,Königswinter Pleiserhohn Campingplatz,50.719285,7.286344,0
+2505,Sankt Augustin Buschberg,50.780607,7.228530,0
+2507,Hennef Helenenstift,50.772987,7.267743,0
+2508,Troisdorf Müllekovener Str.,50.775683,7.101482,0
+2509,Troisdorf Breitestr.,50.772527,7.096828,0
+2512,Hennef Bröl Dorfplatz,50.790304,7.329621,0
+2537,Sankt Augustin Otto-von-Guericke-Str.,50.788423,7.177639,0
+2538,Sankt Augustin Einsteinstr.,50.791208,7.180503,0
+2553,Bonn Friedhof Om Berg,50.737450,7.197198,0
+2555,Bonn Vilich-Müldorf Kirche,50.755966,7.145660,0
+2557,Much Oberhausen Abzw.,50.870255,7.396778,0
+2563,Troisdorf Friedrich-Wilhelms-Hütte Kirche,50.802513,7.151224,0
+2566,Neunkirchen-Seelscheid Waldstr.,50.846827,7.339365,0
+2570,Unkel Fritz-Henkel-Straße,50.600797,7.217060,0
+2571,Unkel Grundschule,50.598468,7.218836,0
+2573,Overath Hallenbad,50.929513,7.283347,0
+2596,Neunkirchen-Seelscheid Ortsbitze,50.855426,7.336586,0
+2618,Hennef Obere Siegstr.,50.772596,7.291847,0
+2628,Rösrath Pannhof,50.892121,7.185299,0
+2631,Overath Mucher Str.,50.923838,7.315107,0
+2650,Siegburg Kaserne,50.807305,7.195876,0
+2653,Troisdorf Oberlar Friedhof,50.813607,7.130029,0
+2654,Troisdorf Im Wiesengrund,50.827061,7.127572,0
+2656,Troisdorf Belgische Allee,50.835511,7.110670,0
+2657,Troisdorf Brüsseler Str.,50.839303,7.107054,0
+2664,Troisdorf Kuttgasse,50.811571,7.158839,0
+2665,Siegburg Feuerwache,50.799246,7.212806,0
+2666,Troisdorf Spich Grundschule,50.822448,7.114589,0
+2667,Bonn Brüdergasse/Bertha-von-Suttner-Platz,50.736768,7.104223,0
+2668,Troisdorf Hannoversche Str.,50.808782,7.116661,0
+2669,Troisdorf Westfalenstr.,50.811568,7.114869,0
+2671,Troisdorf Nahestr.,50.806748,7.156620,0
+2672,Troisdorf Oberlar Kirche,50.813867,7.142082,0
+2674,Siegburg Hochhausener Weg,50.826569,7.281372,0
+2675,Königswinter Longenburg (Bus),50.684400,7.186012,0
+2676,Hennef Warth Friedhof,50.768176,7.305292,0
+2677,Buchholz (Westerw) Wendehammer,50.704864,7.389760,0
+2678,Buchholz (Westerw) Wertenbruch,50.705317,7.377414,0
+2679,Buchholz (Westerw) Krautscheider Straße,50.700025,7.377854,0
+2681,Buchholz (Westerw) Spielplatz,50.690316,7.383980,0
+2682,Buchholz (Westerw) Dürenberg,50.691711,7.401160,0
+2683,Buchholz (Westerw) Wahl,50.686031,7.400199,0
+2684,Asbach (Westerw) Kapelle,50.673130,7.404752,0
+2687,Asbach (Westerw) Bennauthal,50.665833,7.395524,0
+2688,Asbach (Westerw) Drinhausen Abzw.,50.663914,7.409328,0
+2690,Buchholz (Westerw) Kapelle,50.696235,7.411359,0
+2691,Buchholz (Westerw) Grundschule,50.686611,7.394640,0
+2692,Buchholz (Westerw) Buchholzstraße,50.699294,7.430362,0
+2693,Buchholz (Westerw) Neuwieder Straße,50.699111,7.434220,0
+2694,Asbach (Westerw) Hurtenbach,50.689143,7.438473,0
+2695,Asbach (Westerw) Zum Mückensee,50.682688,7.433380,0
+2696,Asbach (Westerw) Hofstraße,50.678545,7.435517,0
+2697,Asbach (Westerw) Kirchspitz,50.667982,7.430315,0
+2698,Asbach (Westerw) Markt,50.666686,7.426102,0
+2701,Asbach (Westerw) Honnefer Straße,50.665687,7.420980,0
+2702,Asbach (Westerw) Kirche,50.684889,7.442956,0
+2703,Asbach (Westerw) Anton-Limbach-Straße,50.660061,7.419353,0
+2705,Neunkirchen-Seelscheid Germanenstr.,50.868441,7.327341,0
+2714,Hennef Fasanenweg,50.767749,7.296916,0
+2716,Neunkirchen-Seelscheid Zum Acker,50.878974,7.320450,0
+2717,Hennef Forellenweg,50.765122,7.299466,0
+2718,Hennef Am Bürgerberg,50.762087,7.301565,0
+2719,Hennef Im Kochsgarten,50.760698,7.306047,0
+2721,Overath Federath,50.943567,7.376208,0
+2722,Buchholz (Westerw) Hennefer Straße,50.707984,7.381471,0
+2725,Buchholz (Westerw) Abzw.,50.681806,7.383673,0
+2726,Hennef Ackerstr.,50.732388,7.365673,0
+2730,Siegburg Deutzer-Hof-Str.,50.811346,7.234232,0
+2734,Ruppichteroth Hatterscheid,50.814781,7.400429,0
+2736,Niederkassel Rathausplatz,50.813037,7.036495,0
+2743,Troisdorf Im Grund,50.813622,7.168624,0
+2744,Ruppichteroth Herrenbröl,50.838222,7.448620,0
+2759,Troisdorf AGGUA-Bad,50.809412,7.174222,0
+2764,Lohmar Krewelshof,50.873294,7.198787,0
+2802,Bonn Röhfeldstr. Ost,50.742424,7.139619,0
+2803,Troisdorf Sieglar Schulzentrum/Schwabenweg,50.809102,7.121790,0
+2806,Köln Am Grott,50.842358,7.104372,0
+2807,Köln Niederkasseler Str.,50.840187,7.102049,0
+2809,Köln Spicher Str.,50.842773,7.101358,0
+2810,Bonn Beuel Hallenbad,50.737572,7.123593,0
+2826,Rheinbreitbach Neuwieder Straße,50.616508,7.227667,0
+2827,Rheinbreitbach Hauptstraße,50.617852,7.228960,0
+2828,Unkel Löwenburgstraße,50.610847,7.224073,0
+2829,Unkel Siebengebirgsstraße,50.607656,7.223156,0
+2833,Unkel Sportplatz,50.594521,7.221516,0
+2834,Unkel Auf dem Sand,50.592320,7.224806,0
+2835,Unkel Sebastianstraße,50.589396,7.226693,0
+2836,Erpel Rheinstraße,50.583108,7.232178,0
+2837,Erpel Rheinfähre,50.581938,7.237414,0
+2839,Kasbach-Ohlenberg Abzw.,50.578683,7.260088,0
+2840,Linz (Rhein) Linzhausen,50.572559,7.271006,0
+2845,Rheinbreitbach Wohnpark,50.620829,7.229730,0
+2887,Much Rathaus,50.906036,7.406294,0
+2888,Much Kirche,50.905548,7.408043,0
+2914,Eitorf Sehlenbach,50.760818,7.502029,0
+2915,Windeck Rübengarten,50.761761,7.550137,0
+2916,Niederkassel Ludwigsplatz,50.828733,7.010897,0
+2917,Windeck Rosbach Freibad,50.795334,7.611446,0
+2918,Windeck Rosbach Friedhof,50.794746,7.619539,0
+2923,Windeck Im Ünken,50.803819,7.558708,0
+2931,Ruppichteroth Herchener Str.,50.842203,7.487945,0
+2932,Windeck Rosbach Mitte,50.798259,7.607958,0
+2933,Rheinbreitbach Rheinblickstraße,50.623851,7.229569,0
+2934,Lohmar Im Müllerhof,50.882564,7.250850,0
+2956,Windeck Bachmühlenweg,50.800625,7.611756,0
+2957,Windeck Rosbach Grundschule,50.791584,7.612835,0
+2958,Windeck Kästnerstr.,50.790858,7.618540,0
+2959,Windeck Aldi-Parkplatz,50.801368,7.608065,0
+2962,Hennef Pumpe Berg,50.760626,7.367898,0
+2996,Lohmar Dahlhaus,50.925313,7.246279,0
+3275,Hennef Mahrberg,50.775400,7.327922,0
+3335,Hennef Happerschoßer Str.,50.791929,7.327469,0
+3336,Sankt Augustin Hangelar Grundschule,50.761403,7.164898,0
+3363,Hennef Bödinger Hof,50.764916,7.305059,0
+3554,Bad Honnef Wintersberg,50.654342,7.312950,0
+3564,Königswinter Bennerscheid,50.706605,7.320540,0
+3575,Hennef Christuskirche,50.772280,7.279802,0
+3590,Hennef Attenberger Str.,50.761772,7.375160,0
+3593,Hennef Katharinentor,50.761194,7.364754,0
+3595,Hennef Steinerhart,50.767317,7.340636,0
+3599,Hennef Fernegierscheid,50.742618,7.408786,0
+3600,Hennef Blankenberger Str.,50.772985,7.308559,0
+3621,Hennef Bülgenauel,50.772713,7.375169,0
+3666,Hennef Meisenbach,50.713639,7.423931,0
+3681,Hennef Auf dem Platz,50.728969,7.384978,0
+3685,Hennef Darscheid,50.730009,7.401014,0
+3722,Hennef Löbach,50.729528,7.391680,0
+3727,Hennef Ravenstein Abzw.,50.744833,7.396526,0
+3766,Rösrath Sülztalplatz,50.896516,7.182682,0
+3767,Rösrath Bf,50.901542,7.182653,0
+3780,Lohmar Durbusch,50.919555,7.236511,0
+3781,Rösrath Eigen,50.912300,7.234044,0
+3782,Rösrath Schlehecken,50.908584,7.235183,0
+3843,Overath Heiligenhaus,50.938721,7.255018,0
+3844,Overath Rathaus,50.932983,7.281750,0
+3845,Overath Bf,50.932725,7.288813,0
+3912,Overath Steinhof / Bf,50.931885,7.284351,0
+3913,Overath Schulzentrum/Cyriax,50.926053,7.280009,0
+3914,Overath Lölsberg,50.921603,7.289046,0
+3915,Overath Eulenthal,50.918338,7.296507,0
+3916,Overath Rittberg,50.932128,7.305383,0
+3918,Overath Marialinden Altenheim,50.932319,7.321150,0
+3919,Overath Marialinden Schule,50.933228,7.325017,0
+3920,Overath Großoderscheid,50.935390,7.333330,0
+3921,Overath Fahn,50.937945,7.342537,0
+3922,Overath Landwehr,50.939560,7.348218,0
+3923,Overath Lorkenhöhe,50.939436,7.355883,0
+3924,Much Neverdorf,50.932736,7.376074,0
+3925,Much Gerlinghausen Abzw.,50.929763,7.382686,0
+3926,Much Eckhausen,50.926299,7.379183,0
+3927,Much Gerlinghausen,50.931555,7.393764,0
+3928,Much Gibbinghausen,50.924277,7.406987,0
+3929,Much Heinenbusch Abzw.,50.920638,7.406792,0
+3930,Much Tillinghausen Abzw.,50.913839,7.403302,0
+3932,Much Gippenstein,50.906845,7.394319,0
+3933,Much Bövingen Ort,50.917146,7.376282,0
+3937,Overath Bixnaaf,50.935861,7.366378,0
+4564,Sankt Augustin Pleiser Dreieck,50.770387,7.202618,0
+4565,Sankt Augustin Rechenzentrum,50.788767,7.183660,0
+4570,Much Schulzentrum,50.903551,7.399879,0
+4656,Ruppichteroth Fußhollen,50.805943,7.393766,0
+4663,Much Marienfeld Abzw.,50.886135,7.434232,0
+4664,Much Wersch,50.893682,7.425793,0
+4666,Much Schwimmbad,50.904102,7.412392,0
+4667,Much Marienfeld Kirche,50.885763,7.442506,0
+4672,Windeck Dattenfeld Grundschule,50.801528,7.562632,0
+4680,Much Wahnbachtalstr.,50.903827,7.410578,0
+4681,Ruppichteroth Ennenbach,50.831904,7.492685,0
+4687,Windeck Siegtalstr.,50.781703,7.513730,0
+4688,Windeck Herchen Bf,50.771265,7.521332,0
+4719,Windeck Au (Sieg) Bf,50.773765,7.656527,0
+4720,Windeck Wiedenhof,50.778407,7.632714,0
+4721,Windeck Eich (Windeck),50.783356,7.627257,0
+4722,Windeck Eulenbruch,50.788620,7.623681,0
+4723,Windeck Rosbach Bf,50.796765,7.608758,0
+4724,Windeck Rolandseck,50.801165,7.607788,0
+4725,Windeck Kleehahn,50.805646,7.610141,0
+4726,Windeck Poche,50.808924,7.609090,0
+4728,Windeck Schladern Bf,50.806997,7.592254,0
+4738,Windeck Gierzhagen,50.816212,7.613783,0
+4739,Windeck Rommen,50.826275,7.609645,0
+4747,Windeck Sieg,50.795145,7.614716,0
+4748,Windeck Rüddel,50.788746,7.613318,0
+4749,Windeck Obernau,50.784964,7.611813,0
+4751,Windeck Rosbach Roth,50.788316,7.606042,0
+4752,Windeck Rosbach DRK,50.792452,7.600128,0
+4753,Windeck Locksiefen,50.781114,7.583108,0
+4754,Windeck Saal,50.780179,7.569137,0
+4756,Windeck Leuscheid Friedhof,50.766063,7.560557,0
+4757,Windeck Leuscheid Markt,50.767948,7.560818,0
+4758,Windeck Lindenpütz,50.797786,7.600565,0
+4759,Windeck Mauel,50.803617,7.601460,0
+4766,Windeck Perseifen,50.828997,7.650363,0
+4769,Windeck Silberhardt,50.822415,7.640891,0
+4770,Windeck Öttershagen,50.819676,7.636197,0
+4771,Windeck Langenberg,50.813598,7.627272,0
+4773,Windeck Distelshausen,50.812432,7.660236,0
+4775,Windeck Halscheid,50.797882,7.666217,0
+4776,Windeck Altenhof,50.798943,7.651672,0
+4777,Windeck Hurster Hof,50.792545,7.641263,0
+4778,Windeck Severinsweg,50.793057,7.634870,0
+4779,Windeck Waldkrankenhaus,50.799648,7.623865,0
+4780,Windeck Wardenbach,50.798753,7.615181,0
+4788,Windeck Bellingen Ort,50.806282,7.671638,0
+4828,Much Loßkittel,50.896310,7.406982,0
+4829,Much Amtsknechtswahn,50.892420,7.405259,0
+4830,Much Leverath,50.887259,7.401607,0
+4831,Much Bennrath,50.884903,7.396491,0
+4832,Much Herrenteich,50.884025,7.389431,0
+4833,Much Kreuzkapelle,50.881245,7.388822,0
+4835,Much Kranüchel,50.877108,7.385943,0
+4836,Much Wohlfarth,50.873920,7.398493,0
+4842,Hennef Lise-Meitner-Str.,50.768872,7.313788,0
+4843,Hennef Dondorf,50.766535,7.324850,0
+4844,Hennef Greuelsiefen Buchenweg,50.767072,7.339253,0
+4845,Hennef Stein,50.765111,7.354138,0
+4847,Eitorf Bach,50.765456,7.402527,0
+4848,Eitorf Happach,50.770253,7.401352,0
+4850,Eitorf Post,50.771145,7.451125,0
+4851,Eitorf Alte Siegstr.,50.772233,7.461167,0
+4852,Windeck Elisentalstr.,50.807368,7.556811,0
+4854,Windeck Unkelmühle,50.766743,7.502672,0
+4855,Windeck Stromberg Mitte,50.760007,7.518827,0
+4856,Windeck Röcklingen Brücke,50.795305,7.515106,0
+4859,Windeck Kiefernweg,50.798340,7.527772,0
+4861,Windeck Dattenfeld Bf,50.809154,7.546244,0
+4862,Windeck Übersetziger Str.,50.804743,7.558129,0
+4863,Windeck Hoppengarten Mitte,50.800139,7.524256,0
+4865,Windeck Lütz Eck,50.802976,7.560524,0
+4866,Windeck Dattenfeld Kreuz,50.805935,7.566454,0
+4867,Windeck Altwindeck,50.810415,7.573556,0
+4869,Windeck Dreisel,50.797334,7.577656,0
+4871,Eitorf Schützenau,50.762865,7.407155,0
+4872,Hennef Niederscheid,50.758849,7.406935,0
+4873,Hennef Mittelscheid,50.755447,7.402057,0
+4874,Hennef Oberscheid,50.751761,7.396789,0
+4875,Hennef Süchterscheid Kindergarten,50.748083,7.388617,0
+4877,Hennef Wellesberg,50.717263,7.324055,0
+4878,Windeck Kocherscheid,50.755986,7.577185,0
+4879,Königswinter An den Eichen,50.710431,7.292770,0
+4880,Eitorf Zur Alten Burg,50.761268,7.476658,0
+4881,Eitorf Käsberg Abzw.,50.755812,7.482240,0
+4882,Eitorf Alzenbacher Str.,50.757663,7.485119,0
+4883,Eitorf Rodder Abzw.,50.760775,7.487811,0
+4884,Eitorf Rodder,50.750552,7.502720,0
+4885,Eitorf Alzenbach Schule,50.768979,7.487462,0
+4886,Eitorf Siegbrücke,50.769370,7.482881,0
+4887,Eitorf Gartenstr.,50.771215,7.456287,0
+4888,Windeck Auf der Rutsche,50.761629,7.513025,0
+4889,Windeck Igelshof,50.773979,7.522852,0
+4893,Windeck Werfen Mitte,50.772570,7.532206,0
+4894,Windeck Bienenhof,50.767426,7.539225,0
+4895,Windeck Schabernack,50.771473,7.610937,0
+4896,Windeck Eutscheid,50.759877,7.570031,0
+4897,Windeck Kuchhausen,50.749300,7.568402,0
+4899,Windeck Dahlhausen (Windeck),50.766790,7.597848,0
+4901,Windeck Leidhecke,50.773711,7.600523,0
+4903,Windeck Irsen,50.742347,7.591221,0
+4908,Eitorf Mühleip,50.732033,7.449462,0
+4909,Eitorf Obereiper Mühle,50.724698,7.451572,0
+4910,Eitorf Obereip,50.720280,7.448235,0
+4911,Eitorf Meisenbach Abzw.,50.712400,7.441366,0
+4912,Buchholz (Westerw) Vierwinden,50.707111,7.437225,0
+4913,Eitorf Bergstr.,50.766519,7.450103,0
+4914,Eitorf Krankenhaus,50.766896,7.452269,0
+4915,Eitorf Zum Höhenstein,50.762321,7.460164,0
+4916,Eitorf Huckenbröler Str.,50.763561,7.463789,0
+4917,Eitorf Käsberg,50.752289,7.471543,0
+4918,Eitorf Obenroth,50.746022,7.470227,0
+4919,Eitorf In der Helte,50.741521,7.464929,0
+4920,Eitorf Keuenhof,50.740412,7.461664,0
+4921,Eitorf Stein II,50.734778,7.463599,0
+4922,Eitorf Linkenbach,50.735345,7.454933,0
+4923,Eitorf Lindscheid,50.728212,7.434939,0
+4924,Eitorf Büsch/Hausen,50.743548,7.430634,0
+4925,Eitorf Irlenborn,50.751269,7.429934,0
+4927,Eitorf Wassack Abzw.,50.754943,7.431633,0
+4931,Bad Honnef Am Wolfshof,50.642511,7.223043,0
+4933,Bad Honnef Bergischer Hof,50.642276,7.238476,0
+4934,Bad Honnef Sportplatz,50.644279,7.242784,0
+4937,Bad Honnef Reisberg,50.657390,7.280678,0
+4938,Bad Honnef Servatiushof,50.649924,7.291589,0
+4939,Bad Honnef Himberg,50.650856,7.303195,0
+4940,Bad Honnef Siefenhoven,50.656453,7.301922,0
+4941,Bad Honnef Autobahn,50.672085,7.298832,0
+4942,Bad Honnef Brüngsberg,50.675934,7.304371,0
+4943,Bad Honnef Rottbitze Mitte,50.646204,7.312412,0
+4944,Bad Honnef Höheweg,50.647734,7.318634,0
+4949,Windhagen Vierwinden,50.642887,7.347014,0
+4950,Windhagen Wirtgen,50.640489,7.350650,0
+4953,Bad Honnef Orscheid,50.658536,7.329204,0
+4954,Bad Honnef Jägerheim,50.665092,7.339192,0
+4955,Bad Honnef Wülscheid Post,50.671430,7.336882,0
+4959,Bad Honnef Dachsberg,50.649456,7.334731,0
+4961,Bad Honnef Floßweg,50.635311,7.226362,0
+4962,Bad Honnef Neuer Friedhof,50.633243,7.227227,0
+4966,Bad Honnef Am Honnefer Graben,50.627374,7.229632,0
+4969,Siegburg Volkshochschule,50.801284,7.206078,0
+4970,Lohmar Königsberger Str.,50.831545,7.205879,0
+4971,Lohmar Bachstr.,50.835189,7.207335,0
+4972,Lohmar Steinhöfer Weg,50.838823,7.208849,0
+4973,Lohmar Stadthaus,50.842474,7.214807,0
+4974,Lohmar Schulzentrum,50.845765,7.219848,0
+4975,Lohmar Donrath Kreuzung,50.851047,7.223692,0
+4976,Lohmar Pützrath,50.855458,7.218823,0
+4977,Lohmar Altenrath Abzw.,50.858959,7.216670,0
+4978,Lohmar Bacherhof,50.868463,7.204360,0
+4980,Rösrath Rambrücken,50.882537,7.191550,0
+4982,Troisdorf Waldsiedlung,50.849273,7.195374,0
+4983,Lohmar Kirchstr.,50.840382,7.206717,0
+4984,Neunkirchen-Seelscheid Neunkirchen Kirche,50.841273,7.334563,0
+4986,Neunkirchen-Seelscheid Herkenrath Abzw.,50.846201,7.306631,0
+4987,Neunkirchen-Seelscheid Pohlhausen,50.847409,7.295036,0
+4989,Lohmar Fischburg,50.845476,7.265562,0
+4990,Lohmar Gebermühle,50.844340,7.258417,0
+4991,Lohmar Hollenberg,50.845457,7.226940,0
+4992,Overath Siegburger Str.,50.931196,7.281544,0
+4993,Overath Spich,50.925956,7.273293,0
+4994,Lohmar Aggerhütte,50.914192,7.269658,0
+4995,Lohmar Agger B484,50.910106,7.266021,0
+4996,Lohmar Naafshäuschen,50.906037,7.264872,0
+4997,Lohmar Bachermühle,50.900891,7.268571,0
+4998,Lohmar Schloßstr.,50.893597,7.254756,0
+4999,Lohmar Aueler Hof,50.891157,7.252573,0
+5000,Lohmar Wahlscheid Kirche,50.886923,7.250114,0
+5001,Lohmar Schmiede,50.878606,7.250190,0
+5002,Lohmar Stolzenbach,50.871823,7.251528,0
+5003,Lohmar Kreuznaaf,50.866079,7.248960,0
+5004,Lohmar Ellhauser Weg,50.856097,7.230727,0
+5005,Lohmar Donrath Mitte,50.852776,7.225058,0
+5006,Lohmar Heppenberg,50.859445,7.222634,0
+5007,Lohmar Wielpütz,50.865925,7.228756,0
+5008,Lohmar Scheiderhöhe,50.873591,7.228105,0
+5009,Lohmar Muchensiefen,50.882966,7.229105,0
+5010,Lohmar Oberscheid,50.885883,7.234639,0
+5011,Lohmar Scheid,50.893076,7.237046,0
+5012,Lohmar Stumpf,50.902684,7.238069,0
+5013,Lohmar Birken,50.901992,7.251470,0
+5014,Lohmar Kapellenstr.,50.826045,7.265178,0
+5015,Lohmar Albach,50.828945,7.266278,0
+5016,Lohmar Inger,50.834421,7.268627,0
+5017,Lohmar Marienhöhe,50.834159,7.280274,0
+5018,Lohmar Birk Kirche,50.835288,7.275720,0
+5019,Neunkirchen-Seelscheid Hochhausen,50.834620,7.285752,0
+5020,Neunkirchen-Seelscheid Straßen,50.841211,7.288063,0
+5021,Lohmar Salgert,50.848216,7.259885,0
+5022,Lohmar Geber,50.848947,7.263781,0
+5023,Lohmar Breidt,50.853552,7.273548,0
+5024,Lohmar Krahwinkel Ort,50.853422,7.295103,0
+5025,Lohmar Krahwinkel B56,50.852257,7.299643,0
+5026,Neunkirchen-Seelscheid Heister,50.857848,7.305295,0
+5027,Neunkirchen-Seelscheid Unterste Zeith,50.861896,7.312326,0
+5028,Neunkirchen-Seelscheid Seelscheid Post,50.870407,7.323632,0
+5029,Neunkirchen-Seelscheid Leienkreuz,50.874594,7.331679,0
+5030,Neunkirchen-Seelscheid Oberste Zeith,50.865657,7.317574,0
+5032,Neunkirchen-Seelscheid Oberheister,50.882754,7.339741,0
+5034,Neunkirchen-Seelscheid Oberdorst,50.892676,7.336046,0
+5035,Neunkirchen-Seelscheid Nackhausen,50.898541,7.337295,0
+5036,Much Eigen,50.901677,7.343682,0
+5037,Much Hetzenholz Abzw.,50.903708,7.351532,0
+5038,Much Hevinghausen,50.908257,7.365427,0
+5039,Much Siefen Abzw.,50.909474,7.371249,0
+5040,Much Pillenhof,50.887987,7.359860,0
+5041,Much Markelsbach,50.890832,7.365656,0
+5042,Much Scheid,50.893771,7.381733,0
+5043,Much Krahm,50.903449,7.395696,0
+5044,Neunkirchen-Seelscheid Hausermühle,50.860155,7.333454,0
+5045,Neunkirchen-Seelscheid Gutmühle,50.865464,7.340836,0
+5046,Neunkirchen-Seelscheid Steinermühle,50.875920,7.353200,0
+5047,Much Hillesheim,50.881971,7.365454,0
+5048,Much Herchenrath,50.882657,7.372892,0
+5049,Neunkirchen-Seelscheid Dahlerhof,50.845796,7.339946,0
+5050,Neunkirchen-Seelscheid Eischeid Abzw.,50.848568,7.350576,0
+5051,Neunkirchen-Seelscheid Birkenfeld,50.854768,7.368507,0
+5052,Neunkirchen-Seelscheid Brackemich,50.858432,7.373444,0
+5053,Much Feld,50.864757,7.385960,0
+5055,Hennef Weingartsgasse,50.788900,7.283178,0
+5056,Hennef Zum Rosengarten,50.783546,7.294291,0
+5057,Hennef Schloßstr.,50.780091,7.299356,0
+5058,Hennef Jugenddorf,50.796988,7.300478,0
+5059,Hennef Friedhofstr.,50.798664,7.304978,0
+5060,Hennef Zum Wahlbach,50.804157,7.316183,0
+5061,Hennef Wiesenstr.,50.806067,7.317386,0
+5062,Neunkirchen-Seelscheid Remschoß,50.816871,7.323820,0
+5063,Neunkirchen-Seelscheid Wiescheider Str.,50.825518,7.325555,0
+5064,Neunkirchen-Seelscheid Wolperath Mitte,50.830169,7.325232,0
+5065,Neunkirchen-Seelscheid Antoniusplatz,50.839572,7.333946,0
+5066,Overath Gut Eichtal,50.919720,7.276336,0
+5067,Much Bövingen Gewerbegebiet,50.914760,7.384189,0
+5068,Siegburg Cecilienstr.,50.799606,7.208389,0
+5069,Neunkirchen-Seelscheid Franziskushaus,50.836552,7.330709,0
+5086,Eitorf Industriegebiet,50.771472,7.465198,0
+5087,Eitorf Am Fuhrweg,50.769246,7.477008,0
+5090,Windeck Grafengasse,50.799564,7.528323,0
+5093,Bad Honnef Aegidienberg Grundschule,50.661179,7.307795,0
+5099,Windeck Erbelsbusch,50.795821,7.647392,0
+5128,Königswinter Oberscheuren Ort,50.739078,7.243508,0
+5131,Windeck Loch,50.801327,7.638819,0
+5170,Königswinter Stieldorferhohn Ort,50.714088,7.231547,0
+5182,Windeck Röcklingen Ort,50.795850,7.518102,0
+5194,Windeck Rossel Dorf,50.812425,7.531339,0
+5196,Windeck Rossel Schule,50.810956,7.537094,0
+5202,Windeck Wilberhofen,50.810289,7.542677,0
+5251,Windhagen Hähnchen,50.647215,7.359044,0
+5256,Windhagen Heckerkreuz,50.640511,7.359642,0
+5257,Windhagen Kirche,50.644352,7.353263,0
+5269,Windeck Löhrsiefen,50.801489,7.522087,0
+5276,Windeck Hausener Berg,50.777331,7.636349,0
+5277,Asbach (Westerw) Grundschule,50.665872,7.431623,0
+5418,Windeck Hausener Tal,50.776264,7.637460,0
+5429,Linz (Rhein) Roniger Weg,50.571704,7.289871,0
+5431,Linz (Rhein) Schulzentrum,50.572927,7.293899,0
+5444,Neustadt (Wied) Schulzentrum,50.622833,7.430442,0
+5456,Linz (Rhein) Neutor,50.568322,7.284358,0
+5461,Windeck Auf dem alten Pütz,50.801280,7.653542,0
+5509,Troisdorf Fliegenberg,50.832387,7.173578,0
+5510,Troisdorf Friedensstr.,50.817236,7.156894,0
+5511,Sankt Augustin Hangelar DGUV,50.762993,7.181918,0
+5512,Hennef Grundschule Siegtal,50.773707,7.308338,0
+5513,Hennef Eitorfer Str.,50.758563,7.373635,0
+5531,Windeck Imhausen Dorfplatz,50.779272,7.627441,0
+5588,Windeck Imhausen Brücke,50.779636,7.628375,0
+5720,Windeck Breite Str.,50.775850,7.628456,0
+5745,Königswinter Haus der Jugend,50.696832,7.176347,0
+5771,Troisdorf Herderweg,50.801871,7.118340,0
+5773,Niederkassel Kölner Str.,50.813180,7.041663,0
+5816,Königswinter Niederbuchholz,50.732051,7.279796,0
+5853,Rheinbreitbach Eifelblick,50.619288,7.246110,0
+5854,Rheinbreitbach Kupferberg,50.619247,7.249090,0
+5855,Rheinbreitbach Bergwerksweg,50.621058,7.252078,0
+5857,Rheinbreitbach Grundschule,50.616806,7.230967,0
+5858,Rheinbreitbach Sportplatz,50.615518,7.235427,0
+5917,Siegburg Aulgasse,50.806370,7.208890,0
+5953,Königswinter Rotdornstr.,50.738074,7.226283,0
+5987,Windeck Mittel,50.828927,7.615513,0
+6578,Niederkassel Schulstr.,50.833245,7.032514,0
+6680,Eitorf Altebach Gewerbegebiet,50.766173,7.479024,0
+6705,Neunkirchen-Seelscheid Am Dreieck,50.873593,7.314558,0
+6769,Asbach (Westerw) Realschule Plus,50.665562,7.429011,0
+6984,Pracht Brunnenplatz,50.768490,7.644943,0
+6985,Windeck Opperzau Oberdorf,50.787261,7.672746,0
+6986,Windeck Grube-Andreas-Str.,50.782226,7.677799,0
+6990,Neunkirchen-Seelscheid Neunkirchen Rathaus,50.843940,7.337166,0
+7020,Erpel Bahnhofstraße,50.580972,7.242853,0
+7043,Asbach (Westerw) Albert-Schweitzer-Schule,50.666716,7.422864,0
+7050,Königswinter Niederscheuren Ort,50.737737,7.247864,0
+7100,Bad Honnef Selhof Schützenhaus,50.634476,7.236433,0
+7117,Königswinter Am Kuxenberg,50.702098,7.244865,0
+7121,Buchholz (Westerw) Ringstraße,50.706898,7.386550,0
+7122,Troisdorf Kasseler Furt,50.840483,7.105875,0
+7124,Königswinter Hauptstr.,50.676358,7.191723,0
+7125,Königswinter Schönsitzstr.,50.690566,7.181625,0
+7126,Hennef Wiederschall,50.730665,7.321826,0
+7127,Unkel Realschule plus,50.596054,7.219282,0
+7128,Much Bitzen,50.884773,7.351040,0
+7130,Bonn Pfaffenweg,50.739740,7.136395,0
+7131,Bonn Königswinterer Str.,50.736761,7.130330,0
+7215,Troisdorf Grundschule Schloßstr.,50.816585,7.157246,0
+7242,Bad Honnef Lohfeld,50.628403,7.216416,0
+7245,Neunkirchen-Seelscheid Oberwennerscheid,50.863244,7.347009,0
+7249,Lohmar Knipscherhof,50.892984,7.213250,0
+7257,Much Weißenportz,50.900396,7.340959,0
+7278,Neunkirchen-Seelscheid Gitzental,50.856957,7.341061,0
+7279,Neunkirchen-Seelscheid Am Küppershof,50.879953,7.322865,0
+7285,Neunkirchen-Seelscheid Evangelischer Friedhof,50.875357,7.312804,0
+7288,Neunkirchen-Seelscheid Seelscheid Altenheim,50.873241,7.311508,0
+7289,Neunkirchen-Seelscheid Franziskus-Schule,50.874811,7.318173,0
+7412,Lohmar Broich,50.899980,7.225132,0
+7449,Windeck Herchen Gymnasium,50.777719,7.515246,0
+7509,Troisdorf Im Zehntfeld,50.809997,7.125855,0
+7515,Windeck Herchen Grundschule,50.780747,7.513246,0
+7516,Windeck Tennisplatz,50.775448,7.516350,0
+7517,Much Haus Marienfeld,50.886389,7.439100,0
+7518,Windeck Übersehn,50.776702,7.511144,0
+7526,Köln Niederkasseler Str./Kreisel,50.845165,7.102223,0
+7561,Troisdorf Antwerpener Str.,50.837453,7.108813,0
+7624,Eitorf Oberbohlscheid Alte Schule,50.792854,7.453400,0
+7630,Hennef Lückert Ort,50.723866,7.399769,0
+7634,Hennef Lichtenberg Oberdorf,50.744299,7.344908,0
+7635,Hennef Hennefer Str.,50.745970,7.242146,0
+7659,Königswinter-Rheinaue,50.686728,7.184217,0
+7679,Lohmar Meigermühle,50.862910,7.212824,0
+7685,Bonn Ennertbad,50.739201,7.154671,0
+7726,Niederkassel Rosenthalstr.,50.777494,7.076032,0
+7750,Windhagen Bürgerzentrum,50.636198,7.353976,0
+7784,Bonn Gesamtschule Beuel,50.751242,7.150702,0
+7851,Asbach (Westerw) Abzw.,50.668617,7.377698,0
+7852,Asbach (Westerw) Landesstraße,50.668071,7.382774,0
+7853,Asbach (Westerw) Wilsberger Straße,50.655827,7.417854,0
+7854,Asbach (Westerw) Straßen,50.647202,7.413748,0
+7855,Asbach (Westerw) Abzw.,50.642436,7.412361,0
+7856,Neustadt (Wied) Schulstraße,50.629436,7.408692,0
+7857,Neustadt (Wied) Ev. Kirche,50.624398,7.427423,0
+7880,Troisdorf Heinkelstr.,50.816338,7.107660,0
+7881,Troisdorf Junkersring West,50.816867,7.102139,0
+7937,Lohmar Halberg Kapelle,50.848588,7.241108,0
+7939,Troisdorf Junkersring Gewerbepark,50.818987,7.103224,0
+7950,Windeck Grimbachweg,50.769130,7.640953,0
+7957,Much Köbach Abzw.,50.866545,7.389010,0
+7958,Windeck In der Au,50.780482,7.508699,0
+7978,Bad Honnef Feuerschlößchen,50.649540,7.224810,0
+7979,Bad Honnef Im Heidchen,50.663146,7.337991,0
+7980,Eitorf Lascheider Weg,50.761869,7.445239,0
+7982,Bonn Humbroichweg,50.711312,7.183633,0
+7983,Bonn Am Kriegersgraben,50.710810,7.179118,0
+7986,Bonn Im Mohrenfeld,50.709586,7.170338,0
+7993,Eitorf Canisiusstr.,50.766713,7.488212,0
+8014,Windeck Am Sonnenhang,50.811852,7.588915,0
+8019,Overath Warth,50.921818,7.302890,0
+8045,Windeck Schladern Grundschule,50.811502,7.591542,0
+8054,Bonn Theresienau,50.707221,7.173082,0
+8084,Rösrath Fußheide,50.895070,7.217512,0
+8128,Windeck Sägewerk,50.762606,7.558259,0
+8129,Königswinter Neue Grundschule Oberpleis,50.702622,7.280254,0
+8164,Sankt Augustin Grundschule Pleiser Wald,50.767684,7.200535,0
+8167,Königswinter Alter Heeresweg,50.717644,7.201748,0
+8168,Sankt Augustin Pauluskirchstr.,50.769780,7.188114,0
+8215,Windeck Geilhausen Bf,50.771563,7.638657,0
+8243,Sankt Augustin Möldersstr.,50.762260,7.172644,0
+8249,Hennef Adscheid,50.758083,7.351653,0
+8251,Hennef Berg,50.775172,7.360950,0
+8252,Hennef Niederhalberg,50.781300,7.362022,0
+8253,Hennef Oberhalberg,50.787686,7.359442,0
+8258,Königswinter Rübhausen,50.719764,7.302331,0
+8259,Hennef Auel,50.768686,7.362888,0
+8266,Ruppichteroth Litterscheid,50.803405,7.382667,0
+8269,Hennef Hove,50.718988,7.357664,0
+8273,Troisdorf Biberweg,50.827487,7.110294,0
+8274,Königswinter Eisbach,50.715898,7.289409,0
+8281,Sankt Augustin Birlinghoven Kirche,50.751222,7.221497,0
+8290,Königswinter Auf der Bergwiese,50.694741,7.234126,0
+8291,Königswinter Zum kleinen Oelberg,50.695698,7.244738,0
+8320,Windeck Niederirsen,50.746647,7.596213,0
+8346,Much Senschenhöhe,50.875078,7.393370,0
+8355,Lohmar Weeg,50.877862,7.270034,0
+8356,Lohmar Fernsehturm,50.828270,7.281192,0
+8357,Lohmar Heiden,50.902091,7.246426,0
+8359,Lohmar Märkte,50.838728,7.205865,0
+8363,Lohmar Oberschönrath,50.891859,7.210791,0
+8364,Lohmar Naaferberg,50.860905,7.249418,0
+8365,Lohmar Holl,50.902038,7.291021,0
+8366,Lohmar Kern,50.905825,7.288325,0
+8368,Lohmar Oberstehöhe,50.897356,7.290025,0
+8369,Lohmar Kleinhecken,50.898495,7.221795,0
+8370,Lohmar Weilerhohn,50.899680,7.237378,0
+8371,Lohmar Wickuhl,50.904639,7.232562,0
+8373,Lohmar Kellershohn,50.878497,7.209393,0
+8380,Lohmar Rothehöhe,50.887313,7.273887,0
+8381,Lohmar Mailahn,50.882418,7.272659,0
+8383,Hennef Auf der Sandkaule,50.746679,7.384991,0
+8386,Windhagen Kapelle,50.658379,7.359140,0
+8387,Windhagen Alte Schule,50.655504,7.362097,0
+8403,Lohmar Lindener Str.,50.907222,7.242426,0
+8411,Lohmar Grimberg,50.858942,7.258910,0
+8412,Lohmar Hausdorp,50.874156,7.267759,0
+8413,Lohmar Hausen,50.868112,7.258049,0
+8414,Lohmar Bergaggerstr.,50.910910,7.260639,0
+8419,Eitorf Sägewerk,50.742666,7.466806,0
+8437,Bonn An der Josefshöhe,50.753025,7.080841,0
+8442,Neunkirchen-Seelscheid Seelscheid Schule,50.873224,7.320984,0
+8474,Hennef In der Dränk,50.748002,7.386347,0
+8541,Sankt Augustin Europaring,50.783137,7.185688,0
+8544,Sankt Augustin Boschstr.,50.787551,7.160613,0
+8547,Hennef Im Wingert,50.783225,7.297260,0
+8548,Hennef Alter Weg,50.788899,7.325880,0
+8588,Hennef Golfplatz,50.751697,7.273686,0
+8598,Lohmar Schiefelbusch,50.900646,7.226713,0
+8627,Bonn Am neuen Lindenhof,50.749423,7.080545,0
+8634,Bonn Gemeinnützige Werkstatt,50.738875,7.142182,0
+8635,Bonn Doktor-Weis-Platz,50.740222,7.123798,0
+8683,Hennef Happerschoß Grundschule,50.800740,7.308199,0
+8693,Windeck Weyerbuscher Str.,50.762854,7.562519,0
+8697,Bad Honnef Im Blümeling,50.635494,7.237986,0
+8700,Windeck Leuscheid Grundschule,50.771865,7.560339,0
+8704,Hennef Im Dorfgarten,50.750613,7.384568,0
+8721,Königswinter Auf dem Eigenacker,50.706128,7.277009,0
+8758,Siegburg Zum Hohen Ufer,50.800531,7.202441,0
+8759,Ruppichteroth Hallenbad,50.846327,7.493827,0
+8762,Troisdorf Römerstr.,50.815140,7.165143,0
+8763,Troisdorf Akazienweg,50.804007,7.106475,0
+8764,Troisdorf Junkersring Abzw.,50.815516,7.109116,0
+8770,Sankt Augustin In der Holle,50.745548,7.225898,0
+8833,Neunkirchen-Seelscheid Hausermühler Str.,50.864094,7.329320,0
+8838,Lohmar Kreuzhäuschen,50.853651,7.255274,0
+8839,Lohmar Ellhausen Abzw.,50.851712,7.248320,0
+8853,Bad Honnef Freibad,50.637481,7.218319,0
+8854,Bad Honnef Rheinfähre,50.632612,7.216214,0
+8900,Neunkirchen-Seelscheid Wolperather Weg,50.834592,7.329176,0
+8901,Windeck Leuscheid Kirche,50.769911,7.561890,0
+8947,Troisdorf Asselbachstr.,50.825391,7.124579,0
+8957,Bad Honnef Menzenberg,50.631813,7.240038,0
+8960,Hennef Schulzentrum Fritz-Jacobi-Str.,50.778220,7.274265,0
+8987,Siegburg Hans Alfred Keller-Schule,50.791132,7.215872,0
+9029,Bonn Stiftsstr.,50.751904,7.119586,0
+9046,Buchholz (Westerw) Hauptstraße,50.688220,7.395339,0
+9051,Buchholz (Westerw) Ort,50.706090,7.405256,0
+9070,Hennef Uckerath Kindergarten,50.728077,7.366142,0
+9115,Neunkirchen-Seelscheid Eich,50.882928,7.327738,0
+9135,Rösrath Karl-Schiller-Str.,50.890202,7.183929,0
+9136,Rösrath Autobahn,50.884479,7.184508,0
+9161,Bonn Hermannstr./Konrad-Adenauer-Platz,50.737927,7.116546,0
+9200,Sankt Augustin Hammstr.,50.768676,7.182699,0
+9201,Sankt Augustin Berliner Str.,50.767423,7.186580,0
+9202,Eitorf Im Auel,50.770423,7.470737,0
+9203,Eitorf Untenroth,50.773737,7.428308,0
+9204,Eitorf Schiefen,50.770171,7.432438,0
+9205,Eitorf Blumenhof,50.767321,7.439042,0
+9206,Eitorf Berufskolleg,50.768612,7.445149,0
+9207,Eitorf Scheidsbach,50.753989,7.437598,0
+9208,Eitorf Königssiefen,50.759063,7.444529,0
+9209,Eitorf Schümmerichstr.,50.765980,7.447123,0
+9210,Eitorf Auf der Heide,50.765216,7.455803,0
+9211,Sankt Augustin Im Rebhuhnfeld,50.780714,7.153879,0
+9249,Sankt Augustin Freibad,50.777575,7.173864,0
+9299,Königswinter Hasenboseroth,50.700981,7.265120,0
+9300,Königswinter Ruttscheid Ort,50.693397,7.271355,0
+9301,Königswinter Bellinghausen Ort,50.704380,7.255882,0
+9326,Niederkassel Provinzialstr.,50.778140,7.079137,0
+9327,Niederkassel Waldstr.,50.819953,7.033186,0
+9343,Troisdorf Spichbuschstr.,50.831533,7.112179,0
+9356,Sankt Augustin Lindenstr.,50.760528,7.174117,0
+9358,Lohmar Honrath Kirche,50.908075,7.255160,0
+9359,Lohmar Oberhaus,50.907673,7.247329,0
+9360,Lohmar Holunderweg,50.898667,7.271311,0
+9371,Niederkassel Uckendorf Niederkasseler Str.,50.820639,7.061867,0
+9374,Königswinter Stieldorf Süd,50.727923,7.217010,0
+9474,Troisdorf Camp,50.839455,7.119381,0
+9528,Windeck Gutmannseichen Abzw.,50.821910,7.499433,0
+9530,Windeck Altenherfen,50.822076,7.488596,0
+9532,Windeck Lüttershausen,50.816652,7.481073,0
+9533,Windeck Niederrieferath,50.803699,7.497857,0
+9534,Windeck Oberrieferath,50.805881,7.501601,0
+9537,Windeck Neuenhof,50.794341,7.499246,0
+9538,Windeck Gerressen Abzw.,50.787911,7.499451,0
+9539,Windeck Gerressen Ort,50.784686,7.495760,0
+9540,Windeck Helpenstell,50.791504,7.591203,0
+9614,Buchholz (Westerw) Industriepark,50.712831,7.401663,0
+9639,Lohmar Honrath Bf,50.910589,7.252867,0
+9640,Hennef Im Siegbogen (S),50.773148,7.313270,0
+9656,Hennef Schulen Wehrstr.,50.774415,7.267881,0
+9676,Linz (Rhein) Linz Bf,50.569330,7.276029,0
+9678,Unkel Bf,50.602991,7.219673,0
+9725,Hennef Gesamtschule Meiersheide,50.769075,7.308535,0
+9726,Hennef Büllesbach,50.725614,7.352248,0
+9730,Ruppichteroth Stockum Abzw.,50.799170,7.387266,0
+9732,Königswinter Pützstück,50.714204,7.302673,0
+9747,Königswinter Auf der Probstbitze,50.710993,7.296354,0
+9748,Sankt Augustin Brückenstr.,50.783854,7.224149,0
+9749,Windeck Sangerhof,50.771720,7.583102,0

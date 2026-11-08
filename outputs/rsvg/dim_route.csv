@@ -1,0 +1,80 @@
+route_id,agency_id,route_short_name,route_desc,route_type,route_color,route_text_color,line_key
+800051,8,SB51,H:Asbach - Windhagen - Himberg - Bad Honnef (Stadtbahn) | R:Bad Honnef (Stadtbahn) - Himberg - Windhagen - Asbach,3,000000,FFFFFF,8_SB51
+800052,8,SB52,H:Asbach - Rindhausen - Buchholz - Mendt - Uckerath - Bierth - Hennef Bf | R:Hennef Bf - Bierth - Uckerath - Mendt - Buchholz - Rindhausen - Asbach,3,000000,FFFFFF,8_SB52
+800053,8,SB53,H:Hennef Bf - Bröl - Schönenberg - Ruppichteroth - Waldbröl Krankenhaus | R:Waldbröl Krankenhaus - Ruppichteroth - Schönenberg - Bröl - Hennef Bf,3,000000,FFFFFF,8_SB53
+800054,8,SB54,H:Much Rathaus - Marialinden - Overath Bf | R:Overath Bf - Marialinden - Much Rathaus,3,000000,FFFFFF,8_SB54
+800056,8,SB56,H:Siegburg Bf - Seelscheid - Much Rathaus | R:Much Rathaus - Seelscheid - Siegburg Bf,3,000000,FFFFFF,8_SB56
+800501,8,501,H:Siegburg Bf - Troisdorf Bf - Sieglar RSVG - Bergheim - Mondorf - Rheidt - Niederkassel - Lülsdorf Stahlenstraße | R:Lülsdorf Stahlenstraße - Niederkassel - Rheidt - Mondorf - Bergheim - Sieglar RSVG - Troisdorf Bf - Siegburg Bf,3,000000,FFFFFF,8_501
+800502,8,502,H:Siegburg Bf - Siegburg Blücherstr. - Siegburg Bf | R:Siegburg Bf - Siegburg Blücherstr. - Siegburg Bf,3,000000,FFFFFF,8_502
+800503,8,503,H:Siegburg Bf - Troisdorf Bf - Spich S - Kriegsdorf - Sieglar RSVG | R:Sieglar RSVG - Kriegsdorf - Spich S - Troisdorf Bf - Siegburg Bf,3,000000,FFFFFF,8_503
+800504,8,504,H:Spich S - Uckendorf - Niederkassel - Ranzel - Lülsdorf | R:Lülsdorf - Ranzel - Niederkassel - Uckendorf - Spich S,3,000000,FFFFFF,8_504
+800505,8,505,H:Köln-Porz-Wahn - Lind - Camp Spich - Spich Bf | R:Spich Bf - Camp Spich - Lind - Köln-Porz-Wahn,3,000000,FFFFFF,8_505
+800506,8,506,H:Troisdorf Waldfriedhof - Troisdorf Bf - Friedrich-Wilhelms-Hütte - Sieglar RSVG | R:Sieglar RSVG - Friedrich-Wilhelms-Hütte - Troisdorf Bf - Troisdorf Waldfriedhof,3,000000,FFFFFF,8_506
+800507,8,507,H:Junkersring - Spich Bf - Troisdorf Bf - Altenrath - Lohmar | R:Lohmar - Altenrath - Troisdorf Bf - Spich Bf - Junkersring,3,000000,FFFFFF,8_507
+800508,8,508,H:St. Augustin Zentrum - Menden - Troisdorf Bf - Oberlar - Rotter See - Spich Bf | R:Spich Bf - Rotter See - Oberlar - Troisdorf Bf - Menden - St. Augustin Zentrum,3,000000,FFFFFF,8_508
+800510,8,510,H:Siegburg Bf - Kaldauen - Seligenthal - Allner - Hennef Bf | R:Hennef Bf - Allner - Seligenthal - Kaldauen - Siegburg Bf,3,000000,FFFFFF,8_510
+800511,8,511,H:Schneffelrath - Braschoß - Schreck - Stallberg - Siegburg Bf | R:Siegburg Bf - Stallberg - Schreck - Braschoß - Schneffelrath,3,000000,FFFFFF,8_511
+800512,8,512,H:Ittenbach - Thomasberg - Stieldorf - Rauschendorf - Birlinghoven - Niederpleis - Siegburg Bf | R:Siegburg Bf - Niederpleis - Birlinghoven - Rauschendorf - Stieldorf - Thomasberg - Ittenbach,3,000000,FFFFFF,8_512
+800513,8,513,H:Oberpleis - Uthweiler - Birlinghoven - Niederpleis - Siegburg Bf | R:Siegburg Bf - Niederpleis - Birlinghoven - Uthweiler - Oberpleis,3,000000,FFFFFF,8_513
+800515,8,515,H:Siegburg Bf - Siegburg Seidenbergstr. - Siegburg Bf,3,000000,FFFFFF,8_515
+800516,8,516,H:Vilich-Müldorf - Gielgen - Hoholz - Birlinghoven - Rott - Hennef Bf | R:Hennef Bf - Rott - Birlinghoven - Hoholz - Gielgen - Vilich-Müldorf,3,000000,FFFFFF,8_516
+800517,8,517,H:Sankt Augustin Zentrum - Niederpleis - Großenbusch - Hangelar Ost | R:Hangelar Ost - Großenbusch - Niederpleis - Sankt Augustin Zentrum,3,000000,FFFFFF,8_517
+800518,8,518,H:Sankt Augustin Zentrum - Großenbusch - Niederberg - Hangelar Grundschule | R:Hangelar Grundschule - Niederberg - Großenbusch - Sankt Augustin Zentrum,3,000000,FFFFFF,8_518
+800519,8,BB W,H:Bürgerbus Windeck | R:Bürgerbus Windeck,3,000000,FFFFFF,8_BB W
+800520,8,520,H:Oberpleis Busbahnhof - Thomasberg - Oberdollendorf - Niederdollendorf Bf | R:Niederdollendorf Bf - Oberdollendorf - Thomasberg - Oberpleis Busbahnhof,3,000000,FFFFFF,8_520
+800521,8,521,H:Oberpleis - Ittenbach - Königswinter Bf | R:Königswinter Bf - Ittenbach - Oberpleis,3,000000,FFFFFF,8_521
+800522,8,522,H:Uckerath Alter Zoll - Bierth - Lichtenberg - Warth - Geistingen - Hennef Bf | R:Hennef Bf - Geistingen - Warth - Lichtenberg - Bierth - Uckerath Alter Zoll,3,000000,FFFFFF,8_522
+800523,8,523,H:Hennef Bf - Geistingen - Edgoven - Geisbach - Geistingen - Hennef Bf,3,000000,FFFFFF,8_523
+800524,8,524,H:Uckerath Alter Zoll - Eulenberg - Dahlhausen - Geisbach - Hennef Bf | R:Hennef Bf - Geisbach - Dahlhausen - Eulenberg - Uckerath Alter Zoll,3,000000,FFFFFF,8_524
+800525,8,525,H:Oberpleis Busbahnhof - Fronhardt - Westerhausen - Söven - Hennef Bf | R:Hennef Bf - Söven - Westerhausen - Fronhardt - Oberpleis Busbahnhof,3,000000,FFFFFF,8_525
+800527,8,527,H:Hennef Bf - Stoßdorf - Buisdorf - Siegburg Bf | R:Siegburg Bf - Buisdorf - Stoßdorf - Hennef Bf,3,000000,FFFFFF,8_527
+800529,8,529,H:Ramersdorf - Küdinghoven - Pützchen - Sankt Augustin Zentrum - Niederpleis - Buisdorf - Hennef Bf | R:Hennef Bf - Buisdorf - Niederpleis - Sankt Augustin Zentrum - Pützchen - Küdinghoven - Ramersdorf,3,000000,FFFFFF,8_529
+800530,8,530,H:Siegtalhüpfer: Hennef Bf - Blankenberg Katharinentor - Uckerath Grundschule | R:Siegtalhüpfer: Uckerath Grundschule - Blankenberg Katharinentor - Hennef Bf,3,000000,FFFFFF,8_530
+800531,8,531,H:Hennef Bf - Winterscheid - Hatterscheid - Hänscheid - Ruppichteroth | R:Ruppichteroth - Hänscheid - Hatterscheid - Winterscheid - Hennef Bf,3,000000,FFFFFF,8_531
+800532,8,532,H:Hennef Bf - Weldergoven - Lauthausen - Oberauel - Bödingen - Weldergoven - Hennef Bf,3,000000,FFFFFF,8_532
+800533,8,533,H:Eitorf Bf - Halft - Köttingen - Rankenhohn - Bohlscheid - Eitorf Bf | R:Eitorf Bf - Bohlscheid - Rankenhohn - Köttingen - Halft - Eitorf Bf,3,000000,FFFFFF,8_533
+800535,8,535,H:Oberpleis - Uthweiler - Birlinghoven - St. Augustin Zentrum | R:St. Augustin Zentrum - Birlinghoven - Uthweiler - Oberpleis,3,000000,FFFFFF,8_535
+800536,8,536,H:Oberpleis - Berghausen - Eudenbach - Sassenberg | R:Sassenberg - Eudenbach - Berghausen - Oberpleis,3,000000,FFFFFF,8_536
+800537,8,537,H:Oberpleis Busbahnhof - Stieldorf - Vinxel - Niederholtorf - Pützchen - Beuel - Bonn Hbf | R:Bonn Hbf - Beuel - Pützchen - Niederholtorf - Vinxel - Stieldorf - Oberpleis Busbahnhof,3,000000,FFFFFF,8_537
+800539,8,539,H:Neustadt Schulzentrum - Asbach Markt - Buchholz Grundschule - Oberpleis Busbf | R:Oberpleis Busbf - Buchholz Grundschule - Asbach Markt - Neustadt Schulzentrum,3,000000,FFFFFF,8_539
+800540,8,540,H:Sankt Augustin Zentrum - Menden - Meindorf - Geislar - Schwarzrheindorf - Beuel - Bonn Hbf | R:Bonn Hbf - Beuel - Schwarzrheindorf - Geislar - Meindorf - Menden - Sankt Augustin Zentrum,3,000000,FFFFFF,8_540
+800541,8,541,H:Oberpleis Busbf - Bockeroth - Stieldorf - Vinxel - Oberkassel Süd - Königswinter Bf | R:Königswinter Bf - Oberkassel Süd - Vinxel - Stieldorf - Bockeroth - Oberpleis Busbf,3,000000,FFFFFF,8_541
+800542,8,542,H:Mittel - Gierzhagen - Rosbach Bf (- Schladern Grundschule) | R:(Schladern Grundschule -) Rosbach Bf - Gierzhagen - Mittel,3,000000,FFFFFF,8_542
+800543,8,543,H:Perseifen - Kohlberg - Öttershagen - Langenberg - Rosbach Bf | R:Rosbach Bf - Langenberg - Öttershagen - Kohlberg - Perseifen,3,000000,FFFFFF,8_543
+800544,8,544,H:(Au Bf -) Halscheid - Hurst - Rosbach Bf | R:Rosbach Bf - Hurst - Halscheid,3,000000,FFFFFF,8_544
+800545,8,545,H:(Röhrigshof -) Leuscheid Grundschule - Geilhausen - Imhausen - Rosbach Bf | R:Rosbach Bf - Imhausen - Geilhausen - Leuscheid Grundschule (- Röhrigshof),3,000000,FFFFFF,8_545
+800546,8,546,H:Rosbach Bf - Schladern - Altwindeck - Dattenfeld - Rossel Dorf | R:Rossel Dorf - Dattenfeld - Altwindeck - Schladern - Rosbach Bf,3,000000,FFFFFF,8_546
+800547,8,547,H:Rosbach Bf - Obernau - Dreisel - Dattenfeld - Hoppengarten - Herchen Bf | R:Herchen Bf - Hoppengarten - Dattenfeld - Dreisel - Obernau - Rosbach Bf,3,000000,FFFFFF,8_547
+800548,8,548,H:Rosbach Bf - Locksiefen - Saal - Leuscheid - Alsen - Werfen - Herchen Bf | R:Herchen Bf - Werfen - Alsen - Leuscheid - Saal - Locksiefen - Rosbach Bf,3,000000,FFFFFF,8_548
+800549,8,549,H:Ruppichteroth Denkmal - Lüttershausen - Rieferath - Gerressen - Herchen Bf | R:Herchen Bf - Gerressen - Rieferath - Lüttershausen - Ruppichteroth Denkmal,3,000000,FFFFFF,8_549
+800550,8,550,H:Bonn Hbf - Castell - Niederkassel (- Libur - Wahn Bf) | R:(Wahn Bf. - Libur -) Niederkassel - Castell - Bonn Hbf,3,000000,FFFFFF,8_550
+800551,8,551,H:Bonn Hbf - Beuel - Müllekoven - Eschmar - Kriegsdorf - Rotter See - Oberlar - Troisdorf Bf | R:Troisdorf Bf - Oberlar - Rotter See - Kriegsdorf - Eschmar - Müllekoven - Beuel - Bonn Hbf,3,000000,FFFFFF,8_551
+800552,8,552,"H:Bonn Nord, Am Neuen Lindenhof - Bergheim - Müllekoven - Eschmar - Sieglar RSVG | R:Sieglar RSVG - Eschmar - Müllekoven - Bergheim - Bonn Nord, Am Neuen Lindenhof",3,000000,FFFFFF,8_552
+800553,8,553,H:Siegburg Bf - Lohmar - Scheiderhöhe - Honrath Bf - Neuhonrath | R:Neuhonrath - Honrath Bf - Scheiderhöhe - Lohmar - Siegburg Bf,3,000000,FFFFFF,8_553
+800554,8,554,H:Lohmar - Birk - Inger - Donrath - Lohmar | R:Lohmar - Birk - Inger - Donrath - Lohmar,3,000000,FFFFFF,8_554
+800555,8,555,H:Siegburg Bf - Lohmar - Donrath - Kreuzhäuschen - Pohlhausen | R:Pohlhausen - Kreuzhäuschen- Donrath - Lohmar - Siegburg Bf,3,000000,FFFFFF,8_555
+800556,8,556,H:Siegburg Bf - Lohmar - Donrath Kreuzung - Rösrath Bf | R:Rösrath Bf - Donrath Kreuzung - Lohmar - Siegburg Bf,3,000000,FFFFFF,8_556
+800557,8,557,H:Siegburg Bf - Lohmar - Wahlscheid - Overath Bf | R:Overath Bf - Wahlscheid - Lohmar - Siegburg Bf,3,000000,FFFFFF,8_557
+800558,8,558,H:Lohmar Märkte - Wahlscheid - Agger - Honrath Bf - Dahlhaus - Overath Schulzentrum Cyriax | R:Overath Schulzentrum Cyriax - Dahlhaus - Honrath Bf - Agger - Wahlscheid - Lohmar Märkte,3,000000,FFFFFF,8_558
+800559,8,559,H:Lohmar Birkenweg - Donrath - Hausen - Höffen - Kern - Neuhonrath Grundschule | R:Neuhonrath Grundschule - Kern - Höffen - Hausen - Donrath - Lohmar Märkte,3,000000,FFFFFF,8_559
+800560,8,560,H:Bad Honnef Bf - Himberg - Aegidienberg - Oberpleis | R:Oberpleis - Aegidienberg - Himberg - Bad Honnef Bf,3,000000,FFFFFF,8_560
+800561,8,561,H:Wülscheid Post - Himberg - Ittenbach Busbf - Königswinter Bf | R:Königswinter Bf - Ittenbach Busbf - Himberg - Wülscheid Post,3,000000,FFFFFF,8_561
+800564,8,564,H:Asbach - Limbach - Obereip - Mühleip - Irlenborn - Eitorf Bf | R:Eitorf Bf - Irlenborn - Mühleip - Obereip - Limbach - Asbach,3,000000,FFFFFF,8_564
+800565,8,565,H:Rhöndorf Bf - Bad Honnef Mitte - Rheinbreitbach - Unkel Bf - Erpel - Linz Bf - Linz Schulzentrum | R:Linz Schulzentrum - Linz Bf - Erpel - Unkel Bf - Rheinbreitbach - Bad Honnef Mitte - Rhöndorf Bf,3,000000,FFFFFF,8_565
+800566,8,566,H:Bad Honnef (Stadtbahn) - Bad Honnef Mitte - Selhof | R:Selhof - Bad Honnef Mitte - Bad Honnef (Stadtbahn),3,000000,FFFFFF,8_566
+800567,8,567,H:Bad Honnef (Stadtbahn) - Rheinbreitbach - Breite Heide Kupferberg | R:Breite Heide Kupferberg - Rheinbreitbach - Bad Honnef (Stadtbahn),3,000000,FFFFFF,8_567
+800570,8,570,H:Eitorf Bf - Süchterscheid - Uckerath | R:Uckerath - Süchterscheid - Eitorf Bf,3,000000,FFFFFF,8_570
+800571,8,571,H:Eitorf Bf - Alzenbach - Bitze - Rodder | R:Rodder - Bitze - Alzenbach - Eitorf Bf,3,000000,FFFFFF,8_571
+800573,8,573,H:Eitorf Bf - Käsberg - Mühleip | R:Mühleip - Käsberg - Eitorf Bf,3,000000,FFFFFF,8_573
+800576,8,576,H:Neunkirchen Antoniusplatz - Seelscheid Post - Much Rathaus - Marienfeld Kirche | R:Marienfeld Kirche - Much Rathaus - Seelscheid Post - Neunkirchen Antoniusplatz,3,000000,FFFFFF,8_576
+800577,8,577,H:Siegburg Bf - Birk - Pohlhausen - Neunkirchen - Wohlfahrt - Much | R:Much - Wohlfahrt - Neunkirchen - Pohlhausen - Birk - Siegburg Bf,3,000000,FFFFFF,8_577
+800578,8,578,H:Hennef Bf - Happerschoß - Neunkirchen Antoniusplatz - Wohlfarth - Much Schulzentrum | R:Much Schulzentrum - Wohlfarth - Neunkirchen Antoniusplatz - Happerschoß - Hennef Bf,3,000000,FFFFFF,8_578
+800579,8,579,H:Herchen Grundschule - Herchen Bf - Stromberg - Halft - Eitorf Bf | R:Eitorf Bf - Halft - Stromberg - Herchen Bf - Herchen Grundschule,3,000000,FFFFFF,8_579
+800590,8,590,H:Schulverkehr Lohmar | R:Schulverkehr Lohmar,3,000000,FFFFFF,8_590
+800592,8,592,H:Schulverkehr Hennef | R:Schulverkehr Hennef,3,000000,FFFFFF,8_592
+800593,8,593,H:Schulverkehr Neunkirchen-Seelscheid | R:Schulverkehr Neunkirchen-Seelscheid,3,000000,FFFFFF,8_593
+800594,8,594,H:Schulverkehr Much | R:Schulverkehr Much,3,000000,FFFFFF,8_594
+800596,8,596,H:Schulverkehr Bad Honnef | R:Schulverkehr Bad Honnef,3,000000,FFFFFF,8_596
+800597,8,597,H:Schulverkehr Windeck | R:Schulverkehr Windeck,3,000000,FFFFFF,8_597
+800598,8,598,H:Schulverkehr Königswinter | R:Schulverkehr Königswinter,3,000000,FFFFFF,8_598
+800599,8,599,H:Schulverkehr Sankt Augustin | R:Schulverkehr Sankt Augustin,3,000000,FFFFFF,8_599

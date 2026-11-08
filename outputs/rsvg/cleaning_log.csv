@@ -1,0 +1,9 @@
+step,table,rows_before,rows_after,note
+CL02 filter_agency,routes,618.0,79.0,agency_id=8
+CL02 filter_agency,trips,74615.0,8826.0,agency_id=8
+CL02 filter_agency,stop_times,1795448.0,201098.0,agency_id=8
+CL02 filter_agency,stops,6892.0,1184.0,agency_id=8
+CL04 drop_orphans,trips,8826.0,8826.0,removed ids: []
+CL04 drop_orphans,stop_times,201098.0,201098.0,removed ids: []
+CL04 drop_orphans,stops,1184.0,1184.0,removed ids: []
+CL03 drop_empty_columns,all,,,11 columns dropped: agency.agency_fare_url; routes.route_long_name; routes.route_url; shapes.shape_dist_traveled; stops.stop_code; stops.stop_desc; stops.zone_id; stops.stop_url; stops.parent_station; stops.stop_timezone; trips.block_id
