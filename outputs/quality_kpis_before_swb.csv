@@ -1,0 +1,8 @@
+dimension,score_pct,rules_passed,rules
+Completeness,77.1,3,5
+Consistency,95.0,5,8
+Integrity,100.0,8,8
+Timeliness,0.0,0,2
+Uniqueness,100.0,5,5
+Validity,99.7,8,9
+OVERALL,78.6,29,37

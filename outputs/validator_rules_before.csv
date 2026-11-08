@@ -1,0 +1,38 @@
+id,dimension,rule,severity,checked,failed,pass_rate,status
+U1,Uniqueness,stops.stop_id is unique,error,6892,0,1.0,PASS
+U2,Uniqueness,trips.trip_id is unique,error,74615,0,1.0,PASS
+U3,Uniqueness,routes.route_id is unique,error,618,0,1.0,PASS
+U4,Uniqueness,stop_times.trip_id+stop_sequence is unique,error,1795448,0,1.0,PASS
+U5,Uniqueness,calendar_dates.service_id+date is unique,error,200701,0,1.0,PASS
+I1,Integrity,trips.route_id exists in routes.route_id,error,74615,0,1.0,PASS
+I2,Integrity,trips.service_id exists in calendar/calendar_dates,error,74615,0,1.0,PASS
+I3,Integrity,stop_times.trip_id exists in trips.trip_id,error,1795448,0,1.0,PASS
+I4,Integrity,stop_times.stop_id exists in stops.stop_id,error,1795448,0,1.0,PASS
+I5,Integrity,routes.agency_id exists in agency.agency_id,error,618,0,1.0,PASS
+I6,Integrity,trip has at least 1 stop_time,warning,74615,10,0.9999,FAIL
+I7,Integrity,trip has at least 2 stops,warning,74615,11,0.9999,FAIL
+I8,Integrity,stop is served by at least one trip,warning,6892,4,0.9994,FAIL
+V1a,Validity,arrival_time has format H:MM:SS,error,1795448,0,1.0,PASS
+V1d,Validity,departure_time has format H:MM:SS,error,1795448,0,1.0,PASS
+V2,Validity,departure_time below 24:00:00,warning,1795448,68889,0.9616,FAIL
+V3a,Validity,calendar_dates.date is a real date (YYYYMMDD),error,200701,0,1.0,PASS
+V3b,Validity,calendar.start_date is a real date (YYYYMMDD),error,1971,0,1.0,PASS
+V3c,Validity,calendar.end_date is a real date (YYYYMMDD),error,1971,0,1.0,PASS
+V4,Validity,stop coordinates are valid numbers,error,6892,0,1.0,PASS
+V5,Validity,"stop lies inside Germany (lat 47-56, lon 5-16)",warning,6892,0,1.0,PASS
+V6,Validity,route_type is a standard GTFS code,error,618,0,1.0,PASS
+C1,Completeness,routes.route_short_name is filled,warning,618,8,0.9871,FAIL
+C2,Completeness,routes.route_long_name is filled,warning,618,610,0.0129,FAIL
+C3,Completeness,stops.stop_name is filled,error,6892,0,1.0,PASS
+C4,Completeness,agency.agency_phone is filled,info,27,4,0.8519,FAIL
+C5,Completeness,no column is completely empty,warning,76,10,0.8684,FAIL
+K1,Consistency,departure not before arrival,error,1795448,0,1.0,PASS
+K2,Consistency,time never goes backwards within a trip,error,1720843,0,1.0,PASS
+K3,Consistency,travel time to next stop is greater than 0 min,warning,1720843,48226,0.972,FAIL
+K4,Consistency,shape_dist_traveled is greater than 0 after the first stop,warning,1720833,424493,0.7533,FAIL
+K5,Consistency,route_short_name maps to one route_id per operator,warning,605,5,0.9917,FAIL
+K6s,Consistency,stops.stop_name has no double or trailing spaces,warning,6892,0,1.0,PASS
+K6r,Consistency,routes.route_desc has no double or trailing spaces,warning,592,55,0.9071,FAIL
+K6a,Consistency,agency.agency_name has no double or trailing spaces,warning,27,0,1.0,PASS
+T1,Timeliness,feed is valid on 2026-11-07,error,1,1,0.0,FAIL
+T2,Timeliness,service still running on 2026-11-07,error,1971,1971,0.0,FAIL
