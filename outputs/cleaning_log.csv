@@ -1,5 +1,0 @@
-step,table,rows_before,rows_after,note
-CL04 drop_orphans,trips,74615.0,74604.0,"removed ids: ['0-1567-003-7660.2.21:074900-2-93_9E93769C-EA56-48A5-8CF8-B24D00A9734B', '2560001-256-025-3100:050000-2-79_2722653B-CE83-4B11-B4F9-A5AF00B0C8A3', '7600001-760-013-6282:062500-2-79_0DF8C55D-8687-43EE-B4A0-A65F00BB362B', '7610001-761-013-5727:073400-2-79_2B725425-8704-47B4-B875-A65F00BC8"
-CL04 drop_orphans,stop_times,1795448.0,1795447.0,"removed ids: ['0-1567-003-7660.2.21:074900-2-93_9E93769C-EA56-48A5-8CF8-B24D00A9734B', '2560001-256-025-3100:050000-2-79_2722653B-CE83-4B11-B4F9-A5AF00B0C8A3', '7600001-760-013-6282:062500-2-79_0DF8C55D-8687-43EE-B4A0-A65F00BB362B', '7610001-761-013-5727:073400-2-79_2B725425-8704-47B4-B875-A65F00BC8"
-CL04 drop_orphans,stops,6892.0,6888.0,"removed ids: ['10550', '5673', '5675', '9999']"
-CL03 drop_empty_columns,all,,,10 columns dropped: agency.agency_fare_url; routes.route_url; shapes.shape_dist_traveled; stops.stop_code; stops.stop_desc; stops.zone_id; stops.stop_url; stops.parent_station; stops.stop_timezone; trips.block_id

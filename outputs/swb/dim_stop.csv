@@ -1,0 +1,595 @@
+stop_id,stop_name,stop_lat,stop_lon,location_type
+43,Bonn Propsthof Nord,50.739096,7.073507,0
+161,Bonn Bad Godesberg Bf,50.683920,7.159553,0
+371,Bonn Bad Godesberg Stadthalle,50.680336,7.158347,0
+628,Bornheim Rathaus,50.756861,7.002714,0
+672,Bornheim Roisdorf West,50.754248,7.007576,0
+673,Bornheim Bornheim,50.761270,6.989599,0
+678,Bornheim Hersel,50.770021,7.042745,0
+681,Alfter / Alanus Hochschule,50.743767,7.016829,0
+683,Bonn Museum Koenig,50.721748,7.114519,0
+684,Bonn Bundesrechnungshof/Auswärtiges Amt,50.725560,7.111579,0
+685,Bonn Juridicum,50.730094,7.108414,0
+686,Bonn Universität/Markt,50.732338,7.102135,0
+687,Bonn Hbf,50.732008,7.097128,0
+688,Bonn West,50.736562,7.081127,0
+689,Bonn Brühler Str.,50.740263,7.068845,0
+690,Bonn Olof-Palme-Allee,50.706809,7.131025,0
+691,Bonn Ollenhauerstr.,50.711374,7.126562,0
+692,Bonn Heussallee/Museumsmeile,50.716463,7.120893,0
+693,Bonn Tannenbusch Süd,50.742370,7.055561,0
+694,Bonn Tannenbusch Mitte,50.750893,7.046542,0
+695,Bonn Buschdorf,50.758435,7.046526,0
+696,Bonn Robert-Kirchhoff-Str.,50.737939,7.056481,0
+697,Bonn Dransdorf,50.737397,7.047870,0
+698,Bonn Max-Löbner-Str./Friesdorf,50.700841,7.137450,0
+699,Bonn Hochkreuz/Deutsches Museum Bonn,50.696774,7.141498,0
+700,Bonn Wurzerstr.,50.691395,7.148232,0
+701,Bonn Plittersdorfer Str.,50.687851,7.153876,0
+845,Köln/Bonn Flughafen Terminal 2,50.881003,7.117734,0
+848,Köln/Bonn Flughafen Terminal 1,50.878647,7.119638,0
+1038,Bonn Zum Wingertsberg,50.697269,7.070344,0
+1045,Bonn Richard-Scherer-Str.,50.747319,7.138151,0
+1102,Bonn Friedensplatz,50.736282,7.097652,0
+1103,Bonn Markt,50.734671,7.102629,0
+1104,Bonn Stadthaus,50.736394,7.095360,0
+1106,Bonn Thomas-Mann-Str.,50.733773,7.094874,0
+1110,Bonn Wilhelmsplatz,50.740145,7.098919,0
+1111,Bonn Beethovenhalle und SWB,50.740380,7.101559,0
+1112,Bonn Stiftsplatz,50.739095,7.101600,0
+1113,Bonn Sandkaule/Bertha-von-Suttner-Platz,50.737982,7.103302,0
+1114,Bonn Opernhaus,50.736735,7.105851,0
+1115,Bonn Bertha-von-Suttner-Pl./Beethovenhaus,50.737468,7.102483,0
+1116,Bonn Johannesstr.,50.733997,7.118648,0
+1123,Bonn Arndtstr.,50.724631,7.108143,0
+1124,Bonn Nassestr./Arithmeum,50.728659,7.104287,0
+1125,Bonn Nonnenpfad,50.745310,7.132166,0
+1126,Bonn Gerhardstr.,50.746895,7.132828,0
+1127,Bonn Schillingsweg,50.747207,7.135825,0
+1128,Bonn Gartenstr.,50.742942,7.133525,0
+1130,Bonn Königstr.,50.728287,7.101771,0
+1131,Bonn Weberstr.,50.725798,7.101727,0
+1132,Bonn Rittershausstr.,50.721981,7.104186,0
+1133,Bonn Luisenstr.,50.721223,7.097853,0
+1134,Bonn Wilhelm-Levison-Str.,50.724376,7.099045,0
+1135,Bonn Sankt Petrus-Krankenhaus,50.728677,7.098622,0
+1136,Bonn Geißlerstr.,50.719750,7.100551,0
+1137,Bonn Argelanderstr.,50.719656,7.095196,0
+1138,Bonn Lotharstr.,50.717853,7.100493,0
+1140,Bonn Mozartstr.,50.734204,7.088269,0
+1141,Bonn Herwarthstr.,50.733024,7.093242,0
+1142,Bonn Colmantstr./Hbf,50.731639,7.096212,0
+1143,Bonn Poppelsdorfer Allee,50.730654,7.099589,0
+1144,Bonn Beethovenstr.,50.729349,7.094998,0
+1145,Bonn Haydnstr.,50.730233,7.088885,0
+1146,Bonn Bachstr.,50.731891,7.090468,0
+1150,Bonn Dorotheenstr.,50.740053,7.090530,0
+1151,Bonn Frankenbad/Kunstverein,50.739711,7.087660,0
+1152,Bonn Maxstr.,50.738897,7.091055,0
+1153,Bonn Heerstr.,50.736639,7.090238,0
+1159,Bonn Oppelner Str.,50.749573,7.043395,0
+1160,Bonn Nordstr.,50.745567,7.099697,0
+1161,Bonn An der Esche,50.743340,7.100410,0
+1162,Bonn Rosental,50.741879,7.096098,0
+1171,Bonn Friesenweg,50.755091,7.091616,0
+1172,Bonn Bataverweg,50.753677,7.093837,0
+1173,Bonn Pädagogische Fakultät,50.751615,7.096098,0
+1174,Bonn Augustinum,50.748211,7.098654,0
+1175,Bonn LVR-Klinik,50.745598,7.092586,0
+1176,Bonn Husarenstr.,50.748323,7.093372,0
+1177,Bonn Innenministerium,50.751080,7.090871,0
+1178,Bonn Heinrich-Hertz-Europakolleg,50.754675,7.087043,0
+1179,Bonn Herseler Str.,50.755307,7.084876,0
+1180,Bonn Sportpark Nord,50.747910,7.081786,0
+1181,Bonn Am Nordpark,50.745455,7.085753,0
+1182,Bonn Chlodwigplatz,50.743293,7.091044,0
+1183,Bonn Nonnstr.,50.742097,7.084386,0
+1184,Bonn Gerhardsplatz,50.744161,7.080835,0
+1185,Bonn Josephinum,50.749728,7.078696,0
+1190,Bonn Zeisigweg,50.742720,7.074327,0
+1191,Bonn Heinrich-Böll-Ring,50.740487,7.075749,0
+1192,Bonn Ellerstr.,50.738151,7.080427,0
+1194,Bonn Eifelstr./Macke-Haus,50.737475,7.084478,0
+1200,Bonn Verweyenstr.,50.733732,7.064432,0
+1201,Bonn Am Propsthof,50.732318,7.067616,0
+1202,Bonn Immenburgpark,50.730525,7.071045,0
+1203,Bonn Verdistr.,50.729988,7.078540,0
+1204,Bonn Karlstr.,50.732501,7.082889,0
+1210,Bonn Brahmsstr.,50.726894,7.075778,0
+1211,Bonn Magdalenenplatz,50.726251,7.074361,0
+1212,Bonn Pastoratsgasse,50.725425,7.070348,0
+1213,Bonn Von-Hymmen-Platz,50.723469,7.065970,0
+1214,Bonn Erich-Hoffmann-Str.,50.726544,7.067867,0
+1217,Bonn Coburger Str.,50.717061,7.115781,0
+1218,Bonn Oscar-Romero-Allee,50.713108,7.120176,0
+1221,Bonn Kaufmannstr.,50.728270,7.084463,0
+1223,Bonn Beringstr.,50.727030,7.093046,0
+1224,Bonn Am Botanischen Garten,50.724128,7.089962,0
+1231,Bonn Sebastianstr.,50.723790,7.080012,0
+1234,Bonn Am Klostergarten,50.721213,7.072844,0
+1235,Bonn Konradstr.,50.722638,7.077181,0
+1240,Bonn Poppelsdorfer Platz,50.722030,7.088482,0
+1241,Bonn Marienhospital,50.717571,7.091324,0
+1242,Bonn Friedrichsruh,50.715567,7.091278,0
+1243,Bonn Melbbad,50.715871,7.086598,0
+1244,Bonn Am Mühlenberg,50.710948,7.085352,0
+1245,Bonn Clemens-August-Platz,50.719495,7.086484,0
+1252,Bonn Haus der Jugend,50.720391,7.106896,0
+1253,Bonn Eduard-Otto-Str.,50.716713,7.107928,0
+1255,Bonn Graf-Stauffenberg-Str.,50.716562,7.104017,0
+1256,Bonn Gregor-Mendel-Str.,50.716551,7.101312,0
+1260,Bonn Bundeskanzlerplatz,50.719133,7.117176,0
+1261,Bonn Deutsche Welle,50.717712,7.124774,0
+1263,Bonn Post Tower,50.716032,7.128331,0
+1264,Bonn Johanniter-Krankenhaus,50.714404,7.130288,0
+1265,Sankt Augustin Grantham-Allee,50.780676,7.185469,0
+1268,Bonn Rheinaue,50.712156,7.139522,0
+1270,Bonn Pützstr.,50.712689,7.108598,0
+1271,Bonn Wasserland,50.708344,7.116353,0
+1272,Bonn Wichernstr.,50.712817,7.112990,0
+1273,Bonn Bergstr.,50.709750,7.109378,0
+1274,Bonn Markusplatz,50.716172,7.110946,0
+1280,Bonn Loki-Schmidt-Platz,50.707132,7.109684,0
+1281,Bonn In der Raste,50.707919,7.123237,0
+1282,Bonn Servatiusstr.,50.705355,7.118688,0
+1283,Bonn Südfriedhof,50.702859,7.122125,0
+1284,Bonn Droste-Hülshoff-Str.,50.701721,7.117965,0
+1285,Bonn Stephanstr.,50.703818,7.114943,0
+1286,Bonn Quirinusplatz,50.704775,7.111710,0
+1290,Bonn Casselsruhe,50.705621,7.098309,0
+1291,Bonn Uniklinikum Nord,50.702781,7.100125,0
+1292,Bonn Kiefernweg,50.700736,7.100658,0
+1293,Bonn Uniklinikum Süd,50.697212,7.104383,0
+1294,Bonn Don-Bosco-Str.,50.699828,7.099618,0
+1295,Bonn Jugendherberge,50.698947,7.093029,0
+1296,Bonn Sertürnerstr.,50.703123,7.097260,0
+1297,Bonn Haus Venusberg,50.700483,7.094112,0
+1301,Bonn Kreuzberg,50.708094,7.082907,0
+1302,Bonn Ippendorfer Allee,50.703930,7.082103,0
+1303,Bonn Alte Schule,50.699823,7.080013,0
+1304,Bonn Buchholzstr.,50.697349,7.080183,0
+1305,Bonn Gierolstr.,50.694075,7.084325,0
+1306,Bonn Saalestr.,50.694367,7.089597,0
+1307,Bonn Waldau,50.691077,7.094389,0
+1308,Bonn Ippendorf Altenheim,50.688030,7.085714,0
+1309,Bonn Haager Weg,50.691345,7.084970,0
+1310,Bonn Mühlenhof,50.715140,7.071374,0
+1311,Bonn Lengsdorf Vereinshaus,50.713065,7.071270,0
+1312,Bonn Lengsdorf Kirche,50.710341,7.068348,0
+1313,Bonn Lengsdorf Friedhof,50.706889,7.068269,0
+1314,Bonn Provinzialstr.,50.710082,7.067096,0
+1315,Bonn In der Grächt,50.710879,7.064552,0
+1317,Bonn Lengsdorf Bach,50.717953,7.071537,0
+1318,Bonn An der Ziegelei,50.708214,7.064944,0
+1320,Bonn Rochusstr./Bundesministerien,50.720020,7.058769,0
+1321,Bonn Im Feldpütz,50.717934,7.062715,0
+1322,Bonn Kollegienweg,50.720069,7.064264,0
+1323,Bonn Carl-Schurz-Str.,50.714621,7.058364,0
+1330,Bonn Gielsdorfer Str.,50.728060,7.044447,0
+1331,Bonn Ermlandstr.,50.725080,7.042936,0
+1332,Bonn Lessenich Kapelle,50.722937,7.040283,0
+1333,Bonn Roncallistr.,50.722075,7.044229,0
+1334,Bonn Alter Heerweg,50.719843,7.042494,0
+1335,Bonn Malgisostr.,50.722637,7.047697,0
+1336,Bonn Martin-Legros-Str.,50.731344,7.046205,0
+1337,Bonn Bonner Logsweg,50.723194,7.045797,0
+1338,Bonn Lessenich Sportplatz,50.723848,7.050953,0
+1340,Bonn Rene-Schickele-Str.,50.714860,7.038744,0
+1341,Bonn Duisdorf Bf,50.716472,7.042547,0
+1342,Bonn Rathaus Hardtberg,50.716440,7.051042,0
+1344,Bonn Am Schickshof,50.715319,7.045778,0
+1345,Bonn Duisdorf Altenheim,50.710726,7.042646,0
+1346,Bonn Duisdorf Bahnübergang,50.715289,7.035002,0
+1350,Bonn Medinghoven TÜV,50.712260,7.030956,0
+1351,Bonn Briandstr.,50.710959,7.030687,0
+1352,Bonn Medinghoven Mitte,50.710546,7.035633,0
+1353,Bonn Medinghoven Burg,50.711785,7.035845,0
+1354,Bonn Wesselheideweg,50.711357,7.039488,0
+1355,Bonn Kannheideweg,50.706583,7.038561,0
+1356,Bonn Derlestr.,50.710112,7.040990,0
+1357,Bonn Hardtberg Klinikum,50.706552,7.033903,0
+1360,Bonn Edith-Stein-Anlage,50.712004,7.054468,0
+1361,Bonn Auf dem Kirchbüchel,50.707193,7.057630,0
+1362,Bonn Hardthöhe/Nordwache,50.706072,7.047398,0
+1363,Bonn Goerdelerstr.,50.710960,7.051627,0
+1364,Bonn Agentur für Arbeit,50.712326,7.057703,0
+1365,Bonn Ossietzkystr.,50.707476,7.048194,0
+1370,Bonn Hardtbergbad,50.706295,7.045548,0
+1371,Bonn Hardtberg Schulzentrum,50.703719,7.055160,0
+1372,Bonn Riemannstr.,50.700339,7.053102,0
+1374,Bonn Hardthöhe/Südwache,50.695824,7.041338,0
+1375,Bonn Reaumurstr.,50.697307,7.049397,0
+1380,Bonn Reichsstr.,50.694510,7.071257,0
+1381,Bonn Ückesdorf Gymnasium,50.693419,7.069704,0
+1382,Bonn Ückesdorf Mitte,50.692079,7.064833,0
+1383,Bonn Kurfürstenplatz,50.681406,7.073845,0
+1384,Bonn Schloßplatz,50.678071,7.070883,0
+1385,Bonn Merler Allee,50.673935,7.067139,0
+1386,Bonn Röttgen Schleife,50.672232,7.065530,0
+1390,Alfter Nettekoven,50.705491,7.020686,0
+1394,Alfter Ginggasse,50.717261,7.023519,0
+1395,Alfter Unterdorf,50.712633,7.019142,0
+1396,Alfter Kirchgasse,50.726483,7.023663,0
+1400,Bonn Margarethenplatz,50.764236,7.075869,0
+1401,Bonn Brungsgasse,50.763380,7.078032,0
+1403,Bonn Bernhardkirche,50.759260,7.068541,0
+1404,Bonn Friedrich-Wöhler-Str.,50.748620,7.072096,0
+1405,Bonn Nordfriedhof,50.753308,7.072614,0
+1406,Bonn Kopenhagener Str.,50.757745,7.071015,0
+1407,Bonn Allensteiner Str.,50.757655,7.065202,0
+1409,Bonn Tilsiter Str.,50.759282,7.073077,0
+1411,Bonn Hoogland,50.761177,7.057444,0
+1413,Bonn Friedlandstr.,50.760944,7.051430,0
+1414,Bonn Dellweg,50.758385,7.053087,0
+1415,Bonn Mondorfer Fähre,50.767702,7.068535,0
+1420,Bornheim Moselstr.,50.771218,7.043580,0
+1421,Bornheim Hersel Grundschule,50.772320,7.046042,0
+1422,Bornheim Grüner Weg,50.766549,7.051910,0
+1423,Bornheim Vorgebirgsstr.,50.768481,7.047077,0
+1430,Bonn Stolpstr.,50.748550,7.053107,0
+1431,Bonn Schneidemühler Str.,50.747455,7.060904,0
+1432,Bonn Magdeburger Str.,50.746831,7.066189,0
+1433,Bonn Paulusplatz,50.745703,7.065753,0
+1434,Bonn Berta-Lungstras-Str.,50.742229,7.068139,0
+1441,Bonn Chemnitzer Weg,50.749110,7.048855,0
+1442,Bonn Riesengebirgsstr.,50.746627,7.051066,0
+1443,Bonn Schlesienstr.,50.745022,7.050676,0
+1444,Bonn Tannenbusch West,50.746269,7.043889,0
+1445,Bonn Gustav-Heinemann-Haus,50.753163,7.041987,0
+1446,Bonn Waldenburger Ring,50.748476,7.042393,0
+1447,Bonn Hirschberger Str.,50.749881,7.040030,0
+1448,Bonn Nietzschestr.,50.659965,7.156516,0
+1453,Bonn Hans-Sachs-Str.,50.735652,7.058881,0
+1454,Bonn An der Dransdorfer Burg,50.735905,7.051818,0
+1455,Bonn Messdorfer Str.,50.734613,7.047553,0
+1456,Bonn Dransdorf Kirche,50.735930,7.049056,0
+1458,Bonn Grootestr.,50.738938,7.047409,0
+1459,Bonn Schedestr.,50.721917,7.110883,0
+1461,Alfter Prinzgasse,50.730484,7.017391,0
+1462,Alfter Landgraben,50.736335,7.014430,0
+1463,Alfter Stühleshof,50.737765,7.013370,0
+1467,Bonn Im Wingert,50.718347,7.086231,0
+1468,Bonn Georg-von-Boeselager-Str.,50.751100,7.069248,0
+1500,Bonn Konrad-Adenauer-Platz,50.739231,7.117442,0
+1501,Bonn Beuel Rathaus,50.739373,7.120462,0
+1502,Bonn Beueler Bahnhofsplatz,50.740926,7.125373,0
+1503,Bonn Obere Wilhelmstr.,50.739895,7.125093,0
+1504,Bonn Beuel Bf,50.738477,7.127652,0
+1505,Bonn Ringstr.,50.731591,7.120178,0
+1506,Bonn Beuel Krankenhaus,50.736636,7.117181,0
+1507,Bonn Goetheallee,50.737124,7.120650,0
+1509,Bonn Rudolf-Hahn-Str.,50.731480,7.124212,0
+1510,Bonn Schwarzrheindorf Kirche,50.751187,7.117528,0
+1511,Bonn Am Ledenhof,50.751851,7.123269,0
+1512,Bonn Adelheidisstr.,50.747087,7.125053,0
+1513,Bonn Rheindorfer Str.,50.743243,7.117211,0
+1514,Bonn Schwarzrheindorf Schule,50.748079,7.117284,0
+1519,Bonn Ahrstr./Deutsches Museum Bonn,50.700957,7.149385,0
+1520,Bonn Geislar Kloster,50.762697,7.127384,0
+1521,Bonn Vilich-Müldorf,50.754149,7.146692,0
+1522,Bonn Vilich,50.750903,7.129297,0
+1523,Bonn Vilich Kloster,50.752221,7.126863,0
+1524,Bonn Hammstr.,50.757427,7.128618,0
+1525,Bonn Geislar Mitte,50.761516,7.125896,0
+1528,Bonn Rilkestr.,50.733360,7.124143,0
+1529,Bonn Augustusring,50.746680,7.096082,0
+1530,Bonn Ernst-Moritz-Arndt-Str.,50.728459,7.123290,0
+1531,Bonn Kardinal-Frings-Gymnasium,50.726522,7.126586,0
+1532,Bonn Kreuzherrenstr.,50.726536,7.130722,0
+1533,Bonn Rhenusallee,50.724712,7.135210,0
+1534,Bonn Telekom Campus,50.722465,7.143454,0
+1535,Bonn Eichendorffstr.,50.728081,7.128082,0
+1540,Bonn Pantheon Beuel,50.740942,7.131111,0
+1542,Bonn Maarstr.,50.737018,7.139913,0
+1543,Bonn Röhfeldstr.,50.742381,7.135708,0
+1544,Bonn Oberkasseler Str.,50.728702,7.166353,0
+1548,Bonn Am Waldrand,50.734313,7.175983,0
+1549,Bonn Oberholtorf,50.725450,7.188323,0
+1550,Bonn Pützchen Kloster,50.742595,7.146934,0
+1551,Bonn Im Thelenpfand,50.740962,7.147517,0
+1552,Bonn Pützchen Kirche,50.743283,7.150946,0
+1553,Bonn Pützchen Schule,50.744842,7.154257,0
+1554,Bonn Bechlinghoven,50.746545,7.157445,0
+1555,Bonn Bleibtreustr.,50.734062,7.180396,0
+1556,Bonn Niederholtorf Mitte,50.733044,7.184110,0
+1557,Bonn Niederholtorf Kirche,50.730828,7.185499,0
+1558,Bonn Ungarten,50.728682,7.192258,0
+1559,Bonn Ettenhausen,50.730703,7.195907,0
+1560,Bonn Finkenweg,50.749742,7.165898,0
+1561,Bonn Hangelarer Str.,50.750948,7.171993,0
+1562,Bonn Kohlkauler Platz,50.750074,7.174904,0
+1563,Bonn Am Tanzberg,50.747895,7.179710,0
+1564,Bonn Heidebergen,50.746927,7.184701,0
+1565,Bonn Heideweg/Holzlarer Mühle,50.743439,7.177628,0
+1566,Bonn Paul-Langen-Str.,50.745160,7.173690,0
+1567,Bonn Am Weinstock,50.744341,7.171077,0
+1568,Bonn Am Rehsprung,50.745197,7.167358,0
+1570,Bonn Roleber Sportplatz,50.743501,7.188384,0
+1571,Bonn Kleinfeldstr.,50.744612,7.201914,0
+1572,Bonn Hoholz Mitte,50.741195,7.201090,0
+1573,Bonn Pützhecke,50.738386,7.199800,0
+1574,Bonn Gielgen,50.739485,7.196017,0
+1575,Bonn Roleber Kreuzung,50.740404,7.191422,0
+1576,Sankt Augustin Schloss Birlinghoven,50.748400,7.199801,0
+1580,Bonn Broichstr.,50.734970,7.142498,0
+1581,Bonn Forstweg,50.733303,7.145630,0
+1582,Bonn Küdinghoven Kirche,50.730342,7.148731,0
+1583,Bonn Samansstr.,50.725953,7.150790,0
+1584,Bonn Ramersdorf,50.722377,7.155135,0
+1585,Bonn Küdinghoven,50.727604,7.141908,0
+1586,Bonn Limperich,50.729027,7.136164,0
+1587,Bonn Mehlemstr.,50.723970,7.153079,0
+1591,Bonn Oberkassel Nord,50.716269,7.165435,0
+1592,Bonn Oberkassel Mitte,50.712837,7.170645,0
+1593,Bonn Oberkassel Süd/Römlinghoven,50.710151,7.174033,0
+1601,Bonn Moltkestr.,50.685444,7.156364,0
+1603,Bonn Bad Godesberg Bf / Löbestr.,50.682736,7.157444,0
+1604,Bonn Am Kurpark,50.683285,7.155575,0
+1605,Bonn Brunnenallee,50.681987,7.152289,0
+1607,Bonn Koblenzer Str.,50.684616,7.154632,0
+1610,Bonn Weststr.,50.690644,7.141350,0
+1611,Bonn Elsässer Str.,50.689877,7.145279,0
+1620,Bonn Max-Bruch-Str.,50.725815,7.078685,0
+1621,Bonn Herz-Jesu-Kirche,50.688990,7.159508,0
+1622,Bonn Königsplatz,50.687076,7.158541,0
+1625,Bonn Bonner Str.,50.687646,7.151904,0
+1631,Bonn Annaberger Str.,50.699401,7.127407,0
+1632,Bonn Klufterplatz,50.697384,7.126793,0
+1633,Bonn Bernkasteler Str.,50.695481,7.132111,0
+1634,Bonn Ürziger Str.,50.695748,7.136095,0
+1635,Bonn Hochkreuzallee,50.693518,7.135192,0
+1636,Bonn Turmhaus,50.695291,7.122950,0
+1637,Bonn Schwalbengarten,50.698476,7.121738,0
+1638,Bonn Am Weckhasen,50.700986,7.125266,0
+1640,Bonn Kennedyallee,50.702413,7.152224,0
+1641,Bonn Danziger Str./Deutsches Museum Bonn,50.699408,7.156085,0
+1642,Bonn Saarstr.,50.697474,7.158854,0
+1643,Bonn Gotenstr.,50.695611,7.151816,0
+1646,Bonn Deutsche Forschungsgemeinschaft,50.699063,7.146381,0
+1648,Bonn Martin-Luther-Allee,50.696101,7.138623,0
+1650,Bonn Rheinaue Hauptzugang,50.706719,7.144869,0
+1651,Bonn Brandenburger Str.,50.701402,7.143493,0
+1653,Bonn Langer Grabenweg,50.703892,7.139817,0
+1655,Bonn Robert-Schuman-Platz,50.706475,7.137671,0
+1660,Bonn Steubenring,50.703443,7.157062,0
+1661,Bonn Kanalstr.,50.702129,7.162692,0
+1662,Bonn Steinhaus,50.698689,7.165919,0
+1663,Bonn Steinstr.,50.697716,7.163446,0
+1664,Bonn Am Büchel,50.696776,7.164838,0
+1665,Bonn Mittelstr.,50.696308,7.159533,0
+1670,Bonn Plittersdorf Mitte,50.695433,7.161578,0
+1671,Bonn Denglerstr.,50.691878,7.164717,0
+1673,Bonn Viktoriaplatz,50.692539,7.157982,0
+1680,Bonn Stadtwald/Ev. Krankenhaus,50.682936,7.126942,0
+1681,Bonn Viktorshöhe,50.684277,7.133342,0
+1682,Bonn Venner Str.,50.682703,7.138893,0
+1683,Bonn Wichterichstr.,50.685368,7.143981,0
+1684,Bonn Schloß Rheinblick,50.683790,7.144508,0
+1685,Bonn Quellenstr.,50.680181,7.145878,0
+1686,Bonn Waldburgstr.,50.680833,7.141720,0
+1687,Bonn Waldstr.,50.682045,7.137236,0
+1702,Bonn Rigalsche Wiese,50.679071,7.156307,0
+1703,Bonn Rheinschule,50.733768,7.067351,0
+1705,Bonn Aloisiuskolleg,50.679495,7.150629,0
+1706,Bonn Petersbergstr.,50.674329,7.145778,0
+1707,Bonn Marienforster Steinweg,50.672301,7.144483,0
+1710,Bonn Kronprinzenstr.,50.687185,7.162110,0
+1711,Bonn Otto-Kühne-Schule,50.689099,7.166644,0
+1713,Bonn Römerplatz,50.683764,7.169737,0
+1714,Bonn Gutenbergallee,50.679523,7.173070,0
+1715,Bonn Tannenallee/KfW Bankengruppe,50.674637,7.177136,0
+1719,Bonn Erlöserkirche,50.684981,7.163994,0
+1720,Bonn Heiderhofring,50.666223,7.152766,0
+1721,Bonn Akazienweg,50.663805,7.155535,0
+1722,Bonn Kastanienweg,50.658977,7.152857,0
+1723,Bonn Pappelweg,50.657277,7.148403,0
+1729,Bonn Wendelstadtallee,50.677058,7.175060,0
+1730,Bonn Hopmannstr.,50.673287,7.156589,0
+1731,Bonn Miramonti,50.673563,7.162368,0
+1732,Bonn Albertus-Magnus-Str.,50.670971,7.164426,0
+1735,Bonn Im Apfelgarten,50.668548,7.166657,0
+1737,Bonn Muffendorf Kirche,50.670174,7.158733,0
+1738,Bonn Klosterbergstr.,50.671143,7.154344,0
+1740,Bonn Theodor-Heuss-Str.,50.679294,7.160062,0
+1741,Bonn Hans-Böckler-Allee,50.677297,7.163790,0
+1743,Bonn Johanneskirche,50.674431,7.167227,0
+1744,Bonn Konrad-Adenauer-Gymnasium,50.671130,7.170031,0
+1745,Bonn Kortrijker Str.,50.670886,7.172855,0
+1746,Bonn Kommende,50.670361,7.160704,0
+1749,Bonn Hagenstr.,50.656427,7.187414,0
+1750,Bonn Lannesdorf Mitte,50.665045,7.170913,0
+1751,Bonn Ellesdorfer Str.,50.665869,7.174738,0
+1753,Bonn Mehlem Friedhof,50.662635,7.185194,0
+1754,Bonn Mehlem Kapelle,50.657918,7.186688,0
+1755,Bonn Im Rosenberg,50.650510,7.197290,0
+1756,Bonn Giselherstr.,50.656245,7.192076,0
+1757,Bonn Langenbergsweg,50.660036,7.183460,0
+1758,Bonn Antoniterstr.,50.663244,7.178308,0
+1759,Bonn Etzelstr.,50.653460,7.193575,0
+1760,Bonn Deichmanns Aue,50.671041,7.179818,0
+1762,Bonn Mehlem Bf,50.669156,7.181327,0
+1763,Bonn Mehlem Fähre,50.670026,7.185918,0
+1764,Bonn Brunhildstr.,50.666862,7.186744,0
+1765,Bonn Dreholzstr.,50.663051,7.190240,0
+1766,Bonn Haus Steinbach,50.668715,7.186607,0
+1767,Bonn Mehlem Ort,50.660004,7.192779,0
+1769,Bonn Gunterstr.,50.657784,7.194477,0
+1770,Königswinter Oberdollendorf Nord,50.702082,7.179876,0
+1774,Königswinter Oberdollendorf,50.695811,7.184799,0
+1776,Königswinter Denkmal,50.668605,7.196534,0
+1777,Königswinter Longenburg,50.684921,7.186902,0
+1778,Königswinter Clemens-August-Str.,50.676896,7.189275,0
+1779,Königswinter Fähre,50.672890,7.192470,0
+1781,Bad Honnef Rhöndorf Bf,50.657874,7.210205,0
+1788,Bad Honnef (Stadtbahn),50.643812,7.217210,0
+1800,Sankt Augustin Hangelar West,50.757935,7.158321,0
+1801,Sankt Augustin Hangelar Mitte,50.760408,7.166333,0
+1802,Sankt Augustin Hangelar Ost,50.763387,7.171368,0
+1803,Sankt Augustin Ort,50.770343,7.180530,0
+1805,Sankt Augustin Kloster,50.773554,7.184751,0
+1806,Sankt Augustin Zentrum,50.776998,7.188255,0
+1807,Sankt Augustin-Mülldorf,50.784506,7.193337,0
+1808,Sankt Augustin Fährstr.,50.784619,7.188391,0
+1809,Sankt Augustin Nobelstr.,50.780599,7.157350,0
+1811,Siegburg Bf,50.793908,7.203023,0
+1812,Siegburg Zange,50.790589,7.202342,0
+1818,Sankt Augustin Menden Haas,50.788036,7.172382,0
+1820,Sankt Augustin Meindorf Kirche,50.775903,7.137598,0
+1821,Sankt Augustin Meindorf Schule,50.777989,7.140328,0
+1822,Sankt Augustin Meindorf Siedlung,50.778672,7.144031,0
+1823,Sankt Augustin Menden Bf,50.779921,7.149535,0
+1824,Sankt Augustin Mittelstr.,50.784332,7.160690,0
+1825,Sankt Augustin Ernststr.,50.784900,7.155131,0
+1826,Sankt Augustin Kirchstr.,50.789003,7.156522,0
+1827,Sankt Augustin Menden Post,50.789991,7.162078,0
+1828,Sankt Augustin Menden Markt,50.788976,7.165527,0
+1829,Sankt Augustin Obermenden,50.787145,7.180500,0
+1949,Bonn Robert-Havemann-Str.,50.734195,7.068848,0
+1951,Bonn Waldschule,50.699557,7.097941,0
+1957,Bonn Hobsweg,50.683341,7.075602,0
+1958,Bonn An der Wolfsburg,50.745479,7.116499,0
+1976,Bonn Helmholtzstr. Süd,50.718460,7.055335,0
+1984,Bonn Chemische Institute,50.734312,7.072704,0
+1985,Sankt Augustin Rathausallee,50.777468,7.185289,0
+2279,Sankt Augustin Im Erlengrund,50.753899,7.179847,0
+2300,Sankt Augustin Eifelstr.,50.757105,7.172133,0
+2304,Bonn Alte Schulstr.,50.750453,7.153177,0
+2305,Bonn Friedenstr.,50.748011,7.150141,0
+2306,Bonn Schevastesstr.,50.743131,7.136208,0
+2307,Bonn Holtorfer Str.,50.741495,7.150916,0
+2308,Bonn Am Weidenbach,50.738566,7.159812,0
+2309,Bonn Forsthaus Hardt,50.735622,7.169259,0
+2310,Bonn Zur Autobahn,50.745720,7.143553,0
+2313,Bonn Ennertstr.,50.750656,7.168004,0
+2341,Sankt Augustin Hangelar B56,50.757691,7.170220,0
+2513,Bonn Fahrenheitstr.,50.696852,7.057992,0
+2514,Bonn Heinkelstr.,50.694267,7.052598,0
+2516,Bonn Im Erlenbusch,50.689849,7.085303,0
+2517,Bonn Goldbergweg,50.671354,7.152128,0
+2518,Bonn Muffendorfer Str.,50.674884,7.156034,0
+2519,Bonn Wasserturmstr.,50.698318,7.083347,0
+2520,Bonn Uniklinikum Hauptpforte,50.700029,7.103175,0
+2523,Bonn Gerhard-Domagk-Str.,50.735186,7.071534,0
+2524,Bonn Vaclav-Havel-Platz,50.737406,7.069601,0
+2525,Bonn Frongasse,50.727518,7.074432,0
+2526,Bonn Heilsbachstr.,50.712486,7.043874,0
+2527,Bonn Duisdorf Neuer Friedhof,50.718718,7.042667,0
+2528,Bonn Hallestr.,50.701150,7.059872,0
+2529,Bonn Borsigallee,50.699662,7.057418,0
+2530,Bonn Weierbornstr.,50.709860,7.049974,0
+2531,Bonn Graurheindorf Friedhof,50.762997,7.074763,0
+2532,Bonn Graurheindorf Sportplatz,50.761551,7.075623,0
+2533,Bonn Posener Weg,50.749024,7.051446,0
+2534,Bonn Peter-Klein-Str.,50.754775,7.054721,0
+2535,Bonn Im Bonnet,50.749137,7.157154,0
+2536,Bonn Im Uckerfeld,50.701230,7.083358,0
+2537,Sankt Augustin Otto-von-Guericke-Str.,50.788423,7.177639,0
+2538,Sankt Augustin Einsteinstr.,50.791208,7.180503,0
+2542,Bonn An der Nesselburg,50.661823,7.180987,0
+2553,Bonn Friedhof Om Berg,50.737450,7.197198,0
+2554,Bonn Lärchenstr.,50.760975,7.054945,0
+2555,Bonn Vilich-Müldorf Kirche,50.755966,7.145660,0
+2576,Bonn An den Markthallen,50.739849,7.085368,0
+2652,Sankt Augustin Meindorf Wasserwerke,50.772700,7.133210,0
+2667,Bonn Brüdergasse/Bertha-von-Suttner-Platz,50.736768,7.104223,0
+2673,Bonn Loeschckestr.,50.711257,7.113576,0
+2724,Bonn Geschwister-Scholl-Str.,50.709650,7.054373,0
+2727,Bonn Elisabeth-Selbert-Gesamtschule,50.696328,7.146583,0
+2733,Bonn Hohenzollernstr.,50.693133,7.152435,0
+2735,Bornheim Siemenacker,50.766967,7.043442,0
+2737,Bad Honnef Am Spitzenbach,50.648826,7.214908,0
+2738,Bonn Hedwigschule,50.751193,7.077752,0
+2742,Bonn Katzenloch,50.694756,7.078722,0
+2749,Bonn Kirschallee,50.720805,7.091598,0
+2758,Bonn Zietenstr.,50.694318,7.155366,0
+2802,Bonn Röhfeldstr. Ost,50.742424,7.139619,0
+2810,Bonn Beuel Hallenbad,50.737572,7.123593,0
+2869,Alfter Hüffelweg,50.740127,7.016722,0
+4565,Sankt Augustin Rechenzentrum,50.788767,7.183660,0
+5149,Bonn Albert-Schweitzer-Str.,50.722897,7.081280,0
+5536,Bonn Straßburger Weg,50.717052,7.115753,0
+5567,Bonn MVA Bonn,50.732983,7.077405,0
+5568,Bonn Carl-Troll-Str.,50.722342,7.084921,0
+5569,Bonn Potsdamer Platz,50.742800,7.080251,0
+5570,Bonn Immenburgstr.,50.734237,7.079841,0
+6580,Alfter Stadtbahn (Bus),50.743072,7.017069,0
+6992,Bonn Sachsenweg,50.741392,7.086679,0
+6994,Bonn Heinrich-Lützeler-Str.,50.717639,7.096523,0
+7131,Bonn Königswinterer Str.,50.736761,7.130330,0
+7184,Bonn Bad Godesberg Bf / Rheinallee,50.685113,7.158040,0
+7213,Alfter Im Benden,50.746291,7.022168,0
+7409,Bonn Betriebshof Beuel,50.734185,7.129858,0
+7725,Bonn Maria-Montessori-Allee,50.745117,7.140861,0
+7728,Bonn Kolpingstr.,50.736650,7.064810,0
+7729,Bonn Fritz-Erler-Str.,50.715125,7.129187,0
+7784,Bonn Gesamtschule Beuel,50.751242,7.150702,0
+7786,Bonn Basketsring,50.705673,7.057709,0
+7891,Bonn Joseph-Roth-Str.,50.696334,7.133165,0
+7938,Bonn Am Pappelhain,50.746271,7.166875,0
+7946,Bonn Heinrich-Konen-Str.,50.720194,7.156738,0
+7947,Bonn Konrad-Zuse-Platz,50.717808,7.154400,0
+7986,Bonn Im Mohrenfeld,50.709586,7.170338,0
+8006,Bonn Nicolaus-Cusanus-Gymnasium,50.695530,7.154560,0
+8054,Bonn Theresienau,50.707221,7.173082,0
+8087,Bonn Grüner Weg,50.704851,7.176307,0
+8181,Bonn Adelheidisschule,50.754198,7.127789,0
+8437,Bonn An der Josefshöhe,50.753025,7.080841,0
+8438,Bonn Insterburger Str.,50.755800,7.068462,0
+8439,Bonn Kantstr.,50.662036,7.161644,0
+8471,Bonn Limperich Nord,50.730433,7.132076,0
+8506,Bonn Werftstr.,50.757036,7.088374,0
+8507,Bonn Auerberger Mitte,50.755211,7.076838,0
+8541,Sankt Augustin Europaring,50.783137,7.185688,0
+8544,Sankt Augustin Boschstr.,50.787551,7.160613,0
+8545,Bonn Bonner Bogen,50.720629,7.151934,0
+8578,Bonn Rheinaue Parkrestaurant,50.709307,7.140359,0
+8579,Bonn Rheinaue Süd,50.704221,7.149380,0
+8607,Bonn Heinrich-Brüning-Str.,50.716568,7.126842,0
+8609,Alfter Kramersbruch,50.714642,7.020729,0
+8629,Bonn Winterstr.,50.683616,7.146655,0
+8630,Bonn Deutschherrenstr.,50.676355,7.159084,0
+8631,Bonn Im großen Garten,50.760212,7.055835,0
+8634,Bonn Gemeinnützige Werkstatt,50.738875,7.142182,0
+8635,Bonn Doktor-Weis-Platz,50.740222,7.123798,0
+8809,Alfter Wegscheid,50.720120,7.026470,0
+8811,Bonn Köslinstr.,50.714246,7.054079,0
+8812,Bonn Henri-Spaak-Str.,50.712090,7.029806,0
+8813,Bonn Kranenweg,50.760704,7.084476,0
+8814,Bonn Graurheindorf Hafen/BWI,50.758989,7.086222,0
+8815,Bonn Röttgen Abzw.,50.686608,7.077176,0
+8816,Bornheim Clarenweg,50.768682,7.049718,0
+8832,Bonn Endenich Nord Bf,50.735586,7.062208,0
+8841,Bonn Auf dem Hügel,50.728164,7.073555,0
+8842,Alfter Am Wurmerich,50.728305,7.020870,0
+8941,Bonn Im Bendel,50.691793,7.137896,0
+8950,Bonn Schießbergweg,50.725761,7.146509,0
+8984,Bonn Gaußstr.,50.702249,7.052635,0
+9038,Bonn Euskirchener Str.,50.722733,7.062909,0
+9039,Bonn Hans-Herter-Str.,50.755857,7.059280,0
+9069,Bonn Nussallee,50.726856,7.088623,0
+9073,Bonn Gewerbepark Buschdorf,50.753793,7.056867,0
+9081,Bonn Herz-Jesu-Hof,50.727508,7.105265,0
+9161,Bonn Hermannstr./Konrad-Adenauer-Platz,50.737927,7.116546,0
+9211,Sankt Augustin Im Rebhuhnfeld,50.780714,7.153879,0
+9356,Sankt Augustin Lindenstr.,50.760528,7.174117,0
+9381,Bonn Limpericher Str.,50.734613,7.124712,0
+9477,Bonn Bad Godesberg Bf / Ria-Maternus-Platz,50.683699,7.158302,0
+9478,Bonn Agnetendorfer Str.,50.752990,7.044223,0
+9689,Alfter Impekoven (S),50.711009,7.019829,0
+9701,Bonn Am Ringwall,50.744299,7.053012,0
+9702,Bonn Im Tannenbusch,50.742087,7.062979,0
+9703,Bonn Egerstr.,50.763661,7.055190,0
+9704,Bonn Marie-Curie-Str.,50.695243,7.055918,0
+9705,Bonn Hohenzollernplatz,50.690950,7.155891,0
+9706,Bonn Zeller Str.,50.697166,7.129802,0
+9707,Bonn Oberaustr.,50.656550,7.190344,0
+9708,Bonn Drachenburgstr.,50.667370,7.179203,0
+9710,Bonn Meitnerstr.,50.672877,7.173357,0
+9712,Bonn UN Campus Bf,50.714540,7.118001,0
+9714,Bonn Baunscheidtstr.,50.710070,7.124761,0
+9715,Bonn Heinemannstr.,50.705090,7.141431,0
+9716,Bonn Gerhart-Hauptmann-Str.,50.735969,7.060630,0
+9777,Bonn Kleine Str.,50.741163,7.047926,0
+9778,Bonn Magdalenenstr.,50.727103,7.072652,0
+9779,Bonn Am Dickobskreuz,50.737108,7.072725,0
+9780,Bonn Georg-Elser-Weg,50.756198,7.052400,0

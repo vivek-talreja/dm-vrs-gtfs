@@ -1,0 +1,7 @@
+time_band,band_hours,is_evening,,,,
+00-06,6,FALSE,,,,
+06-09,3,FALSE,,,,
+09-16,7,FALSE,,,,
+16-19,3,FALSE,,,,
+19-22,3,TRUE,,,,
+22,6,TRUE,,,,
